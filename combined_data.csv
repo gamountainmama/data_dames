@@ -1,4 +1,4 @@
-﻿id,Gender,Ethnicity,ELL,SWD,EconomicallyDisadvantaged,SST,Gifted,DaysAbsent,Lexile,ELA 21 Scale Score,ELA 21 Level,ELA 21 Pass,ELA 22 Scale Score,ELA 22 Level,ELA 22 Pass,MATH 21 Scale Score,MATH 21 Level,MATH 21 Pass,MATH 22 Scale Score,MATH 22 Level,MATH 22 Pass,SCIE 22 Scale Score,SCIE 22 Level,SCIE 22 Pass,SOCI 22 Scale Score,SOCI 22 Level,SOCI 22 Pass
+﻿id,Gender,Ethnicity,ELL,SWD,ED,SST,Gifted,Absences,Lexile,ELA 21 Scale Score,ELA 21 Level,ELA 21 Pass,ELA 22 Scale Score,ELA 22 Level,ELA 22 Pass,MATH 21 Scale Score,MATH 21 Level,MATH 21 Pass,MATH 22 Scale Score,MATH 22 Level,MATH 22 Pass,SCIE 22 Scale Score,SCIE 22 Level,SCIE 22 Pass,SOCI 22 Scale Score,SOCI 22 Level,SOCI 22 Pass
 1,FEMALE,"WHITE, NOT OF HISPANIC ORIGIN",N,N,Y,Y,N,2,1155,494,2,1,516,2,1,492,2,1,518,2,1,474,1,0,478,2,1
 2,MALE,"WHITE, NOT OF HISPANIC ORIGIN",N,N,Y,N,N,40,885,443,1,0,453,1,0,494,2,1,500,2,1,497,2,1,487,2,1
 3,FEMALE,"WHITE, NOT OF HISPANIC ORIGIN",N,N,Y,N,N,28,1205,507,2,1,534,3,1,486,2,1,488,2,1,502,2,1,478,2,1
