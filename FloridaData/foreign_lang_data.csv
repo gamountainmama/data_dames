@@ -1,0 +1,859 @@
+StudentID,Course,Grade,Section_Grade,Course_Type
+STU1,Spanish Literature and Culture AP,11,92.81,Foreign Language
+STU10,Spanish IV Honors,11,97.26,Foreign Language
+STU100,Spanish Language and Culture AP,12,93.4,Foreign Language
+STU101,Spanish IV Honors,11,90.07,Foreign Language
+STU102,Spanish Literature and Culture AP,12,94.73,Foreign Language
+STU103,Chinese Language and Culture AP,12,93.21,Foreign Language
+STU104,Latin I Honors,9,99.49,Foreign Language
+STU105,Spanish IV Honors,11,97.93,Foreign Language
+STU106,Latin II Honors,10,91.25,Foreign Language
+STU107,Spanish V Honors,12,88.85,Foreign Language
+STU108,Spanish III Honors,10,95.28,Foreign Language
+STU109,Spanish II Honors,9,94.59,Foreign Language
+STU11,Spanish Language and Culture AP,12,97.3,Foreign Language
+STU110,Spanish II Honors,9,87.72,Foreign Language
+STU111,Spanish IV,11,89.06,Foreign Language
+STU112,French Language and Culture AP,12,91.43,Foreign Language
+STU113,Latin II Honors,10,99.07,Foreign Language
+STU115,Spanish III Honors,10,94.8,Foreign Language
+STU116,Spanish V Honors,12,92.31,Foreign Language
+STU117,Spanish IV Honors,11,97.29,Foreign Language
+STU118,Latin IV Honors,12,81.71,Foreign Language
+STU119,Latin II Honors,10,98.88,Foreign Language
+STU12,Spanish Language and Culture AP,12,95.65,Foreign Language
+STU120,French Language and Culture AP,12,87.32,Foreign Language
+STU121,Spanish Literature and Culture AP,11,82.42,Foreign Language
+STU121,French IV Honors,11,80.24,Foreign Language
+STU122,Spanish IV Honors,11,91.88,Foreign Language
+STU123,Spanish: 20th Century Latin American Literature Post-AP,12,87.04,Foreign Language
+STU124,Spanish III Honors,10,95.74,Foreign Language
+STU125,Spanish IV Honors,11,90.06,Foreign Language
+STU126,Spanish IV,11,89.74,Foreign Language
+STU127,Spanish III,10,89.78,Foreign Language
+STU128,Spanish IV,11,88.94,Foreign Language
+STU129,French IV Honors,11,96.91,Foreign Language
+STU13,Latin AP,12,88.48,Foreign Language
+STU130,Spanish Language and Culture AP,12,97.3,Foreign Language
+STU131,Spanish IV Honors,11,99.12,Foreign Language
+STU133,Chinese Language and Culture AP,12,87.07,Foreign Language
+STU134,Chinese Language and Culture AP,12,87.02,Foreign Language
+STU135,Chinese III,10,90.43,Foreign Language
+STU136,Spanish III Honors,10,93.89,Foreign Language
+STU137,Spanish IV,11,94.99,Foreign Language
+STU138,Latin II Honors,10,99.98,Foreign Language
+STU139,Spanish Language and Culture AP,12,92.5,Foreign Language
+STU14,Spanish III Honors,10,95.84,Foreign Language
+STU140,Spanish III,10,95.14,Foreign Language
+STU141,Spanish V Honors,12,95.21,Foreign Language
+STU142,Spanish V Honors,12,88.59,Foreign Language
+STU143,Spanish V Honors,12,93.52,Foreign Language
+STU144,Spanish II Honors,9,90.73,Foreign Language
+STU145,Spanish Language and Culture AP,12,88.15,Foreign Language
+STU146,Latin II Honors,10,88.75,Foreign Language
+STU147,Spanish Literature and Culture AP,12,90.89,Foreign Language
+STU148,Spanish III Honors,10,84.76,Foreign Language
+STU149,Spanish Literature and Culture AP,12,91.2,Foreign Language
+STU15,Chinese IV Honors,11,97.12,Foreign Language
+STU150,Spanish Language and Culture AP,12,94.76,Foreign Language
+STU151,Spanish Literature and Culture AP,12,88.49,Foreign Language
+STU152,French III Honors,10,91.74,Foreign Language
+STU153,Spanish Literature and Culture AP,12,98.91,Foreign Language
+STU154,Spanish IV Honors,11,96.96,Foreign Language
+STU155,Spanish IV,12,92.33,Foreign Language
+STU156,Chinese II,9,90.78,Foreign Language
+STU157,Spanish Language and Culture AP,12,95.5,Foreign Language
+STU158,Spanish V Honors,12,97.57,Foreign Language
+STU159,Spanish III,10,94.3,Foreign Language
+STU16,Latin AP,12,89.82,Foreign Language
+STU160,Spanish Language and Culture AP,12,94.91,Foreign Language
+STU161,French IV Honors,11,92.8,Foreign Language
+STU162,Chinese Language and Culture AP,12,91.31,Foreign Language
+STU163,Chinese III Honors,10,90.31,Foreign Language
+STU164,Spanish Language and Culture AP,12,91.3,Foreign Language
+STU165,Spanish IV,12,83.59,Foreign Language
+STU166,Spanish II,10,92.64,Foreign Language
+STU167,French IV Honors,11,91.91,Foreign Language
+STU168,Latin III Honors,11,97.17,Foreign Language
+STU169,Latin I Honors,9,98.55,Foreign Language
+STU17,Spanish IV,11,81.1,Foreign Language
+STU170,Latin AP,12,89.34,Foreign Language
+STU171,Chinese Language and Culture AP,12,98.34,Foreign Language
+STU172,Spanish Literature and Culture AP,12,94.8,Foreign Language
+STU173,Spanish V Honors,12,73.61,Foreign Language
+STU174,Spanish IV,12,91.92,Foreign Language
+STU175,Chinese Language and Culture AP,12,90.23,Foreign Language
+STU176,Chinese IV Honors,11,93.52,Foreign Language
+STU177,Chinese III,10,98.02,Foreign Language
+STU178,Spanish Language and Culture AP,12,92.95,Foreign Language
+STU179,Spanish IV Honors,11,92.29,Foreign Language
+STU18,Spanish IV Honors,11,98.43,Foreign Language
+STU180,Latin AP,12,93.23,Foreign Language
+STU181,Spanish Language and Culture AP,12,92.35,Foreign Language
+STU182,Spanish II Honors,9,83.37,Foreign Language
+STU183,Spanish Language and Culture AP,12,97.01,Foreign Language
+STU184,Spanish III Honors,10,97.34,Foreign Language
+STU185,Latin III Honors,11,93.92,Foreign Language
+STU186,Latin IV Honors,12,89.72,Foreign Language
+STU187,Spanish Language and Culture AP (for Heritage Speakers),11,95.27,Foreign Language
+STU188,Spanish IV Honors - Heritage Speakers,9,96.77,Foreign Language
+STU189,Spanish IV,11,86.86,Foreign Language
+STU19,Latin I Honors,9,98.35,Foreign Language
+STU190,Spanish Literature and Culture AP,11,92.17,Foreign Language
+STU191,French IV Honors,11,88.39,Foreign Language
+STU192,Spanish Language and Culture AP,12,93.25,Foreign Language
+STU193,Spanish II,9,96.84,Foreign Language
+STU194,Spanish IV Honors,11,96.74,Foreign Language
+STU195,Spanish IV,11,91.54,Foreign Language
+STU196,Spanish Literature and Culture AP,11,87.74,Foreign Language
+STU196,Chinese IV Honors,11,93.91,Foreign Language
+STU197,Chinese III Honors,9,98.71,Foreign Language
+STU199,Spanish Literature and Culture AP,11,88.68,Foreign Language
+STU2,Spanish IV,11,90.76,Foreign Language
+STU20,Chinese II,9,89.95,Foreign Language
+STU200,Chinese IV Honors,11,93.06,Foreign Language
+STU201,Spanish IV Honors,11,97.69,Foreign Language
+STU202,Spanish Language and Culture AP,12,92.81,Foreign Language
+STU203,French Language and Culture AP,12,89.78,Foreign Language
+STU204,Chinese IV Honors,11,85.29,Foreign Language
+STU205,French IV Honors,11,90.96,Foreign Language
+STU206,Spanish Language and Culture AP,12,92.2,Foreign Language
+STU207,Spanish V Honors,12,86.59,Foreign Language
+STU208,Chinese III Honors,10,97.06,Foreign Language
+STU209,Spanish II Honors,9,90.47,Foreign Language
+STU21,Spanish IV,11,92.74,Foreign Language
+STU210,Spanish IV,11,92.59,Foreign Language
+STU211,Spanish IV Honors,11,97.69,Foreign Language
+STU212,Chinese IV,11,92.03,Foreign Language
+STU213,Spanish IV,12,86.3,Foreign Language
+STU214,French IV Honors,11,82.17,Foreign Language
+STU215,Spanish IV,12,87.22,Foreign Language
+STU216,Spanish III,10,92.63,Foreign Language
+STU217,Spanish IV Honors,11,96.13,Foreign Language
+STU218,Spanish IV,11,93.94,Foreign Language
+STU218,Latin III Honors,11,94.47,Foreign Language
+STU219,Spanish II,9,94.74,Foreign Language
+STU22,Spanish Literature and Culture AP,11,90.37,Foreign Language
+STU220,Spanish IV,11,90.08,Foreign Language
+STU221,Spanish V Honors,12,90.43,Foreign Language
+STU222,Spanish II Honors,9,87.98,Foreign Language
+STU223,Chinese IV Honors,11,95.38,Foreign Language
+STU224,Chinese Language and Culture AP,12,84.1,Foreign Language
+STU225,Spanish IV Honors,11,97.57,Foreign Language
+STU226,Spanish II Honors,9,97.77,Foreign Language
+STU227,Spanish Language and Culture AP,12,94.37,Foreign Language
+STU228,Spanish III Honors,10,92.92,Foreign Language
+STU229,Spanish III,11,89.93,Foreign Language
+STU23,Spanish Language and Culture AP,12,93.78,Foreign Language
+STU230,French IV,11,81.05,Foreign Language
+STU231,Spanish V Honors,12,87.48,Foreign Language
+STU232,Spanish IV,12,84.61,Foreign Language
+STU233,Spanish IV,11,92.55,Foreign Language
+STU234,Latin II Honors,10,95.13,Foreign Language
+STU235,Spanish V Honors,12,90.42,Foreign Language
+STU236,Latin II Honors,10,93.4,Foreign Language
+STU237,Chinese IV Honors,11,94.42,Foreign Language
+STU238,Spanish III,10,93.1,Foreign Language
+STU239,Spanish II Honors,9,81.18,Foreign Language
+STU24,Spanish IV,11,86.46,Foreign Language
+STU240,Chinese IV Honors,11,97.92,Foreign Language
+STU241,Spanish III Honors,10,92.03,Foreign Language
+STU242,Spanish IV,11,86.69,Foreign Language
+STU243,Spanish III Honors,10,91.04,Foreign Language
+STU244,Spanish II,10,86.94,Foreign Language
+STU245,Spanish III Honors,10,85.63,Foreign Language
+STU246,Spanish Language and Culture AP,12,95.13,Foreign Language
+STU247,Latin II Honors,10,95.23,Foreign Language
+STU248,Spanish III Honors,10,91.6,Foreign Language
+STU249,Spanish II Honors,9,97.11,Foreign Language
+STU25,Chinese IV Honors,11,90.34,Foreign Language
+STU250,Spanish III Honors,10,91.6,Foreign Language
+STU251,Spanish IV,11,93.32,Foreign Language
+STU252,Spanish IV,11,89.49,Foreign Language
+STU253,Spanish IV Honors,11,97.94,Foreign Language
+STU254,Spanish III,10,94.65,Foreign Language
+STU255,Spanish IV Honors,11,96.79,Foreign Language
+STU256,Spanish III Honors,10,95.06,Foreign Language
+STU257,Spanish II Honors,9,95.56,Foreign Language
+STU258,Spanish II Honors,9,97.48,Foreign Language
+STU259,Spanish IV,11,90.19,Foreign Language
+STU26,Latin AP,12,91.81,Foreign Language
+STU260,Spanish II Honors,9,93.4,Foreign Language
+STU261,Spanish Literature and Culture AP,11,94.02,Foreign Language
+STU262,Spanish III Honors,10,95.6,Foreign Language
+STU263,French IV,11,83.16,Foreign Language
+STU264,Latin II Honors,10,99.53,Foreign Language
+STU265,Chinese III,10,76.3,Foreign Language
+STU266,Spanish III Honors,10,84.71,Foreign Language
+STU267,Chinese III Honors,10,97.23,Foreign Language
+STU268,Spanish: 20th Century Latin American Literature Post-AP,12,92.75,Foreign Language
+STU269,Spanish III Honors,10,87.41,Foreign Language
+STU27,Spanish III Honors,10,93.86,Foreign Language
+STU270,Spanish IV,11,95.01,Foreign Language
+STU271,Spanish II Honors,9,97.57,Foreign Language
+STU272,Spanish IV,11,87.6,Foreign Language
+STU273,Spanish III Honors,10,93.71,Foreign Language
+STU274,Spanish IV Honors - Heritage Speakers,9,91.37,Foreign Language
+STU275,Spanish IV Honors,11,89.64,Foreign Language
+STU276,Spanish IV,11,93.27,Foreign Language
+STU277,Spanish Language and Culture AP,12,97.53,Foreign Language
+STU278,Spanish II Honors,9,97.42,Foreign Language
+STU279,Spanish IV,11,87.5,Foreign Language
+STU28,French Language and Culture AP,12,88.63,Foreign Language
+STU280,Spanish III Honors,10,94.93,Foreign Language
+STU281,Spanish IV Honors,10,99.01,Foreign Language
+STU282,Spanish IV,11,81.85,Foreign Language
+STU283,Spanish III Honors,10,85.73,Foreign Language
+STU284,Spanish: 20th Century Latin American Literature Post-AP,12,95.17,Foreign Language
+STU285,Spanish III Honors,10,94.41,Foreign Language
+STU286,Spanish Language and Culture AP (for Heritage Speakers),10,95.17,Foreign Language
+STU287,Spanish IV Honors,11,99.35,Foreign Language
+STU288,Spanish III Honors,10,93.95,Foreign Language
+STU289,Spanish II,9,94.96,Foreign Language
+STU29,Spanish Language and Culture AP,12,91,Foreign Language
+STU290,Spanish Language and Culture AP,12,96.1,Foreign Language
+STU291,Spanish IV Honors,11,94.49,Foreign Language
+STU292,Spanish IV,11,90.4,Foreign Language
+STU293,Latin AP,12,95.35,Foreign Language
+STU294,Spanish IV Honors,11,99.07,Foreign Language
+STU295,Spanish II Honors,9,97.39,Foreign Language
+STU296,Spanish III,10,98.01,Foreign Language
+STU297,Spanish III Honors,10,93.35,Foreign Language
+STU298,Spanish IV Honors - Heritage Speakers,9,95.02,Foreign Language
+STU299,Spanish III Honors,10,90,Foreign Language
+STU3,Spanish IV Honors,11,99.35,Foreign Language
+STU30,Spanish: 20th Century Latin American Literature Post-AP,12,96.88,Foreign Language
+STU300,French III,10,79.28,Foreign Language
+STU301,Chinese III Honors,10,93.09,Foreign Language
+STU302,French III Honors,10,87.77,Foreign Language
+STU303,Chinese III,10,89.58,Foreign Language
+STU304,Spanish III Honors,10,85.33,Foreign Language
+STU305,Spanish IV Honors,11,90.8,Foreign Language
+STU306,Spanish Language and Culture AP (for Heritage Speakers),10,86.88,Foreign Language
+STU307,Spanish III Honors,10,96.02,Foreign Language
+STU308,Spanish IV Honors - Heritage Speakers,9,99.42,Foreign Language
+STU309,Spanish III Honors,10,94.01,Foreign Language
+STU310,French Language and Culture AP,12,80.98,Foreign Language
+STU311,Spanish IV Honors,10,99.07,Foreign Language
+STU312,French IV Honors,11,95.09,Foreign Language
+STU313,Latin III Honors,11,94.32,Foreign Language
+STU314,Spanish II Honors,9,90.99,Foreign Language
+STU315,Spanish II Honors,9,93.6,Foreign Language
+STU316,Spanish III,10,86.6,Foreign Language
+STU317,Spanish IV Honors,10,97.61,Foreign Language
+STU318,Spanish III,10,90.83,Foreign Language
+STU319,Spanish IV Honors - Heritage Speakers,9,96.41,Foreign Language
+STU32,Spanish IV Honors,11,97.99,Foreign Language
+STU320,Spanish II,9,94.58,Foreign Language
+STU321,Spanish II Honors,9,95.33,Foreign Language
+STU322,Chinese II,9,86,Foreign Language
+STU323,Spanish III Honors,10,86.33,Foreign Language
+STU324,Spanish II,9,92.63,Foreign Language
+STU325,Spanish III Honors,10,90.26,Foreign Language
+STU326,French III Honors,10,85.56,Foreign Language
+STU327,Spanish III Honors,10,93.45,Foreign Language
+STU328,Spanish III,10,94.19,Foreign Language
+STU329,Latin I Honors,9,91.3,Foreign Language
+STU33,Spanish III Honors,10,95.11,Foreign Language
+STU330,Spanish IV Honors - Heritage Speakers,9,95.53,Foreign Language
+STU331,Spanish Literature and Culture AP,11,90.82,Foreign Language
+STU331,Chinese IV Honors,11,97.16,Foreign Language
+STU332,Latin I Honors,9,83.7,Foreign Language
+STU333,Spanish III,10,82.84,Foreign Language
+STU334,Chinese II,9,92.46,Foreign Language
+STU335,Chinese Language and Culture AP,12,90.32,Foreign Language
+STU336,Spanish IV Honors,11,98.8,Foreign Language
+STU337,Spanish II,9,96.78,Foreign Language
+STU338,Spanish III Honors,10,94.74,Foreign Language
+STU339,Latin I Honors,9,96.3,Foreign Language
+STU34,Spanish Language and Culture AP,12,94.9,Foreign Language
+STU340,Spanish V Honors,12,92.34,Foreign Language
+STU341,French III Honors,10,84.74,Foreign Language
+STU342,Spanish IV,11,87.95,Foreign Language
+STU343,Chinese IV Honors,11,88.2,Foreign Language
+STU344,Spanish IV,11,92.25,Foreign Language
+STU345,Spanish Language and Culture AP,12,94.75,Foreign Language
+STU346,French II,9,84.79,Foreign Language
+STU347,Chinese Language and Culture AP,12,91.24,Foreign Language
+STU348,Spanish II Honors,9,90.58,Foreign Language
+STU349,Spanish: 20th Century Latin American Literature Post-AP,12,93.25,Foreign Language
+STU35,Spanish IV Honors,11,99.07,Foreign Language
+STU350,Chinese IV Honors,11,94.18,Foreign Language
+STU351,French II Honors,9,86.33,Foreign Language
+STU352,Latin AP,12,95.27,Foreign Language
+STU353,French Language and Culture AP,12,97.23,Foreign Language
+STU354,Spanish III Honors,10,93.81,Foreign Language
+STU355,French Language and Culture AP,12,93.08,Foreign Language
+STU356,French III Honors,10,87.64,Foreign Language
+STU357,Latin II Honors,10,100.13,Foreign Language
+STU358,Spanish Language and Culture AP,12,95.2,Foreign Language
+STU359,Spanish II,9,95.23,Foreign Language
+STU36,Spanish IV Honors,11,96.06,Foreign Language
+STU360,Spanish IV Honors,11,88.33,Foreign Language
+STU361,Spanish II Honors,9,94.32,Foreign Language
+STU362,Spanish IV Honors - Heritage Speakers,9,99.86,Foreign Language
+STU363,Spanish II Honors,9,94.51,Foreign Language
+STU364,French II Honors,9,83.23,Foreign Language
+STU365,French III,10,84.93,Foreign Language
+STU366,Spanish III,10,95.46,Foreign Language
+STU367,Spanish IV Honors - Heritage Speakers,9,98.71,Foreign Language
+STU368,Spanish IV Honors,11,99.63,Foreign Language
+STU369,Chinese II,9,96.1,Foreign Language
+STU37,Spanish: 20th Century Latin American Literature Post-AP,12,94.08,Foreign Language
+STU370,Spanish II Honors,9,97.82,Foreign Language
+STU371,Spanish II Honors,9,93.57,Foreign Language
+STU372,Spanish II Honors,9,90.55,Foreign Language
+STU373,Spanish II,9,92.73,Foreign Language
+STU374,Spanish II,9,94.81,Foreign Language
+STU375,Spanish Language and Culture AP,12,94.68,Foreign Language
+STU376,French II Honors,9,87.72,Foreign Language
+STU377,Spanish Language and Culture AP,12,94.75,Foreign Language
+STU378,Spanish II Honors,9,91.62,Foreign Language
+STU379,French IV Honors,11,92.8,Foreign Language
+STU38,Spanish IV Honors - Heritage Speakers,9,94.9,Foreign Language
+STU380,Spanish IV Honors - Heritage Speakers,9,98.56,Foreign Language
+STU381,Spanish III,10,94.3,Foreign Language
+STU382,Spanish IV Honors,10,98.15,Foreign Language
+STU383,Latin AP,12,89.4,Foreign Language
+STU384,French II Honors,9,93.56,Foreign Language
+STU385,Spanish II Honors,9,97.71,Foreign Language
+STU386,Spanish Language and Culture AP (for Heritage Speakers),10,94.12,Foreign Language
+STU387,French V Honors,12,91.19,Foreign Language
+STU388,French II Honors,9,86.68,Foreign Language
+STU389,Spanish Language and Culture AP (for Heritage Speakers),10,94.76,Foreign Language
+STU39,French Language and Culture AP,12,93.33,Foreign Language
+STU390,Latin II Honors,10,99.13,Foreign Language
+STU391,Latin III Honors,11,95.01,Foreign Language
+STU392,Spanish Language and Culture AP,12,91.3,Foreign Language
+STU393,Spanish Language and Culture AP (for Heritage Speakers),10,97.82,Foreign Language
+STU394,Spanish IV Honors,11,97.6,Foreign Language
+STU395,Spanish V Honors,12,88.35,Foreign Language
+STU396,Chinese III Honors,10,84.24,Foreign Language
+STU397,Spanish Language and Culture AP,12,93.4,Foreign Language
+STU398,Spanish III Honors,10,93.31,Foreign Language
+STU399,Spanish IV,11,87.86,Foreign Language
+STU4,Spanish III,10,92.73,Foreign Language
+STU40,Chinese Language and Culture AP,12,95.34,Foreign Language
+STU400,Spanish V Honors,12,97.59,Foreign Language
+STU401,Spanish Literature and Culture AP,11,98.36,Foreign Language
+STU402,Spanish IV Honors,11,96.75,Foreign Language
+STU403,French II Honors,9,85.03,Foreign Language
+STU404,Chinese II Honors,9,93,Foreign Language
+STU405,Spanish II,9,92.83,Foreign Language
+STU406,Spanish II,9,89.74,Foreign Language
+STU407,French III Honors,9,85.56,Foreign Language
+STU408,French Language and Culture AP,12,95.05,Foreign Language
+STU409,Spanish IV,11,83.22,Foreign Language
+STU41,Chinese IV Honors,11,97.17,Foreign Language
+STU410,Spanish: 20th Century Latin American Literature Post-AP,12,95.67,Foreign Language
+STU411,French II Honors,9,93.51,Foreign Language
+STU412,Spanish II Honors,9,90.44,Foreign Language
+STU413,Spanish IV Honors - Heritage Speakers,9,95.33,Foreign Language
+STU414,Spanish Language and Culture AP,12,95.05,Foreign Language
+STU415,French II,9,90.86,Foreign Language
+STU416,Spanish II Honors,9,94.45,Foreign Language
+STU417,Chinese II Honors,9,93.91,Foreign Language
+STU418,Latin III Honors,11,98.18,Foreign Language
+STU419,Spanish II,10,90.86,Foreign Language
+STU42,Chinese II Honors,9,90.98,Foreign Language
+STU420,Chinese Language and Culture AP,12,91.3,Foreign Language
+STU421,Spanish V Honors,12,91.62,Foreign Language
+STU422,Chinese II,9,91.36,Foreign Language
+STU423,Spanish II Honors,9,97.05,Foreign Language
+STU424,French III Honors,10,93.51,Foreign Language
+STU425,Chinese Language and Culture AP,12,87.21,Foreign Language
+STU426,Spanish Language and Culture AP (for Heritage Speakers),10,95.75,Foreign Language
+STU427,Spanish II,9,92.55,Foreign Language
+STU428,Spanish Language and Culture AP,12,97.6,Foreign Language
+STU429,French II Honors,9,91.32,Foreign Language
+STU43,Latin II Honors,10,100.23,Foreign Language
+STU430,Spanish IV,11,85.69,Foreign Language
+STU431,Spanish: 20th Century Latin American Literature Post-AP,12,92.75,Foreign Language
+STU432,French II Honors,9,86.23,Foreign Language
+STU433,Spanish II Honors,9,90.25,Foreign Language
+STU434,Spanish IV Honors,11,99.35,Foreign Language
+STU435,Spanish V Honors,12,95.49,Foreign Language
+STU436,Spanish IV,11,83.54,Foreign Language
+STU437,Latin I Honors,9,95.58,Foreign Language
+STU438,Spanish II Honors,9,83.67,Foreign Language
+STU439,Spanish IV Honors,11,95.9,Foreign Language
+STU44,Spanish V Honors,12,88.46,Foreign Language
+STU440,Chinese IV Honors,11,93.03,Foreign Language
+STU441,Chinese Language and Culture AP,12,93.99,Foreign Language
+STU442,Spanish Literature and Culture AP,11,87.77,Foreign Language
+STU443,Spanish III,10,96.74,Foreign Language
+STU444,French Language and Culture AP,12,97.5,Foreign Language
+STU445,Spanish Language and Culture AP,12,92.95,Foreign Language
+STU446,Spanish IV Honors,11,99.44,Foreign Language
+STU447,Spanish Language and Culture AP,12,93.85,Foreign Language
+STU448,Latin III Honors,11,94.74,Foreign Language
+STU449,Spanish II,9,89.57,Foreign Language
+STU45,Spanish IV,11,89.61,Foreign Language
+STU450,Latin II Honors,10,99.02,Foreign Language
+STU451,Spanish: 20th Century Latin American Literature Post-AP,12,96.58,Foreign Language
+STU452,Latin II Honors,10,100.43,Foreign Language
+STU453,Spanish II Honors,9,88,Foreign Language
+STU454,Spanish: 20th Century Latin American Literature Post-AP,12,97.67,Foreign Language
+STU455,Spanish Language and Culture AP (for Heritage Speakers),10,97.46,Foreign Language
+STU456,Spanish Language and Culture AP (for Heritage Speakers),10,93.81,Foreign Language
+STU457,Spanish III Honors,10,87.74,Foreign Language
+STU458,Spanish Literature and Culture AP,11,89.57,Foreign Language
+STU458,Latin III Honors,11,96.26,Foreign Language
+STU459,Spanish Literature and Culture AP,11,81.46,Foreign Language
+STU46,Spanish Language and Culture AP,12,96.03,Foreign Language
+STU460,Spanish IV Honors - Heritage Speakers,9,95.29,Foreign Language
+STU461,Chinese IV Honors,11,90.11,Foreign Language
+STU462,Spanish III Honors,10,90.66,Foreign Language
+STU463,Spanish Language and Culture AP (for Heritage Speakers),10,93.5,Foreign Language
+STU464,Spanish IV Honors - Heritage Speakers,9,99.73,Foreign Language
+STU465,Chinese II Honors,9,88.04,Foreign Language
+STU466,Spanish IV,11,89.39,Foreign Language
+STU467,Spanish IV,11,89.34,Foreign Language
+STU468,Spanish II,9,87.56,Foreign Language
+STU469,Latin AP,12,93.45,Foreign Language
+STU47,Spanish III Honors,10,90.21,Foreign Language
+STU470,Spanish II Honors,9,90.83,Foreign Language
+STU471,Latin III Honors,11,98.14,Foreign Language
+STU472,Spanish IV Honors - Heritage Speakers,9,95.49,Foreign Language
+STU473,Spanish IV,11,82.93,Foreign Language
+STU474,Spanish: 20th Century Latin American Literature Post-AP,12,97,Foreign Language
+STU475,Spanish II Honors,9,97.84,Foreign Language
+STU476,Spanish II,9,91.26,Foreign Language
+STU477,Spanish III,11,91.18,Foreign Language
+STU478,Spanish III,11,93.44,Foreign Language
+STU479,Chinese Language and Culture AP,12,97.07,Foreign Language
+STU48,Spanish IV,11,93.88,Foreign Language
+STU480,Spanish III Honors,10,89.33,Foreign Language
+STU481,French Language and Culture AP,12,93.73,Foreign Language
+STU482,Spanish Language and Culture AP,12,92.88,Foreign Language
+STU484,Chinese IV Honors,11,97.66,Foreign Language
+STU485,Spanish IV Honors,11,98.43,Foreign Language
+STU486,Spanish IV Honors,11,98.03,Foreign Language
+STU487,Spanish IV Honors,11,99.57,Foreign Language
+STU488,Spanish IV Honors,11,97.06,Foreign Language
+STU489,French Language and Culture AP,12,90.18,Foreign Language
+STU49,French Language and Culture AP,12,95.45,Foreign Language
+STU490,Spanish Language and Culture AP,12,96.25,Foreign Language
+STU491,Spanish: 20th Century Latin American Literature Post-AP,12,93.04,Foreign Language
+STU492,Spanish V Honors,12,88.64,Foreign Language
+STU493,Spanish Language and Culture AP (for Heritage Speakers),10,90.23,Foreign Language
+STU494,Latin III Honors,11,94.88,Foreign Language
+STU495,Chinese Language and Culture AP,12,87.2,Foreign Language
+STU496,Chinese III Honors,10,94.59,Foreign Language
+STU497,Spanish III Honors,10,96.19,Foreign Language
+STU498,Chinese II Honors,9,90.25,Foreign Language
+STU499,Spanish IV,11,96.2,Foreign Language
+STU5,Spanish V Honors,12,94.01,Foreign Language
+STU50,Spanish II Honors,9,97.51,Foreign Language
+STU500,Spanish IV,12,88.67,Foreign Language
+STU501,Spanish III Honors,10,89.84,Foreign Language
+STU502,Chinese IV Honors,11,93.04,Foreign Language
+STU503,Spanish Language and Culture AP,12,95.05,Foreign Language
+STU504,Latin I Honors,9,95.8,Foreign Language
+STU505,Latin I Honors,9,98.05,Foreign Language
+STU506,Spanish Literature and Culture AP,12,89.79,Foreign Language
+STU507,Spanish III,10,92.64,Foreign Language
+STU508,Spanish II Honors,9,97.33,Foreign Language
+STU509,Chinese V Honors,12,96.82,Foreign Language
+STU51,Spanish Language and Culture AP,12,94.45,Foreign Language
+STU510,Spanish II Honors,10,94.11,Foreign Language
+STU510,Chinese III Honors,10,97.14,Foreign Language
+STU511,Chinese Language and Culture AP,12,99.64,Foreign Language
+STU512,Spanish Language and Culture AP,12,94,Foreign Language
+STU513,Spanish Literature and Culture AP,11,96.45,Foreign Language
+STU514,Spanish II,10,92.68,Foreign Language
+STU515,Spanish: 20th Century Latin American Literature Post-AP,12,93.79,Foreign Language
+STU516,Chinese III Honors,10,93.06,Foreign Language
+STU517,Spanish Language and Culture AP,12,92.72,Foreign Language
+STU518,Chinese IV Honors,11,97.08,Foreign Language
+STU519,Chinese III Honors,10,97.1,Foreign Language
+STU52,Spanish Language and Culture AP,12,95.8,Foreign Language
+STU520,Chinese II Honors,9,85.18,Foreign Language
+STU521,Chinese IV,11,90.1,Foreign Language
+STU522,Spanish IV,12,95.16,Foreign Language
+STU523,Spanish IV Honors,11,97.43,Foreign Language
+STU525,Spanish IV,11,86.77,Foreign Language
+STU526,Spanish II Honors,9,95.4,Foreign Language
+STU527,Spanish IV,12,82.12,Foreign Language
+STU528,Chinese Language and Culture AP,12,90.28,Foreign Language
+STU529,Chinese Language and Culture AP,12,97,Foreign Language
+STU53,Spanish II Honors,9,93,Foreign Language
+STU530,Spanish Language and Culture AP,12,94,Foreign Language
+STU531,Spanish Language and Culture AP,12,91.67,Foreign Language
+STU532,Spanish II Honors,9,87.58,Foreign Language
+STU533,Spanish Language and Culture AP,12,97.38,Foreign Language
+STU534,Spanish II Honors,9,91.48,Foreign Language
+STU535,Spanish V Honors,12,93.84,Foreign Language
+STU536,Spanish Literature and Culture AP,12,91.76,Foreign Language
+STU537,Spanish II,9,94.1,Foreign Language
+STU538,Spanish III Honors,10,97.08,Foreign Language
+STU539,Latin II Honors,10,91.53,Foreign Language
+STU54,Latin AP,12,90.55,Foreign Language
+STU540,Spanish Language and Culture AP,12,94.45,Foreign Language
+STU541,Chinese II Honors,9,87.29,Foreign Language
+STU542,Latin III Honors,11,84.72,Foreign Language
+STU543,French Language and Culture AP,12,83.51,Foreign Language
+STU544,Spanish Language and Culture AP,12,96.11,Foreign Language
+STU545,Spanish Language and Culture AP,12,92.2,Foreign Language
+STU546,Spanish II,9,96.66,Foreign Language
+STU547,Chinese II Honors,9,93.75,Foreign Language
+STU548,Spanish Language and Culture AP,12,91.82,Foreign Language
+STU549,Spanish IV,11,90.52,Foreign Language
+STU55,Spanish Language and Culture AP,12,96.25,Foreign Language
+STU550,Latin II Honors,11,97,Foreign Language
+STU551,Spanish Language and Culture AP,12,98.5,Foreign Language
+STU552,French III Honors,10,96.66,Foreign Language
+STU553,Chinese V Honors,12,93.01,Foreign Language
+STU554,Spanish Language and Culture AP,12,94,Foreign Language
+STU555,Spanish Language and Culture AP (for Heritage Speakers),10,97.1,Foreign Language
+STU556,Chinese III Honors,9,95.29,Foreign Language
+STU557,Chinese Language and Culture AP,11,97.07,Foreign Language
+STU558,Spanish III Honors,10,95.58,Foreign Language
+STU559,Spanish IV Honors,11,98.92,Foreign Language
+STU56,Spanish Language and Culture AP,12,93.49,Foreign Language
+STU560,Spanish II Honors,9,97.94,Foreign Language
+STU561,Spanish IV Honors,11,97.53,Foreign Language
+STU562,Spanish Language and Culture AP,12,82.52,Foreign Language
+STU563,Spanish II Honors,9,81.27,Foreign Language
+STU564,Spanish III Honors,10,97.3,Foreign Language
+STU565,Spanish II,10,93.18,Foreign Language
+STU566,Spanish IV Honors,11,99.38,Foreign Language
+STU567,Spanish IV,12,86.65,Foreign Language
+STU568,Spanish II,9,90.16,Foreign Language
+STU569,Chinese IV Honors,11,98.17,Foreign Language
+STU57,Spanish V Honors,12,88.38,Foreign Language
+STU570,Spanish IV Honors,11,93.35,Foreign Language
+STU571,French V Honors,12,84.76,Foreign Language
+STU572,Spanish Language and Culture AP (for Heritage Speakers),10,90.13,Foreign Language
+STU573,French III Honors,10,90.16,Foreign Language
+STU574,French III Honors,10,94.01,Foreign Language
+STU575,French III,10,89.89,Foreign Language
+STU576,Spanish II Honors,9,84.38,Foreign Language
+STU577,Spanish IV,11,91.88,Foreign Language
+STU578,Spanish II,9,92.99,Foreign Language
+STU579,Spanish IV Honors,11,99.54,Foreign Language
+STU58,Spanish II,9,97.31,Foreign Language
+STU580,Spanish II Honors,9,95.05,Foreign Language
+STU581,Latin II Honors,10,97.6,Foreign Language
+STU582,Chinese III Honors,10,90.25,Foreign Language
+STU583,Spanish IV Honors,11,94.5,Foreign Language
+STU584,Latin II Honors,10,87.58,Foreign Language
+STU585,Spanish IV Honors,11,93.11,Foreign Language
+STU586,French IV Honors,11,94.69,Foreign Language
+STU587,Spanish IV Honors,11,98.43,Foreign Language
+STU588,Spanish III,11,95.41,Foreign Language
+STU589,Latin I Honors,9,95.9,Foreign Language
+STU59,Spanish I,9,92.13,Foreign Language
+STU590,Latin II Honors,10,92.7,Foreign Language
+STU591,Spanish IV Honors,10,98.95,Foreign Language
+STU593,Latin II Honors,10,98.82,Foreign Language
+STU594,French IV,11,86.41,Foreign Language
+STU595,Chinese III Honors,10,90.1,Foreign Language
+STU596,Latin AP,12,92.15,Foreign Language
+STU597,Spanish IV,11,89.06,Foreign Language
+STU598,Spanish II,9,93.47,Foreign Language
+STU599,Chinese II Honors,9,91.21,Foreign Language
+STU6,Spanish III Honors,10,86.91,Foreign Language
+STU60,Spanish III Honors,10,93.23,Foreign Language
+STU600,Chinese IV Honors,11,97.42,Foreign Language
+STU601,Latin I Honors,9,89.55,Foreign Language
+STU602,Spanish III,11,92.85,Foreign Language
+STU603,Latin AP,12,88.17,Foreign Language
+STU604,Spanish II Honors,9,87.75,Foreign Language
+STU605,Spanish II,9,93.24,Foreign Language
+STU606,Spanish V Honors,12,92.54,Foreign Language
+STU607,French III Honors,10,91.42,Foreign Language
+STU608,French III Honors,10,90.1,Foreign Language
+STU609,French II Honors,9,83.68,Foreign Language
+STU61,Latin II Honors,10,94.98,Foreign Language
+STU610,Latin II Honors,10,97.08,Foreign Language
+STU611,Spanish III,10,90.15,Foreign Language
+STU612,Spanish II Honors,9,94.88,Foreign Language
+STU613,Spanish II Honors,9,90.18,Foreign Language
+STU614,Spanish IV,12,93.51,Foreign Language
+STU615,Latin II Honors,10,95.98,Foreign Language
+STU616,Spanish III Honors,10,86.35,Foreign Language
+STU618,Spanish III Honors,10,98.06,Foreign Language
+STU619,Spanish II,9,95.42,Foreign Language
+STU62,Spanish IV Honors,11,92.52,Foreign Language
+STU620,Spanish IV,11,91.71,Foreign Language
+STU621,Spanish IV Honors - Heritage Speakers,9,97.83,Foreign Language
+STU622,Spanish Literature and Culture AP,12,94.74,Foreign Language
+STU623,Latin II Honors,10,97.88,Foreign Language
+STU624,Chinese IV Honors,10,97.07,Foreign Language
+STU625,Spanish II Honors,9,90.8,Foreign Language
+STU626,Spanish II Honors,9,95.17,Foreign Language
+STU627,French IV Honors,11,91.28,Foreign Language
+STU628,Spanish IV Honors,11,93.65,Foreign Language
+STU629,French II,9,86.08,Foreign Language
+STU63,Spanish II Honors,9,97.18,Foreign Language
+STU630,Chinese III Honors,10,90.02,Foreign Language
+STU631,Latin AP,12,89.97,Foreign Language
+STU632,Spanish II Honors,9,97.2,Foreign Language
+STU633,Spanish IV Honors,11,98.24,Foreign Language
+STU634,Spanish III Honors,10,97.85,Foreign Language
+STU635,Spanish V Honors,12,95.12,Foreign Language
+STU636,Spanish II Honors,9,87.61,Foreign Language
+STU637,Spanish II Honors,9,94.5,Foreign Language
+STU638,Chinese III Honors,10,97.1,Foreign Language
+STU639,Spanish II Honors,9,93.91,Foreign Language
+STU64,Spanish IV Honors,11,98.38,Foreign Language
+STU640,Chinese II,9,90.07,Foreign Language
+STU641,Spanish III Honors,10,93.04,Foreign Language
+STU642,Spanish IV Honors,11,98.89,Foreign Language
+STU643,Latin I Honors,9,98.5,Foreign Language
+STU644,Latin I Honors,9,95.8,Foreign Language
+STU645,Spanish II Honors,9,87.57,Foreign Language
+STU646,Spanish IV Honors - Heritage Speakers,9,93.93,Foreign Language
+STU647,Spanish IV Honors - Heritage Speakers,9,91.38,Foreign Language
+STU648,Spanish I,9,85.08,Foreign Language
+STU649,Spanish III Honors,10,97.52,Foreign Language
+STU65,Spanish III,10,92.59,Foreign Language
+STU650,Latin III Honors,11,98.61,Foreign Language
+STU651,Spanish II Honors,9,91,Foreign Language
+STU652,Spanish Literature and Culture AP,11,86.06,Foreign Language
+STU653,Spanish III,10,94.08,Foreign Language
+STU654,French III Honors,10,95.15,Foreign Language
+STU655,Spanish III Honors,10,90.16,Foreign Language
+STU656,Spanish III Honors,10,86.81,Foreign Language
+STU657,Chinese III,10,94.78,Foreign Language
+STU658,French III Honors,10,87.39,Foreign Language
+STU659,Spanish Language and Culture AP,12,96.7,Foreign Language
+STU66,Spanish Language and Culture AP,12,97,Foreign Language
+STU660,Chinese III Honors,10,83.08,Foreign Language
+STU661,Latin I Honors,9,96.96,Foreign Language
+STU662,Spanish III Honors,10,93.39,Foreign Language
+STU663,Spanish III Honors,10,96.18,Foreign Language
+STU664,Spanish III,11,93.18,Foreign Language
+STU665,Chinese IV Honors,11,95.16,Foreign Language
+STU666,Latin I Honors,9,99.14,Foreign Language
+STU667,Spanish Literature and Culture AP,12,97.23,Foreign Language
+STU668,Spanish Language and Culture AP,12,93.1,Foreign Language
+STU669,Chinese IV Honors,11,97.78,Foreign Language
+STU67,Spanish Language and Culture AP,12,93.55,Foreign Language
+STU670,Spanish III,11,92.63,Foreign Language
+STU671,Latin III Honors,11,96.14,Foreign Language
+STU672,Spanish IV Honors,12,91.99,Foreign Language
+STU673,Chinese II Honors,9,93.85,Foreign Language
+STU674,Spanish IV Honors,11,98.92,Foreign Language
+STU675,French III,10,84.52,Foreign Language
+STU676,French II,9,85.33,Foreign Language
+STU677,Chinese III Honors,10,93.21,Foreign Language
+STU678,Spanish: 20th Century Latin American Literature Post-AP,12,96.5,Foreign Language
+STU679,Spanish I,9,92.95,Foreign Language
+STU68,Spanish Language and Culture AP,12,95.65,Foreign Language
+STU680,Chinese III Honors,10,90.11,Foreign Language
+STU681,Spanish II Honors,9,97.21,Foreign Language
+STU682,Spanish Language and Culture AP,12,96.1,Foreign Language
+STU683,Chinese II Honors,9,90.46,Foreign Language
+STU684,Spanish Language and Culture AP,12,97.9,Foreign Language
+STU685,Spanish II Honors,9,93.4,Foreign Language
+STU686,Spanish Language and Culture AP,12,96.25,Foreign Language
+STU687,Spanish Literature and Culture AP,11,95.94,Foreign Language
+STU687,French IV Honors,11,93.94,Foreign Language
+STU688,Spanish II,9,93.28,Foreign Language
+STU689,Spanish Language and Culture AP,12,94.01,Foreign Language
+STU69,Spanish II Honors,9,90.59,Foreign Language
+STU690,Spanish II,9,91.49,Foreign Language
+STU691,Spanish II Honors,9,90.33,Foreign Language
+STU692,French IV Honors,11,82.24,Foreign Language
+STU693,Latin I Honors,9,99.25,Foreign Language
+STU694,Spanish IV,12,84.53,Foreign Language
+STU695,Spanish: 20th Century Latin American Literature Post-AP,12,98.92,Foreign Language
+STU696,Chinese II Honors,9,82.02,Foreign Language
+STU697,Latin I Honors,9,95,Foreign Language
+STU698,Spanish IV,12,94.3,Foreign Language
+STU699,Spanish: 20th Century Latin American Literature Post-AP,12,73.33,Foreign Language
+STU7,Spanish Language and Culture AP (for Heritage Speakers),10,92.12,Foreign Language
+STU70,Spanish Language and Culture AP,12,95.35,Foreign Language
+STU700,Spanish II,9,89.97,Foreign Language
+STU701,Spanish II,9,93.08,Foreign Language
+STU702,Spanish IV,12,82.88,Foreign Language
+STU703,French II Honors,9,87.48,Foreign Language
+STU704,Spanish II Honors,9,98.18,Foreign Language
+STU705,Spanish II Honors,9,93.21,Foreign Language
+STU706,Spanish III Honors,10,94.27,Foreign Language
+STU707,Spanish II Honors,9,87.53,Foreign Language
+STU708,Spanish IV,12,94.66,Foreign Language
+STU709,Spanish Language and Culture AP,12,95.51,Foreign Language
+STU71,Chinese IV Honors,11,93.21,Foreign Language
+STU710,Chinese II Honors,9,90.32,Foreign Language
+STU711,French II Honors,9,87.92,Foreign Language
+STU712,Chinese III Honors,10,90.22,Foreign Language
+STU713,Spanish II,9,84.35,Foreign Language
+STU714,Spanish II Honors,9,94.24,Foreign Language
+STU715,Spanish Language and Culture AP,12,95.73,Foreign Language
+STU716,Chinese IV Honors,11,90.52,Foreign Language
+STU717,Latin III Honors,11,85.62,Foreign Language
+STU718,Spanish IV,12,89.44,Foreign Language
+STU719,Latin I Honors,9,97.53,Foreign Language
+STU72,Spanish IV,12,82.4,Foreign Language
+STU720,Spanish III,10,96.1,Foreign Language
+STU721,Latin III Honors,11,95.22,Foreign Language
+STU722,Spanish Language and Culture AP,12,94.24,Foreign Language
+STU723,Latin II Honors,10,96.48,Foreign Language
+STU724,Spanish IV,12,80.84,Foreign Language
+STU725,French IV Honors,11,90.09,Foreign Language
+STU726,Spanish III,10,94.14,Foreign Language
+STU727,Spanish II Honors,9,93.58,Foreign Language
+STU729,Spanish III Honors,10,92.03,Foreign Language
+STU73,Spanish IV Honors,11,92.89,Foreign Language
+STU730,Spanish II Honors,9,97.24,Foreign Language
+STU731,Spanish III,10,98.66,Foreign Language
+STU733,Spanish III Honors,11,93.5,Foreign Language
+STU734,Spanish Language and Culture AP (for Heritage Speakers),10,95.79,Foreign Language
+STU735,Chinese II Honors,9,97.6,Foreign Language
+STU736,Spanish II Honors,9,97.95,Foreign Language
+STU737,Spanish III,12,89.72,Foreign Language
+STU738,Spanish IV,11,96.59,Foreign Language
+STU739,French II,9,83.42,Foreign Language
+STU74,Spanish Language and Culture AP,12,87.25,Foreign Language
+STU740,Chinese III Honors,10,97.41,Foreign Language
+STU741,French IV Honors,11,95.44,Foreign Language
+STU742,Spanish III,11,90.69,Foreign Language
+STU743,Chinese II Honors,9,94.86,Foreign Language
+STU744,Latin I Honors,9,98.5,Foreign Language
+STU745,Latin II Honors,10,100.58,Foreign Language
+STU746,Spanish III Honors,11,93.95,Foreign Language
+STU747,Spanish IV,11,88.94,Foreign Language
+STU748,Spanish IV,11,94.82,Foreign Language
+STU749,Spanish III,11,90.95,Foreign Language
+STU75,Spanish IV,11,92.41,Foreign Language
+STU750,Chinese III,10,85.52,Foreign Language
+STU751,French III,10,85.58,Foreign Language
+STU752,Spanish IV Honors,11,98.43,Foreign Language
+STU753,Spanish III Honors,10,83,Foreign Language
+STU754,Latin III Honors,11,98.29,Foreign Language
+STU755,Chinese III,10,91.2,Foreign Language
+STU756,Spanish IV Honors - Heritage Speakers,9,93.92,Foreign Language
+STU757,Spanish III,11,93.99,Foreign Language
+STU758,Spanish IV Honors,11,98.43,Foreign Language
+STU759,Spanish IV Honors,11,99.07,Foreign Language
+STU76,Latin III Honors,11,94.23,Foreign Language
+STU760,Latin I Honors,9,94.35,Foreign Language
+STU761,French II,9,86.26,Foreign Language
+STU762,Spanish II,9,84.63,Foreign Language
+STU763,Spanish IV,11,89.63,Foreign Language
+STU764,Latin I Honors,9,86.45,Foreign Language
+STU765,Spanish Language and Culture AP (for Heritage Speakers),10,92.6,Foreign Language
+STU766,Spanish IV,11,89.22,Foreign Language
+STU767,French III,10,81.86,Foreign Language
+STU768,Spanish IV Honors,11,97.61,Foreign Language
+STU769,Spanish II Honors,9,90.28,Foreign Language
+STU77,Spanish Language and Culture AP,12,97.45,Foreign Language
+STU770,Spanish IV Honors,11,98.44,Foreign Language
+STU771,Latin I Honors,9,97.9,Foreign Language
+STU771,French II Honors,9,87.43,Foreign Language
+STU772,Spanish III Honors,10,94.91,Foreign Language
+STU773,Spanish III Honors,10,88.08,Foreign Language
+STU774,Spanish III,11,98.46,Foreign Language
+STU775,Spanish II,9,97.31,Foreign Language
+STU776,Spanish III,11,92.64,Foreign Language
+STU777,Latin I Honors,9,96.98,Foreign Language
+STU778,Spanish III,10,95.33,Foreign Language
+STU779,Spanish III,10,93.95,Foreign Language
+STU78,French III Honors,10,92.18,Foreign Language
+STU780,Latin II Honors,10,83.08,Foreign Language
+STU781,Chinese II Honors,9,92.12,Foreign Language
+STU782,Latin II Honors,12,93.65,Foreign Language
+STU783,Spanish I,9,94,Foreign Language
+STU784,Spanish Language and Culture AP (for Heritage Speakers),10,96.36,Foreign Language
+STU785,Latin II Honors,10,97.1,Foreign Language
+STU786,Spanish I,9,95.95,Foreign Language
+STU787,Spanish IV,11,86.44,Foreign Language
+STU788,Spanish Language and Culture AP,12,96.25,Foreign Language
+STU789,Spanish II Honors,9,95.07,Foreign Language
+STU79,Spanish Language and Culture AP,12,87.64,Foreign Language
+STU790,Latin I Honors,9,98.7,Foreign Language
+STU791,Spanish II,9,93.65,Foreign Language
+STU792,Spanish Language and Culture AP (for Heritage Speakers),10,88.7,Foreign Language
+STU793,Spanish II Honors,9,93.32,Foreign Language
+STU794,Spanish III,10,96.51,Foreign Language
+STU795,Latin I Honors,9,97.43,Foreign Language
+STU796,Chinese Language and Culture AP,12,97.14,Foreign Language
+STU797,Spanish Language and Culture AP (for Heritage Speakers),10,86.93,Foreign Language
+STU798,Latin II Honors,10,94.75,Foreign Language
+STU799,Spanish IV,12,89.85,Foreign Language
+STU8,French V Honors,12,92.69,Foreign Language
+STU80,Latin AP,12,93.27,Foreign Language
+STU800,Spanish II,9,93.22,Foreign Language
+STU801,Spanish II,10,99.61,Foreign Language
+STU802,Spanish Literature and Culture AP,12,97.14,Foreign Language
+STU803,Latin II Honors,10,91.4,Foreign Language
+STU804,Spanish II Honors,9,93.34,Foreign Language
+STU805,Spanish III Honors,10,83.81,Foreign Language
+STU806,Latin II Honors,10,97.2,Foreign Language
+STU807,Latin I Honors,9,88.26,Foreign Language
+STU808,Spanish Language and Culture AP (for Heritage Speakers),10,90.44,Foreign Language
+STU809,Spanish Language and Culture AP (for Heritage Speakers),10,93.83,Foreign Language
+STU81,Chinese III Honors,10,91.09,Foreign Language
+STU810,Latin II Honors,10,94.9,Foreign Language
+STU811,Spanish I,10,94.9,Foreign Language
+STU812,Spanish II Honors,9,93.4,Foreign Language
+STU813,Latin IV Honors,10,99.08,Foreign Language
+STU814,Latin I Honors,9,97.3,Foreign Language
+STU815,Spanish III,10,99.24,Foreign Language
+STU816,French III Honors,11,96.09,Foreign Language
+STU817,Spanish V Honors,11,96.79,Foreign Language
+STU818,Spanish IV Honors,11,97.81,Foreign Language
+STU819,Spanish III Honors,10,96.12,Foreign Language
+STU82,Spanish IV Honors,11,96.66,Foreign Language
+STU820,Spanish II,9,87.25,Foreign Language
+STU821,Spanish III Honors,10,98.77,Foreign Language
+STU822,Spanish III Honors,10,97.96,Foreign Language
+STU823,Spanish Language and Culture AP (for Heritage Speakers),10,86.68,Foreign Language
+STU824,French III Honors,10,92.12,Foreign Language
+STU825,French III Honors,10,89.28,Foreign Language
+STU826,Spanish II Honors,9,98.1,Foreign Language
+STU827,Latin II Honors,10,98.95,Foreign Language
+STU828,Chinese IV Honors,11,85.34,Foreign Language
+STU829,Chinese II,9,93.35,Foreign Language
+STU83,Spanish Language and Culture AP,12,95.35,Foreign Language
+STU830,Spanish III Honors,10,91.03,Foreign Language
+STU831,Spanish III Honors,10,87.27,Foreign Language
+STU832,Spanish Literature and Culture AP,12,88.44,Foreign Language
+STU833,Spanish II,10,82.74,Foreign Language
+STU834,Spanish I,9,96.78,Foreign Language
+STU835,Spanish IV,11,92.31,Foreign Language
+STU836,Spanish III Honors,10,96.03,Foreign Language
+STU837,Spanish II Honors,9,98.61,Foreign Language
+STU838,Spanish Language and Culture AP (for Heritage Speakers),11,96.94,Foreign Language
+STU839,Spanish II,9,95.21,Foreign Language
+STU84,Spanish IV,11,92.08,Foreign Language
+STU840,Spanish IV Honors - Heritage Speakers,9,96.14,Foreign Language
+STU841,Spanish IV Honors - Heritage Speakers,9,95.86,Foreign Language
+STU842,Spanish IV Honors - Heritage Speakers,9,100.35,Foreign Language
+STU843,Spanish IV Honors - Heritage Speakers,9,99.73,Foreign Language
+STU844,Latin I Honors,9,95.93,Foreign Language
+STU845,Spanish I,9,90.78,Foreign Language
+STU846,French III Honors,10,85.94,Foreign Language
+STU847,Spanish I,9,95.43,Foreign Language
+STU848,Spanish IV Honors - Heritage Speakers,9,99.56,Foreign Language
+STU849,Latin I Honors,9,100.75,Foreign Language
+STU849,Spanish II Honors,9,93.74,Foreign Language
+STU85,French Language and Culture AP,12,91.7,Foreign Language
+STU850,Spanish II Honors,9,94.51,Foreign Language
+STU851,Spanish II,9,94.74,Foreign Language
+STU852,French III Honors,10,94.77,Foreign Language
+STU853,Latin I Honors,9,98.53,Foreign Language
+STU854,Spanish II Honors,9,97.57,Foreign Language
+STU855,Spanish III,10,84.31,Foreign Language
+STU856,Spanish II,9,97.85,Foreign Language
+STU857,Spanish III Honors,10,87.19,Foreign Language
+STU858,Chinese Language and Culture AP,11,94.65,Foreign Language
+STU859,Chinese IV Honors,10,94.96,Foreign Language
+STU86,Spanish IV,11,89.19,Foreign Language
+STU87,Spanish Language and Culture AP,12,89.84,Foreign Language
+STU88,French Language and Culture AP,12,84.7,Foreign Language
+STU89,Spanish IV,11,92.54,Foreign Language
+STU9,Chinese Language and Culture AP,12,93.67,Foreign Language
+STU90,Spanish Literature and Culture AP,12,86.72,Foreign Language
+STU91,Spanish IV Honors,11,94.42,Foreign Language
+STU92,Latin AP,12,91.07,Foreign Language
+STU93,Spanish IV,11,90.03,Foreign Language
+STU94,Spanish II Honors,9,93.63,Foreign Language
+STU95,French IV,11,82.1,Foreign Language
+STU96,Latin II Honors,10,98.58,Foreign Language
+STU97,Latin AP,12,90.77,Foreign Language
+STU98,Spanish IV Honors,11,93.19,Foreign Language
+STU99,Spanish IV,11,94.68,Foreign Language

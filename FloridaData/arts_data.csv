@@ -1,0 +1,98 @@
+StudentID,Course,Grade,Section_Grade,Course_Type
+STU101,Studio Art 3-D Design AP,11,98.66,Arts
+STU107,Seminar in Visual Arts Post-AP,12,93.74,Arts
+STU111,Studio Art Drawing AP,11,90.52,Arts
+STU117,Studio Art 3-D Design AP,11,97.93,Arts
+STU129,Studio Art Drawing AP,11,98.04,Arts
+STU131,Studio Art 2-D Design AP,11,97.57,Arts
+STU154,Studio Art 3-D Design AP,11,97.56,Arts
+STU161,Studio Art 3-D Design AP,11,97.8,Arts
+STU167,Studio Art 3-D Design AP,11,95.98,Arts
+STU168,Studio Art Drawing AP,11,97.17,Arts
+STU174,Seminar in Visual Arts Post-AP,12,92.58,Arts
+STU179,Studio Art 2-D Design AP,11,95.57,Arts
+STU194,Studio Art 3-D Design AP,11,96.59,Arts
+STU2,Studio Art 3-D Design AP,11,95.49,Arts
+STU200,Studio Art 3-D Design AP,11,96.83,Arts
+STU204,Studio Art 3-D Design AP,11,96.22,Arts
+STU218,Studio Art 3-D Design AP,11,97.44,Arts
+STU234,Fundamentals of Music Theory,10,99.73,Arts
+STU235,Seminar in Visual Arts Post-AP,12,95.26,Arts
+STU24,Studio Art 3-D Design AP,11,97.44,Arts
+STU252,Studio Art 3-D Design AP,11,94.68,Arts
+STU259,Studio Art 3-D Design AP,11,93.78,Arts
+STU263,Studio Art 2-D Design AP,11,93.61,Arts
+STU276,Music Theory AP,11,97.46,Arts
+STU28,Seminar in Visual Arts Post-AP,12,99.16,Arts
+STU284,Seminar in Visual Arts Post-AP,12,98.53,Arts
+STU292,Studio Art 2-D Design AP,11,82.22,Arts
+STU297,Music Theory AP,10,99.81,Arts
+STU304,Music Theory AP,10,90.9,Arts
+STU313,Studio Art 3-D Design AP,11,97.07,Arts
+STU32,Studio Art Drawing AP,11,97.04,Arts
+STU344,Studio Art 2-D Design AP,11,95.13,Arts
+STU347,Seminar in Visual Arts Post-AP,12,99.47,Arts
+STU355,Seminar in Visual Arts Post-AP,12,98.42,Arts
+STU36,Studio Art 2-D Design AP,11,95.52,Arts
+STU379,Studio Art Drawing AP,11,97.39,Arts
+STU395,Seminar in Visual Arts Post-AP,12,89.21,Arts
+STU401,Studio Art 2-D Design AP,11,97.13,Arts
+STU402,Studio Art Drawing AP,11,95.13,Arts
+STU409,Studio Art 2-D Design AP,11,94.39,Arts
+STU421,Studio Art Drawing AP,12,93.35,Arts
+STU430,Studio Art 3-D Design AP,11,92.68,Arts
+STU434,Studio Art Drawing AP,11,94.96,Arts
+STU436,Studio Art 3-D Design AP,11,82.2,Arts
+STU437,Fundamentals of Music Theory,9,98.48,Arts
+STU440,Studio Art Drawing AP,11,83.83,Arts
+STU440,Studio Art 3-D Design AP,11,93.05,Arts
+STU45,Studio Art 2-D Design AP,11,97.09,Arts
+STU451,Seminar in Visual Arts Post-AP,12,99,Arts
+STU458,Studio Art 3-D Design AP,11,96.83,Arts
+STU469,Studio Art 3-D Design AP,12,98.29,Arts
+STU47,Music Theory AP,10,94.81,Arts
+STU473,Studio Art 3-D Design AP,11,92.8,Arts
+STU477,Studio Art 3-D Design AP,11,94.88,Arts
+STU479,Seminar in Visual Arts Post-AP,12,96.84,Arts
+STU479,Music Theory AP,12,96.8,Arts
+STU48,Studio Art 2-D Design AP,11,93.87,Arts
+STU489,Seminar in Visual Arts Post-AP,12,98.68,Arts
+STU492,Studio Art 3-D Design AP,12,89.51,Arts
+STU494,Studio Art 3-D Design AP,11,96.34,Arts
+STU512,Seminar in Visual Arts Post-AP,12,97.32,Arts
+STU525,Music Theory AP,11,95.17,Arts
+STU540,Seminar in Visual Arts Post-AP,12,98.47,Arts
+STU545,Seminar in Visual Arts Post-AP,12,98,Arts
+STU56,Studio Art 2-D Design AP,12,84.22,Arts
+STU562,Studio Art 2-D Design AP,12,76.52,Arts
+STU569,Studio Art 2-D Design AP,11,91.52,Arts
+STU57,Seminar in Visual Arts Post-AP,12,86.11,Arts
+STU577,Studio Art 3-D Design AP,11,89.61,Arts
+STU579,Studio Art Drawing AP,11,97,Arts
+STU594,Studio Art 3-D Design AP,11,96.83,Arts
+STU633,Studio Art Drawing AP,11,97,Arts
+STU652,Studio Art Drawing AP,11,96.3,Arts
+STU664,Music Theory Post-AP II: Instrumental Orchestration,11,99,Arts
+STU665,Studio Art 2-D Design AP,11,95.35,Arts
+STU670,Studio Art 3-D Design AP,11,94.51,Arts
+STU709,Seminar in Visual Arts Post-AP,12,98.42,Arts
+STU710,Fundamentals of Music Theory,9,99.73,Arts
+STU749,Studio Art 3-D Design AP,11,96.83,Arts
+STU76,Studio Art 3-D Design AP,11,97.68,Arts
+STU787,Studio Art Drawing AP,11,91,Arts
+STU788,Studio Art Drawing AP,12,97.17,Arts
+STU79,Seminar in Visual Arts Post-AP,12,98.11,Arts
+STU796,Seminar in Visual Arts Post-AP,12,98.94,Arts
+STU8,Studio Art 3-D Design AP,12,98.66,Arts
+STU81,Studio Art 2-D Design AP,10,97.26,Arts
+STU823,Fundamentals of Music Theory,10,98.48,Arts
+STU832,Studio Art 2-D Design AP,12,90.48,Arts
+STU835,Studio Art Drawing AP,11,97,Arts
+STU84,Studio Art 3-D Design AP,11,96.71,Arts
+STU858,Studio Art Drawing AP,11,94.83,Arts
+STU87,Seminar in Visual Arts Post-AP,12,94.16,Arts
+STU91,Studio Art Drawing AP,11,96.35,Arts
+STU93,Studio Art 2-D Design AP,11,97,Arts
+STU97,Studio Art 3-D Design AP,12,97.32,Arts
+STU98,Studio Art 3-D Design AP,11,99.27,Arts
+STU99,Studio Art 3-D Design AP,11,97.56,Arts

@@ -1,0 +1,879 @@
+StudentID,Course,Grade,Section_Grade,Course_Type
+STU1,English Language and Composition AP,11,92.83,English
+STU10,English Language and Composition AP,11,87.43,English
+STU100,English Literature and Composition AP,12,92.47,English
+STU101,English Literature and Composition AP,11,91.18,English
+STU102,Shakespeare Post-AP,12,95.31,English
+STU103,Women Writers Post-AP,12,96.61,English
+STU104,English I Honors,9,96.56,English
+STU105,English Literature and Composition AP,11,92.98,English
+STU106,English II Honors,10,85.08,English
+STU107,English Literature and Composition AP,12,76.25,English
+STU108,English II Honors,10,90.86,English
+STU109,English I Honors,9,96.65,English
+STU11,Shakespeare Post-AP,12,95.57,English
+STU110,English I Honors,9,84.92,English
+STU111,English Language and Composition AP,11,86.94,English
+STU112,Talented Writers Program III Honors,12,93.04,English
+STU113,English Language and Composition AP,10,94.9,English
+STU114,English I Honors,9,92.59,English
+STU115,English Language and Composition AP,10,95.15,English
+STU116,On The Fringe: Marginalized Voices in Literature Post-AP,12,92.89,English
+STU117,English Literature and Composition AP,11,94.73,English
+STU118,English Literature and Composition AP,12,74.82,English
+STU119,English Language and Composition AP,10,94.26,English
+STU12,Mythology Classical and World Literature Post-AP,12,95.7,English
+STU120,English Literature and Composition AP,12,90,English
+STU121,English Language and Composition AP,11,91.64,English
+STU122,English Literature and Composition AP,11,92.3,English
+STU123,English Literature and Composition AP,12,76.77,English
+STU124,English Language and Composition AP,10,95.54,English
+STU125,English Language and Composition AP,11,89.45,English
+STU126,English Literature and Composition AP,11,88.82,English
+STU127,English II Honors,10,92.36,English
+STU128,English Language and Composition AP,11,90.49,English
+STU129,English Literature and Composition AP,11,97.6,English
+STU13,English Literature and Composition AP,12,69.39,English
+STU130,Shakespeare Post-AP,12,96.82,English
+STU131,English Literature and Composition AP,11,97.59,English
+STU132,English Literature and Composition AP,12,90.32,English
+STU133,Mythology Classical and World Literature Post-AP,12,92.68,English
+STU134,English Literature and Composition AP,12,93.1,English
+STU135,English II Honors,10,85.27,English
+STU136,English Language and Composition AP,10,92.88,English
+STU137,English Language and Composition AP,11,90.71,English
+STU138,English Language and Composition AP,10,92.73,English
+STU139,English Literature and Composition AP,12,93.19,English
+STU14,English Language and Composition AP,10,95.61,English
+STU140,English II Honors,10,87.28,English
+STU141,English Literature and Composition AP,12,95.58,English
+STU142,English Literature and Composition AP,12,86.78,English
+STU143,English Literature and Composition AP,12,93.93,English
+STU144,English I Honors,9,89.69,English
+STU145,Shakespeare Post-AP,12,94.59,English
+STU146,English II Honors,10,82.37,English
+STU147,Mythology Classical and World Literature Post-AP,12,94.21,English
+STU148,English II Honors,10,88.32,English
+STU149,English Literature and Composition AP,12,95.61,English
+STU15,English Literature and Composition AP,11,94.13,English
+STU150,English Literature and Composition AP,12,84.65,English
+STU151,Women Writers Post-AP,12,95.25,English
+STU152,English Language and Composition AP,10,95.58,English
+STU153,Women Writers Post-AP,12,98.64,English
+STU154,English Language and Composition AP,11,93.77,English
+STU155,English Literature and Composition AP,12,93.13,English
+STU156,English I Honors,9,84.36,English
+STU157,Women Writers Post-AP,12,95.79,English
+STU158,On The Fringe: Marginalized Voices in Literature Post-AP,12,99.15,English
+STU159,English II Honors,10,91.02,English
+STU16,English Literature and Composition AP,12,94.15,English
+STU160,English Literature and Composition AP,12,94.01,English
+STU161,English Literature and Composition AP,11,95.54,English
+STU162,Women Writers Post-AP,12,94.24,English
+STU163,English Language and Composition AP,10,89.55,English
+STU163,Talented Writers Program I Honors,10,91.25,English
+STU164,English Literature and Composition AP,12,88.37,English
+STU165,English Literature and Composition AP,12,90.02,English
+STU166,English Language and Composition AP,10,89.58,English
+STU167,English Literature and Composition AP,11,95.7,English
+STU168,English Literature and Composition AP,11,96.1,English
+STU169,English I Honors,9,98.5,English
+STU17,English Language and Composition AP,11,85.18,English
+STU170,English Literature and Composition AP,12,89.72,English
+STU171,Mythology Classical and World Literature Post-AP,12,97.99,English
+STU172,Mythology Classical and World Literature Post-AP,12,96.02,English
+STU173,English Literature and Composition AP,12,68.8,English
+STU174,English Literature and Composition AP,12,88.3,English
+STU175,English Literature and Composition AP,12,78.18,English
+STU176,English Literature and Composition AP,11,93.46,English
+STU177,English Language and Composition AP,10,93.67,English
+STU178,On The Fringe: Marginalized Voices in Literature Post-AP,12,96.6,English
+STU178,Talented Writers Program III Honors,12,92.05,English
+STU179,English Language and Composition AP,11,89.68,English
+STU18,English Literature and Composition AP,11,91.79,English
+STU180,English Literature and Composition AP,12,93.44,English
+STU181,Women Writers Post-AP,12,93.93,English
+STU182,English I Honors,9,82.59,English
+STU183,English Literature and Composition AP,12,88.81,English
+STU184,English Language and Composition AP,10,93.03,English
+STU185,English Language and Composition AP,11,89.5,English
+STU186,English Literature and Composition AP,12,85.31,English
+STU187,English Literature and Composition AP,11,95.89,English
+STU188,English I Honors,9,95.34,English
+STU189,English Language and Composition AP,11,89.75,English
+STU19,English I Honors,9,97.18,English
+STU190,English Literature and Composition AP,11,95.94,English
+STU191,English Literature and Composition AP,11,91.51,English
+STU192,English Literature and Composition AP,12,95.27,English
+STU193,English I Honors,9,88.27,English
+STU194,English Literature and Composition AP,11,96.24,English
+STU195,English Literature and Composition AP,11,91.25,English
+STU196,English Language and Composition AP,11,91.13,English
+STU197,English I Honors,9,97.94,English
+STU198,English Literature and Composition AP,12,91.39,English
+STU199,English Language and Composition AP,11,91.34,English
+STU2,English Language and Composition AP,11,89.33,English
+STU20,English I Honors,9,89.39,English
+STU200,English Literature and Composition AP,11,90.35,English
+STU201,English Literature and Composition AP,11,90.62,English
+STU202,Shakespeare Post-AP,12,94.5,English
+STU203,English Literature and Composition AP,12,77.31,English
+STU204,English Language and Composition AP,11,90.3,English
+STU205,English Literature and Composition AP,11,92.91,English
+STU206,English Literature and Composition AP,12,91.9,English
+STU207,English Literature and Composition AP,12,76.68,English
+STU208,English Language and Composition AP,10,93.15,English
+STU209,English I Honors,9,94.65,English
+STU21,English Literature and Composition AP,11,90.53,English
+STU210,English Literature and Composition AP,11,94.08,English
+STU211,English Literature and Composition AP,11,91.54,English
+STU212,English Language and Composition AP,11,91.11,English
+STU213,English Literature and Composition AP,12,76.45,English
+STU214,English Literature and Composition AP,11,86.57,English
+STU215,English Literature and Composition AP,12,89.72,English
+STU216,English II Honors,10,84.3,English
+STU217,English Literature and Composition AP,11,93.12,English
+STU218,English Literature and Composition AP,11,85.1,English
+STU219,English I Honors,9,92.61,English
+STU22,English Literature and Composition AP,11,91.52,English
+STU220,English Language and Composition AP,11,88.62,English
+STU221,English Literature and Composition AP,12,91.08,English
+STU221,Talented Writers Program III Honors,12,83.38,English
+STU222,English I Honors,9,88.95,English
+STU223,English Language and Composition AP,11,88.36,English
+STU224,English Literature and Composition AP,12,85,English
+STU225,English Literature and Composition AP,11,92.54,English
+STU226,English I Honors,9,96.59,English
+STU227,Mythology Classical and World Literature Post-AP,12,90.05,English
+STU228,English Language and Composition AP,10,90.76,English
+STU229,English Language and Composition AP,11,87.47,English
+STU23,Women Writers Post-AP,12,94.92,English
+STU230,English Literature and Composition AP,11,92.08,English
+STU231,English Literature and Composition AP,12,77.45,English
+STU232,English Literature and Composition AP,12,89.18,English
+STU233,English Language and Composition AP,11,88.7,English
+STU234,English II Honors,10,89.92,English
+STU235,English Literature and Composition AP,12,81.18,English
+STU236,English II Honors,10,88.65,English
+STU237,English Literature and Composition AP,11,92.16,English
+STU238,English II Honors,10,87.6,English
+STU239,English I Honors,9,90.57,English
+STU24,English Literature and Composition AP,11,89.83,English
+STU240,English Literature and Composition AP,11,99.71,English
+STU241,English II Honors,10,91.99,English
+STU242,English Language and Composition AP,11,91.72,English
+STU243,English Language and Composition AP,10,92.52,English
+STU244,English II Honors,10,86.44,English
+STU245,English II Honors,10,90.16,English
+STU247,English Language and Composition AP,10,93.72,English
+STU248,English II Honors,10,93.24,English
+STU249,English I Honors,9,94.97,English
+STU25,English Language and Composition AP,11,93.78,English
+STU250,English Language and Composition AP,10,92.52,English
+STU251,English Language and Composition AP,11,93.7,English
+STU252,English Literature and Composition AP,11,87.97,English
+STU253,English Language and Composition AP,11,94.26,English
+STU254,English Language and Composition AP,10,87.8,English
+STU255,English Literature and Composition AP,11,87.03,English
+STU256,English Language and Composition AP,10,95.76,English
+STU257,English I Honors,9,93.18,English
+STU258,English I Honors,9,96.83,English
+STU259,English Language and Composition AP,11,84.65,English
+STU26,Shakespeare Post-AP,12,94.7,English
+STU260,English I Honors,9,96.65,English
+STU261,English Literature and Composition AP,11,92.36,English
+STU262,English II Honors,10,94.94,English
+STU263,English Language and Composition AP,11,90.66,English
+STU264,English Language and Composition AP,10,94.55,English
+STU265,English II Honors,10,93.57,English
+STU266,English II Honors,10,86.47,English
+STU267,English Language and Composition AP,10,92.3,English
+STU268,English Literature and Composition AP,12,89.51,English
+STU269,English II Honors,10,84.58,English
+STU27,English Language and Composition AP,10,93.94,English
+STU270,English Language and Composition AP,11,88.96,English
+STU271,English I Honors,9,89.64,English
+STU272,English Language and Composition AP,11,92.09,English
+STU273,English Language and Composition AP,10,93.29,English
+STU274,English I Honors,9,87.52,English
+STU275,English Language and Composition AP,11,90.08,English
+STU276,English Literature and Composition AP,11,87.37,English
+STU277,Shakespeare Post-AP,12,93.95,English
+STU278,English I Honors,9,95.43,English
+STU279,English Literature and Composition AP,11,91.73,English
+STU280,English Language and Composition AP,10,97.41,English
+STU281,English Language and Composition AP,10,93.21,English
+STU282,English Language and Composition AP,11,88.29,English
+STU283,English II Honors,10,89.37,English
+STU284,English Literature and Composition AP,12,94.24,English
+STU285,English Language and Composition AP,10,89.09,English
+STU286,English Language and Composition AP,10,95.16,English
+STU287,English Literature and Composition AP,11,93.4,English
+STU288,English Language and Composition AP,10,91.24,English
+STU289,English I Honors,9,93.56,English
+STU29,Talented Writers Program III Honors,12,92.89,English
+STU290,Shakespeare Post-AP,12,96.15,English
+STU291,English Literature and Composition AP,11,90.14,English
+STU292,English Language and Composition AP,11,86.76,English
+STU293,English Literature and Composition AP,12,92.92,English
+STU294,English Literature and Composition AP,11,93.5,English
+STU295,English I Honors,9,95.16,English
+STU296,English II Honors,10,92.03,English
+STU297,English Language and Composition AP,10,92.87,English
+STU298,English I Honors,9,94.83,English
+STU299,English II Honors,10,90.2,English
+STU3,English Literature and Composition AP,11,96.89,English
+STU3,Talented Writers Program II Honors,11,95.2,English
+STU30,Shakespeare Post-AP,12,95.14,English
+STU300,English II Honors,10,92.26,English
+STU301,English Language and Composition AP,10,93.64,English
+STU302,English Language and Composition AP,10,92.8,English
+STU302,Talented Writers Program I Honors,10,91.62,English
+STU303,English II Honors,10,84.78,English
+STU304,English II Honors,10,91.65,English
+STU305,English Literature and Composition AP,11,90.19,English
+STU306,English II Honors,10,87.57,English
+STU307,English Language and Composition AP,10,93.57,English
+STU308,English I Honors,9,99.05,English
+STU309,English Language and Composition AP,10,89.95,English
+STU31,English Literature and Composition AP,12,91.92,English
+STU310,Mythology Classical and World Literature Post-AP,12,92.49,English
+STU311,English Language and Composition AP,10,96.23,English
+STU312,English Literature and Composition AP,11,94.54,English
+STU313,English Literature and Composition AP,11,89.28,English
+STU314,English I Honors,9,92.54,English
+STU315,English I Honors,9,97.35,English
+STU316,English II Honors,10,84.54,English
+STU317,English Language and Composition AP,10,89.4,English
+STU318,English Language and Composition AP,10,88.48,English
+STU318,Talented Writers Program I Honors,10,83.12,English
+STU319,English I Honors,9,83.8,English
+STU32,English Literature and Composition AP,11,96.66,English
+STU320,English I Honors,9,82.97,English
+STU321,English I Honors,9,91.62,English
+STU322,English I Honors,9,85.66,English
+STU323,English Language and Composition AP,10,88.06,English
+STU323,Talented Writers Program I Honors,10,85.29,English
+STU324,English I Honors,9,89.6,English
+STU325,English Language and Composition AP,10,94.69,English
+STU326,English II Honors,10,95.43,English
+STU327,English Language and Composition AP,10,90.93,English
+STU328,English Language and Composition AP,10,87.02,English
+STU329,English I Honors,9,93.01,English
+STU33,English II Honors,10,93.65,English
+STU330,English I Honors,9,95.9,English
+STU331,English Literature and Composition AP,11,91.13,English
+STU332,English I Honors,9,77.63,English
+STU333,English II Honors,10,94.16,English
+STU334,English I Honors,9,93.58,English
+STU335,Mythology Classical and World Literature Post-AP,12,94.55,English
+STU335,Talented Writers Program II Honors,12,92.44,English
+STU336,English Literature and Composition AP,11,92.3,English
+STU337,English I Honors,9,94.64,English
+STU338,English Language and Composition AP,10,90,English
+STU339,English I Honors,9,97.27,English
+STU34,English Literature and Composition AP,12,92.88,English
+STU340,Mythology Classical and World Literature Post-AP,12,93.64,English
+STU341,English II Honors,10,95.62,English
+STU342,English Language and Composition AP,11,90.57,English
+STU343,English Literature and Composition AP,11,93.4,English
+STU344,English Language and Composition AP,11,92.2,English
+STU345,English Literature and Composition AP,12,95.59,English
+STU346,English I Honors,9,95.15,English
+STU347,Women Writers Post-AP,12,93.9,English
+STU348,English I Honors,9,96.56,English
+STU349,English Literature and Composition AP,12,86.94,English
+STU35,English Literature and Composition AP,11,96.29,English
+STU350,English Literature and Composition AP,11,96.88,English
+STU351,English I Honors,9,90.14,English
+STU352,Women Writers Post-AP,12,95.93,English
+STU353,Mythology Classical and World Literature Post-AP,12,96.57,English
+STU354,English Language and Composition AP,10,95.28,English
+STU355,Mythology Classical and World Literature Post-AP,12,94.85,English
+STU356,English Language and Composition AP,10,86.92,English
+STU357,English Language and Composition AP,10,92.73,English
+STU358,English Literature and Composition AP,12,93.24,English
+STU359,English I Honors,9,96.65,English
+STU36,English Language and Composition AP,11,92.69,English
+STU360,English Literature and Composition AP,11,90.1,English
+STU361,English I Honors,9,97.67,English
+STU362,English I Honors,9,98.24,English
+STU363,English I Honors,9,96.56,English
+STU364,English I Honors,9,86.93,English
+STU365,English Language and Composition AP,10,92.55,English
+STU366,English II Honors,10,92.57,English
+STU367,English I Honors,9,97.27,English
+STU368,English Literature and Composition AP,11,98.27,English
+STU369,English I Honors,9,86.71,English
+STU37,English Literature and Composition AP,12,89.47,English
+STU370,English I Honors,9,97.27,English
+STU371,English I Honors,9,96.56,English
+STU372,English I Honors,9,91.81,English
+STU373,English I Honors,9,85.66,English
+STU374,English I Honors,9,79.52,English
+STU375,Mythology Classical and World Literature Post-AP,12,94.71,English
+STU375,On The Fringe: Marginalized Voices in Literature Post-AP,12,99.15,English
+STU376,English I Honors,9,93.21,English
+STU377,English Literature and Composition AP,12,95.3,English
+STU378,English I Honors,9,92.71,English
+STU379,English Literature and Composition AP,11,93.98,English
+STU38,English I Honors,9,88.98,English
+STU380,English I Honors,9,96.65,English
+STU381,English II Honors,10,81.64,English
+STU382,English Language and Composition AP,10,92.8,English
+STU382,Talented Writers Program I Honors,10,92.04,English
+STU383,English Literature and Composition AP,12,86.63,English
+STU384,English I Honors,9,97.19,English
+STU385,English I Honors,9,95.9,English
+STU386,English Language and Composition AP,10,92.1,English
+STU387,English Literature and Composition AP,12,90.08,English
+STU388,English I Honors,9,88.64,English
+STU389,English Language and Composition AP,10,89.58,English
+STU39,Mythology Classical and World Literature Post-AP,12,94.65,English
+STU390,English Language and Composition AP,10,90.15,English
+STU391,English Language and Composition AP,11,93.77,English
+STU392,English Literature and Composition AP,12,89.71,English
+STU393,English Language and Composition AP,10,88.52,English
+STU394,English Literature and Composition AP,11,91.7,English
+STU395,English Literature and Composition AP,12,89.73,English
+STU396,English II Honors,10,92.26,English
+STU397,English Literature and Composition AP,12,92.88,English
+STU398,English II Honors,10,91.3,English
+STU399,English Language and Composition AP,11,89.46,English
+STU4,English II Honors,10,95.48,English
+STU40,Shakespeare Post-AP,12,93.45,English
+STU400,Shakespeare Post-AP,12,96.17,English
+STU401,English Literature and Composition AP,11,96.76,English
+STU402,English Literature and Composition AP,11,91.94,English
+STU403,English I Honors,9,90,English
+STU404,English I Honors,9,93.48,English
+STU405,English I Honors,9,91.9,English
+STU406,English I Honors,9,90.3,English
+STU407,English I Honors,9,93.56,English
+STU408,On The Fringe: Marginalized Voices in Literature Post-AP,12,96.6,English
+STU409,English Language and Composition AP,11,87.9,English
+STU41,English Literature and Composition AP,11,94.63,English
+STU410,Shakespeare Post-AP,12,93.22,English
+STU411,English I Honors,9,96.5,English
+STU412,English I Honors,9,82.29,English
+STU413,English I Honors,9,87.31,English
+STU414,English Literature and Composition AP,12,93.27,English
+STU415,English I Honors,9,89.67,English
+STU416,English I Honors,9,96.09,English
+STU417,English I Honors,9,93.57,English
+STU418,English Literature and Composition AP,11,94.29,English
+STU419,English II Honors,10,93.11,English
+STU42,English I Honors,9,91.43,English
+STU420,English Literature and Composition AP,12,94.5,English
+STU421,English Literature and Composition AP,12,92.06,English
+STU422,English I Honors,9,92.88,English
+STU423,English I Honors,9,90.16,English
+STU424,English Language and Composition AP,10,94.13,English
+STU425,English Literature and Composition AP,12,92.11,English
+STU426,English Language and Composition AP,10,93.33,English
+STU427,English I Honors,9,89.76,English
+STU428,Mythology Classical and World Literature Post-AP,12,94.51,English
+STU429,English I Honors,9,93.07,English
+STU43,English Language and Composition AP,10,94.35,English
+STU430,English Language and Composition AP,11,87.68,English
+STU431,English Literature and Composition AP,12,93.52,English
+STU432,English I Honors,9,90.5,English
+STU433,English I Honors,9,84.63,English
+STU434,English Literature and Composition AP,11,92.34,English
+STU435,English Literature and Composition AP,12,80.87,English
+STU436,English Language and Composition AP,11,84.19,English
+STU437,English I Honors,9,85.94,English
+STU438,English I Honors,9,91.05,English
+STU439,English Literature and Composition AP,11,89.08,English
+STU44,English Literature and Composition AP,12,77.52,English
+STU440,English Literature and Composition AP,11,87.4,English
+STU441,English Literature and Composition AP,12,95.77,English
+STU442,English Language and Composition AP,11,93.08,English
+STU442,Talented Writers Program I Honors,11,89.11,English
+STU443,English II Honors,10,97.32,English
+STU444,Mythology Classical and World Literature Post-AP,12,95.63,English
+STU445,English Literature and Composition AP,12,92.3,English
+STU446,English Literature and Composition AP,11,95.96,English
+STU447,Women Writers Post-AP,12,94.92,English
+STU448,English Literature and Composition AP,11,88.53,English
+STU449,English I Honors,9,85.49,English
+STU45,English Literature and Composition AP,11,92.58,English
+STU450,English Language and Composition AP,10,93,English
+STU451,Shakespeare Post-AP,12,93.8,English
+STU452,English Language and Composition AP,10,98.22,English
+STU453,English I Honors,9,92.71,English
+STU454,Mythology Classical and World Literature Post-AP,12,95.08,English
+STU455,English Language and Composition AP,10,92.57,English
+STU456,English II Honors,10,89.71,English
+STU457,English II Honors,10,92.47,English
+STU458,English Literature and Composition AP,11,89.99,English
+STU459,English Language and Composition AP,11,90.59,English
+STU46,Shakespeare Post-AP,12,96.34,English
+STU460,English I Honors,9,90.32,English
+STU461,English Literature and Composition AP,11,88.94,English
+STU462,English II Honors,10,88.8,English
+STU463,English II Honors,10,93.71,English
+STU464,English I Honors,9,95.82,English
+STU465,English I Honors,9,91.99,English
+STU466,English Literature and Composition AP,11,92.37,English
+STU467,English Language and Composition AP,11,89.48,English
+STU468,English I Honors,9,81.75,English
+STU469,English Literature and Composition AP,12,90.05,English
+STU47,English Language and Composition AP,10,93.64,English
+STU470,English I Honors,9,92.54,English
+STU471,English Literature and Composition AP,11,96.28,English
+STU472,English I Honors,9,91.99,English
+STU473,English Language and Composition AP,11,83.42,English
+STU474,Shakespeare Post-AP,12,94.22,English
+STU475,English I Honors,9,88.64,English
+STU476,English I Honors,9,83.33,English
+STU477,English Language and Composition AP,11,91.05,English
+STU478,English Language and Composition AP,11,86.13,English
+STU479,Women Writers Post-AP,12,94.04,English
+STU48,English Language and Composition AP,11,93.51,English
+STU480,English Language and Composition AP,10,94.29,English
+STU481,Mythology Classical and World Literature Post-AP,12,93.92,English
+STU482,English Literature and Composition AP,12,89.07,English
+STU483,Shakespeare Post-AP,12,89.15,English
+STU484,English Language and Composition AP,11,95.08,English
+STU485,English Literature and Composition AP,11,95.58,English
+STU486,English Literature and Composition AP,11,90.86,English
+STU487,English Literature and Composition AP,11,95.05,English
+STU488,English Literature and Composition AP,11,93.18,English
+STU489,English Literature and Composition AP,12,79.89,English
+STU49,Shakespeare Post-AP,12,94.62,English
+STU490,On The Fringe: Marginalized Voices in Literature Post-AP,12,98.72,English
+STU491,Shakespeare Post-AP,12,93.16,English
+STU491,Talented Writers Program III Honors,12,83.41,English
+STU492,English Literature and Composition AP,12,76.14,English
+STU493,English Language and Composition AP,10,84.63,English
+STU494,English Language and Composition AP,11,92.66,English
+STU495,English Literature and Composition AP,12,92.19,English
+STU495,Talented Writers Program III Honors,12,91.45,English
+STU496,English Language and Composition AP,10,96.36,English
+STU497,English Language and Composition AP,10,93.64,English
+STU498,English I Honors,9,89.83,English
+STU499,English Language and Composition AP,11,96.42,English
+STU5,English Literature and Composition AP,12,84.61,English
+STU50,English I Honors,9,94.09,English
+STU500,English Literature and Composition AP,12,93.45,English
+STU501,English II Honors,10,89.37,English
+STU502,English Literature and Composition AP,11,93.78,English
+STU503,Mythology Classical and World Literature Post-AP,12,94.9,English
+STU504,English I Honors,9,94.53,English
+STU505,English I Honors,9,92.36,English
+STU506,Mythology Classical and World Literature Post-AP,12,91.72,English
+STU507,English II Honors,10,89.37,English
+STU508,English I Honors,9,96.46,English
+STU509,English Literature and Composition AP,12,96.05,English
+STU51,English Literature and Composition AP,12,93.74,English
+STU510,English Language and Composition AP,10,90.73,English
+STU511,Mythology Classical and World Literature Post-AP,12,93.8,English
+STU512,Shakespeare Post-AP,12,94.14,English
+STU513,English Literature and Composition AP,11,93.25,English
+STU514,English II Honors,10,85.02,English
+STU515,English Literature and Composition AP,12,87.46,English
+STU516,English Language and Composition AP,10,92.42,English
+STU517,English Literature and Composition AP,12,89.66,English
+STU518,English Literature and Composition AP,11,96.89,English
+STU519,English Language and Composition AP,10,95.45,English
+STU52,Women Writers Post-AP,12,96.27,English
+STU520,English I Honors,9,92.85,English
+STU521,English Language and Composition AP,11,90.41,English
+STU522,English Literature and Composition AP,12,92.6,English
+STU523,English Literature and Composition AP,11,93.78,English
+STU524,Mythology Classical and World Literature Post-AP,12,94.35,English
+STU525,English Literature and Composition AP,11,92.4,English
+STU526,English I Honors,9,91.8,English
+STU527,English Literature and Composition AP,12,88.34,English
+STU528,Shakespeare Post-AP,12,89.35,English
+STU529,English Literature and Composition AP,12,98.62,English
+STU53,English I Honors,9,94.14,English
+STU530,English Literature and Composition AP,12,83.99,English
+STU531,English Literature and Composition AP,12,87.98,English
+STU532,English I Honors,9,93.25,English
+STU533,Mythology Classical and World Literature Post-AP,12,96.06,English
+STU534,English I Honors,9,90.35,English
+STU535,On The Fringe: Marginalized Voices in Literature Post-AP,12,97.02,English
+STU536,Shakespeare Post-AP,12,93.8,English
+STU537,English I Honors,9,86.87,English
+STU538,English Language and Composition AP,10,96.5,English
+STU539,English II Honors,10,88.19,English
+STU54,English Literature and Composition AP,12,90.39,English
+STU540,Women Writers Post-AP,12,96.95,English
+STU541,English I Honors,9,93.55,English
+STU542,English Language and Composition AP,11,92.46,English
+STU543,Mythology Classical and World Literature Post-AP,12,88.01,English
+STU544,Shakespeare Post-AP,12,95.56,English
+STU545,English Literature and Composition AP,12,92.58,English
+STU546,English I Honors,9,87.71,English
+STU547,English I Honors,9,94.27,English
+STU548,English Literature and Composition AP,12,83.88,English
+STU549,English Language and Composition AP,11,89.53,English
+STU55,Shakespeare Post-AP,12,94.55,English
+STU550,English Language and Composition AP,11,89.21,English
+STU551,Mythology Classical and World Literature Post-AP,12,95.08,English
+STU552,English Language and Composition AP,10,96.82,English
+STU553,Mythology Classical and World Literature Post-AP,12,91.24,English
+STU554,English Literature and Composition AP,12,90.39,English
+STU555,English Language and Composition AP,10,89.15,English
+STU556,English I Honors,9,94.73,English
+STU557,English Literature and Composition AP,11,90.85,English
+STU558,English Language and Composition AP,10,95.45,English
+STU559,English Literature and Composition AP,11,93.09,English
+STU56,Shakespeare Post-AP,12,89.5,English
+STU560,English I Honors,9,98.06,English
+STU561,English Literature and Composition AP,11,90.65,English
+STU562,On The Fringe: Marginalized Voices in Literature Post-AP,12,79.53,English
+STU563,English I Honors,9,87.92,English
+STU564,English Language and Composition AP,10,94.88,English
+STU565,English II Honors,10,93.44,English
+STU566,English Literature and Composition AP,11,93.88,English
+STU567,English Literature and Composition AP,12,91.37,English
+STU568,English I Honors,9,90.65,English
+STU569,English Literature and Composition AP,11,94.55,English
+STU57,English Literature and Composition AP,12,82.66,English
+STU570,English Literature and Composition AP,11,90.12,English
+STU571,English Literature and Composition AP,12,93.43,English
+STU572,English II Honors,10,86.96,English
+STU573,English Language and Composition AP,10,94.24,English
+STU574,English Language and Composition AP,10,97.96,English
+STU575,English Language and Composition AP,10,91.52,English
+STU576,English I Honors,9,93.83,English
+STU577,English Language and Composition AP,11,88.18,English
+STU578,English I Honors,9,89.19,English
+STU579,English Literature and Composition AP,11,95.34,English
+STU58,English I Honors,9,92.86,English
+STU580,English I Honors,9,95.94,English
+STU581,English Language and Composition AP,10,89.39,English
+STU582,English II Honors,10,86.47,English
+STU583,English Literature and Composition AP,11,90.01,English
+STU584,English II Honors,10,88.14,English
+STU585,English Literature and Composition AP,11,91.36,English
+STU586,English Literature and Composition AP,11,94.85,English
+STU587,English Literature and Composition AP,11,92.9,English
+STU588,English Language and Composition AP,11,88.34,English
+STU589,English I Honors,9,87.9,English
+STU59,English I Honors,9,76.6,English
+STU590,English II Honors,10,86.23,English
+STU591,English Language and Composition AP,10,97.66,English
+STU592,On The Fringe: Marginalized Voices in Literature Post-AP,12,98.72,English
+STU593,English Language and Composition AP,10,93.03,English
+STU594,English Language and Composition AP,11,87.13,English
+STU595,English Language and Composition AP,10,94.24,English
+STU596,Mythology Classical and World Literature Post-AP,12,88.67,English
+STU597,English Literature and Composition AP,11,91.53,English
+STU598,English I Honors,9,97.53,English
+STU599,English I Honors,9,94.23,English
+STU6,English II Honors,10,94.2,English
+STU60,English Language and Composition AP,10,89.09,English
+STU600,English Literature and Composition AP,11,95.3,English
+STU601,English I Honors,9,92.64,English
+STU602,English Language and Composition AP,11,92.59,English
+STU603,English Literature and Composition AP,12,80.56,English
+STU604,English I Honors,9,89.51,English
+STU605,English I Honors,9,93.96,English
+STU606,English Literature and Composition AP,12,94.27,English
+STU607,English Language and Composition AP,10,90.08,English
+STU608,English Language and Composition AP,10,101.63,English
+STU609,English I Honors,9,90.24,English
+STU61,English Language and Composition AP,10,92.73,English
+STU610,English Language and Composition AP,10,90.3,English
+STU611,English II Honors,10,88.46,English
+STU612,English I Honors,9,92.74,English
+STU613,English I Honors,9,92.54,English
+STU614,English Literature and Composition AP,12,92.66,English
+STU615,English II Honors,10,95.17,English
+STU616,English Language and Composition AP,10,94.04,English
+STU617,English Literature and Composition AP,12,92.97,English
+STU618,English Language and Composition AP,10,97,English
+STU619,English I Honors,9,95.94,English
+STU62,English Literature and Composition AP,11,87.94,English
+STU620,English Literature and Composition AP,11,93.38,English
+STU621,English I Honors,9,97.71,English
+STU622,Mythology Classical and World Literature Post-AP,12,95.54,English
+STU623,English II Honors,10,84.78,English
+STU624,English Language and Composition AP,10,89.57,English
+STU625,English I Honors,9,95.68,English
+STU626,English I Honors,9,97.09,English
+STU627,English Literature and Composition AP,11,93.16,English
+STU628,English Literature and Composition AP,11,95.58,English
+STU629,English I Honors,9,92.66,English
+STU63,English I Honors,9,88.2,English
+STU630,English Language and Composition AP,10,85.12,English
+STU631,Shakespeare Post-AP,12,90.5,English
+STU632,English I Honors,9,94.95,English
+STU633,English Literature and Composition AP,11,97.18,English
+STU634,English Language and Composition AP,10,97.27,English
+STU634,Talented Writers Program I Honors,10,94.84,English
+STU635,English Literature and Composition AP,12,93.94,English
+STU636,English I Honors,9,89.85,English
+STU637,English I Honors,9,96.83,English
+STU638,English Language and Composition AP,10,93.33,English
+STU639,English I Honors,9,94.23,English
+STU64,English Literature and Composition AP,11,91.63,English
+STU640,English I Honors,9,89.5,English
+STU641,English II Honors,10,91.55,English
+STU642,English Literature and Composition AP,11,92.37,English
+STU643,English I Honors,9,97.41,English
+STU644,English I Honors,9,94.8,English
+STU645,English I Honors,9,81.94,English
+STU646,English I Honors,9,97.35,English
+STU647,English I Honors,9,87.9,English
+STU648,English I Honors,9,92.5,English
+STU649,English Language and Composition AP,10,93.03,English
+STU65,English II Honors,10,89.34,English
+STU650,English Literature and Composition AP,11,92.01,English
+STU651,English I Honors,9,91,English
+STU652,English Language and Composition AP,11,91.61,English
+STU653,English II Honors,10,91.89,English
+STU654,English Language and Composition AP,10,97.49,English
+STU655,English II Honors,10,92.51,English
+STU656,English Language and Composition AP,10,91.09,English
+STU657,English II Honors,10,95.22,English
+STU658,English Language and Composition AP,10,90.35,English
+STU659,English Literature and Composition AP,12,96.2,English
+STU66,Shakespeare Post-AP,12,95.48,English
+STU660,English II Honors,10,90.53,English
+STU661,English I Honors,9,96.56,English
+STU662,English II Honors,10,87.64,English
+STU663,English Language and Composition AP,10,94.36,English
+STU664,English Literature and Composition AP,11,88.64,English
+STU665,English Literature and Composition AP,11,88.82,English
+STU666,English I Honors,9,96.56,English
+STU668,English Literature and Composition AP,12,88.19,English
+STU669,English Literature and Composition AP,11,95.1,English
+STU67,English Literature and Composition AP,12,93.82,English
+STU670,English Language and Composition AP,11,86.98,English
+STU671,English Literature and Composition AP,11,92.32,English
+STU672,English Literature and Composition AP,12,89.01,English
+STU673,English I Honors,9,93.21,English
+STU674,English Literature and Composition AP,11,97.05,English
+STU675,English Language and Composition AP,10,90.14,English
+STU676,English I Honors,9,92.54,English
+STU677,English Language and Composition AP,10,95.12,English
+STU678,Shakespeare Post-AP,12,91.46,English
+STU679,English I Honors,9,90.6,English
+STU68,English Literature and Composition AP,12,95.08,English
+STU680,English Language and Composition AP,10,91.52,English
+STU681,English I Honors,9,95.77,English
+STU682,On The Fringe: Marginalized Voices in Literature Post-AP,12,97.33,English
+STU683,English I Honors,9,93.58,English
+STU684,On The Fringe: Marginalized Voices in Literature Post-AP,12,97.78,English
+STU685,English I Honors,9,90.59,English
+STU686,Shakespeare Post-AP,12,95.48,English
+STU687,English Literature and Composition AP,11,94.53,English
+STU688,English I Honors,9,89.5,English
+STU689,English Literature and Composition AP,12,86.52,English
+STU69,English I Honors,9,84.2,English
+STU690,English I Honors,9,84.92,English
+STU691,English I Honors,9,92.5,English
+STU692,English Literature and Composition AP,11,85.41,English
+STU693,English I Honors,9,94.71,English
+STU694,English Literature and Composition AP,12,81.19,English
+STU695,Shakespeare Post-AP,12,95.63,English
+STU696,English I Honors,9,88.8,English
+STU697,English I Honors,9,86.46,English
+STU698,English Literature and Composition AP,12,94.25,English
+STU699,English Literature and Composition AP,12,58.62,English
+STU7,English Language and Composition AP,10,92.52,English
+STU70,Mythology Classical and World Literature Post-AP,12,97.53,English
+STU700,English I Honors,9,95.5,English
+STU701,English I Honors,9,89.29,English
+STU702,English Literature and Composition AP,12,86.32,English
+STU703,English I Honors,9,87.05,English
+STU704,English I Honors,9,96.46,English
+STU705,English I Honors,9,95.36,English
+STU706,English Language and Composition AP,10,97.84,English
+STU707,English I Honors,9,91.62,English
+STU708,Shakespeare Post-AP,12,93.22,English
+STU709,Shakespeare Post-AP,12,95.91,English
+STU71,English Literature and Composition AP,11,93.48,English
+STU710,English I Honors,9,94.21,English
+STU711,English I Honors,9,96.67,English
+STU712,English Language and Composition AP,10,91.36,English
+STU713,English I Honors,9,89.66,English
+STU714,English I Honors,9,92.5,English
+STU715,Mythology Classical and World Literature Post-AP,12,92.49,English
+STU716,English Literature and Composition AP,11,96.05,English
+STU717,English Language and Composition AP,11,92.51,English
+STU718,English Literature and Composition AP,12,92.9,English
+STU719,English I Honors,9,94.07,English
+STU72,English Literature and Composition AP,12,90.24,English
+STU720,English II Honors,10,88.47,English
+STU721,English Language and Composition AP,11,90.84,English
+STU722,English Literature and Composition AP,12,87.49,English
+STU723,English Language and Composition AP,10,93.64,English
+STU724,English Literature and Composition AP,12,90.1,English
+STU725,English Literature and Composition AP,11,96.54,English
+STU726,English Language and Composition AP,10,86.77,English
+STU727,English I Honors,9,94.84,English
+STU728,Women Writers Post-AP,12,96.49,English
+STU729,English II Honors,10,91.58,English
+STU73,English Literature and Composition AP,11,89.39,English
+STU730,English I Honors,9,93.64,English
+STU731,English Language and Composition AP,10,92.02,English
+STU731,Talented Writers Program I Honors,10,87.68,English
+STU732,Mythology Classical and World Literature Post-AP,12,94.64,English
+STU733,English Literature and Composition AP,11,95.94,English
+STU734,English Language and Composition AP,10,92.64,English
+STU735,English I Honors,9,94.6,English
+STU736,English I Honors,9,97.62,English
+STU737,English Literature and Composition AP,12,83.27,English
+STU737,Talented Writers Program II Honors,12,87.66,English
+STU738,English Language and Composition AP,11,94.77,English
+STU739,English I Honors,9,90.52,English
+STU74,Shakespeare Post-AP,12,93.8,English
+STU740,English Language and Composition AP,10,96.67,English
+STU741,English Literature and Composition AP,11,96.62,English
+STU742,English Literature and Composition AP,11,89.86,English
+STU743,English I Honors,9,97.18,English
+STU744,English I Honors,9,94.39,English
+STU745,English Language and Composition AP,10,98.88,English
+STU746,English Literature and Composition AP,11,93.03,English
+STU747,English Literature and Composition AP,11,92.13,English
+STU748,English Literature and Composition AP,11,91.53,English
+STU749,English Literature and Composition AP,11,87.61,English
+STU75,English Literature and Composition AP,11,91.6,English
+STU750,English II Honors,10,90.82,English
+STU751,English II Honors,10,87.92,English
+STU752,English Literature and Composition AP,11,94.82,English
+STU753,English II Honors,10,89.86,English
+STU754,English Literature and Composition AP,11,88.43,English
+STU754,Talented Writers Program II Honors,11,90.93,English
+STU755,English Language and Composition AP,10,92.58,English
+STU756,English I Honors,9,90.43,English
+STU757,English Literature and Composition AP,11,93.47,English
+STU758,English Literature and Composition AP,11,93.86,English
+STU759,English Literature and Composition AP,11,94.75,English
+STU76,English Literature and Composition AP,11,89.81,English
+STU760,English I Honors,9,83.05,English
+STU761,English I Honors,9,89.81,English
+STU762,English I Honors,9,82.5,English
+STU763,English Language and Composition AP,11,87.56,English
+STU764,English I Honors,9,94.97,English
+STU765,English Language and Composition AP,10,93.94,English
+STU766,English Literature and Composition AP,11,91.61,English
+STU767,English II Honors,10,86.47,English
+STU768,English Literature and Composition AP,11,92.19,English
+STU769,English I Honors,9,93.09,English
+STU77,Shakespeare Post-AP,12,95.35,English
+STU770,English Literature and Composition AP,11,96.64,English
+STU771,English I Honors,9,93.36,English
+STU772,English Language and Composition AP,10,97.62,English
+STU773,English Language and Composition AP,10,89.61,English
+STU774,English Literature and Composition AP,11,94.77,English
+STU775,English I Honors,9,97.02,English
+STU776,English Literature and Composition AP,11,91.59,English
+STU777,English I Honors,9,87.74,English
+STU778,English Language and Composition AP,10,90.15,English
+STU778,Talented Writers Program I Honors,10,90.79,English
+STU779,English Language and Composition AP,10,92.73,English
+STU779,Talented Writers Program I Honors,10,91.57,English
+STU78,English Language and Composition AP,10,89.38,English
+STU780,English II Honors,10,84.06,English
+STU781,English I Honors,9,94.6,English
+STU782,English Literature and Composition AP,12,93.13,English
+STU783,English I Honors,9,86.22,English
+STU784,English Language and Composition AP,10,93.02,English
+STU785,English Language and Composition AP,10,93.01,English
+STU786,English I Honors,9,87.39,English
+STU787,English Language and Composition AP,11,88.5,English
+STU788,English Literature and Composition AP,12,95.82,English
+STU789,English I Honors,9,95.86,English
+STU79,English Literature and Composition AP,12,92.91,English
+STU790,English I Honors,9,90.3,English
+STU791,English I Honors,9,90.45,English
+STU792,English II Honors,10,90.35,English
+STU793,English I Honors,9,87.9,English
+STU794,English Language and Composition AP,10,90.81,English
+STU795,English I Honors,9,87.31,English
+STU796,Mythology Classical and World Literature Post-AP,12,94.83,English
+STU796,Talented Writers Program III Honors,12,94.98,English
+STU797,English II Honors,10,85.51,English
+STU798,English Language and Composition AP,10,89.7,English
+STU799,English Literature and Composition AP,12,91.59,English
+STU8,English Literature and Composition AP,12,92.04,English
+STU80,English Literature and Composition AP,12,93.16,English
+STU800,English I Honors,9,93.29,English
+STU801,English Language and Composition AP,10,99.23,English
+STU802,English Literature and Composition AP,12,96.52,English
+STU803,English Language and Composition AP,10,93.33,English
+STU803,Talented Writers Program I Honors,10,89.79,English
+STU804,English I Honors,9,98.24,English
+STU805,English Language and Composition AP,10,89.48,English
+STU806,English Language and Composition AP,10,96.5,English
+STU807,English I Honors,9,95.15,English
+STU808,English Language and Composition AP,10,92.68,English
+STU809,English Language and Composition AP,10,90.9,English
+STU81,English Language and Composition AP,10,92.73,English
+STU810,English II Honors,10,91.31,English
+STU811,English Language and Composition AP,10,83.95,English
+STU812,English I Honors,9,93.12,English
+STU813,English Language and Composition AP,10,96.67,English
+STU814,English I Honors,9,91.06,English
+STU815,English Language and Composition AP,10,94.55,English
+STU816,English Literature and Composition AP,11,94.23,English
+STU817,English Language and Composition AP,11,93.05,English
+STU818,English Language and Composition AP,11,94.18,English
+STU819,English Language and Composition AP,10,95.45,English
+STU82,English Literature and Composition AP,11,96.64,English
+STU820,English I Honors,9,87.7,English
+STU821,English Language and Composition AP,10,95.76,English
+STU822,English Language and Composition AP,10,97.42,English
+STU823,English Language and Composition AP,10,91.26,English
+STU824,English Language and Composition AP,10,96.82,English
+STU825,English Language and Composition AP,10,93.33,English
+STU826,English I Honors,9,97.32,English
+STU827,English Language and Composition AP,10,92.52,English
+STU828,English Language and Composition AP,11,91.09,English
+STU829,English I Honors,9,83.94,English
+STU83,Shakespeare Post-AP,12,96.4,English
+STU830,English Language and Composition AP,10,93.87,English
+STU831,English Language and Composition AP,10,94.85,English
+STU832,Women Writers Post-AP,12,95.59,English
+STU833,English II Honors,10,93,English
+STU834,English I Honors,9,94.41,English
+STU835,English Language and Composition AP,11,84.28,English
+STU836,English Language and Composition AP,10,97.27,English
+STU837,English I Honors,9,98.37,English
+STU838,English Literature and Composition AP,11,89.82,English
+STU839,English I Honors,9,95.9,English
+STU84,English Literature and Composition AP,11,92.14,English
+STU840,English I Honors,9,96.81,English
+STU841,English I Honors,9,92.61,English
+STU842,English I Honors,9,98.85,English
+STU843,English I Honors,9,92.36,English
+STU844,English I Honors,9,93.01,English
+STU845,English I Honors,9,93,English
+STU846,English Language and Composition AP,10,92.71,English
+STU846,Talented Writers Program I Honors,10,95.15,English
+STU847,English I Honors,9,92.76,English
+STU848,English I Honors,9,95.18,English
+STU849,English I Honors,9,94.97,English
+STU85,Mythology Classical and World Literature Post-AP,12,93.3,English
+STU850,English I Honors,9,93.78,English
+STU851,English I Honors,9,89.98,English
+STU852,English Language and Composition AP,10,94.24,English
+STU853,English I Honors,9,96.56,English
+STU854,English I Honors,9,96.28,English
+STU855,English Language and Composition AP,10,84.62,English
+STU856,English I Honors,9,95.9,English
+STU857,English II Honors,10,97.17,English
+STU858,English Language and Composition AP,11,93.25,English
+STU858,Talented Writers Program I Honors,11,90.15,English
+STU859,English II Honors,10,91.79,English
+STU86,English Language and Composition AP,11,89.4,English
+STU87,English Literature and Composition AP,12,90.77,English
+STU89,English Language and Composition AP,11,88.52,English
+STU9,English Literature and Composition AP,12,92.18,English
+STU90,English Literature and Composition AP,12,90.88,English
+STU91,English Language and Composition AP,11,90.98,English
+STU92,English Literature and Composition AP,12,89.82,English
+STU93,English Language and Composition AP,11,92.11,English
+STU94,English I Honors,9,92.73,English
+STU95,English Language and Composition AP,11,89.24,English
+STU96,English Language and Composition AP,10,91.72,English
+STU97,English Literature and Composition AP,12,92.58,English
+STU98,English Literature and Composition AP,11,91.73,English
+STU99,English Literature and Composition AP,11,88.82,English

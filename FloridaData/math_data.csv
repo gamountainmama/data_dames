@@ -1,0 +1,890 @@
+StudentID,Course,Grade,Section_Grade,Course_Type
+STU1,Calculus AB AP,11,95.64,Math
+STU10,Pre-Calculus Honors,11,86.87,Math
+STU100,Calculus AB AP,12,90.86,Math
+STU101,Pre-Calculus,11,93.55,Math
+STU102,Calculus BC AP,12,97.58,Math
+STU103,Calculus BC AP,12,90.78,Math
+STU104,Geometry Honors,9,90.75,Math
+STU105,Pre-Calculus,11,96.7,Math
+STU106,Geometry,10,81.7,Math
+STU107,Calculus I Honors,12,83.94,Math
+STU108,Pre-Calculus Honors,10,97.97,Math
+STU109,Geometry Honors,9,85.07,Math
+STU11,Calculus AB AP,12,91.9,Math
+STU110,Geometry,9,85.23,Math
+STU111,Pre-Calculus,11,90.35,Math
+STU112,Calculus I Honors,12,87.48,Math
+STU113,Geometry Honors,10,96.55,Math
+STU114,Geometry Honors,9,83.74,Math
+STU115,Geometry Honors,10,95.32,Math
+STU116,Calculus I Honors,12,92.5,Math
+STU117,Calculus AB AP,11,89.66,Math
+STU118,Statistics AP,12,80.1,Math
+STU119,Calculus AB AP,10,90.4,Math
+STU12,Calculus BC AP,12,86.88,Math
+STU120,Calculus I Honors,12,88.85,Math
+STU121,Pre-Calculus,11,83.38,Math
+STU122,Pre-Calculus,11,94.38,Math
+STU123,Calculus I Honors,12,93.96,Math
+STU124,Pre-Calculus Honors,10,92.64,Math
+STU125,Pre-Calculus Honors,11,87.16,Math
+STU126,Pre-Calculus,11,87.7,Math
+STU127,Geometry,10,84.65,Math
+STU128,Pre-Calculus Honors,11,84.75,Math
+STU129,Calculus AB AP,11,94.45,Math
+STU13,Calculus I Honors,12,89.83,Math
+STU130,Multivariable Calculus Post-AP,12,93.5,Math
+STU131,Calculus AB AP,11,93.16,Math
+STU132,Calculus I Honors,12,98.08,Math
+STU133,Calculus AB AP,12,79.75,Math
+STU134,Calculus I Honors,12,95.52,Math
+STU135,Geometry,10,87.11,Math
+STU136,Pre-Calculus Honors,10,88.43,Math
+STU137,Pre-Calculus Honors,11,80.41,Math
+STU138,Pre-Calculus Honors,10,92.12,Math
+STU139,Statistics AP,12,87.64,Math
+STU139,Calculus I Honors,12,91.6,Math
+STU14,Pre-Calculus Honors,10,95.82,Math
+STU140,Geometry Honors,10,80.52,Math
+STU141,Calculus AB AP,12,93.4,Math
+STU142,Calculus I Honors,12,88.71,Math
+STU143,Statistics AP,12,89.05,Math
+STU143,Calculus I Honors,12,93.85,Math
+STU144,Geometry Honors,9,85.8,Math
+STU145,Calculus AB AP,12,83.5,Math
+STU146,Geometry,10,83.86,Math
+STU147,Statistics AP,12,92.63,Math
+STU147,Calculus I Honors,12,96.25,Math
+STU148,Geometry,10,85.86,Math
+STU149,Calculus AB AP,12,90.4,Math
+STU15,Calculus AB AP,11,92.35,Math
+STU150,Statistics AP,12,78.29,Math
+STU150,Calculus I Honors,12,92.67,Math
+STU151,Calculus AB AP,12,85.54,Math
+STU152,Pre-Calculus Honors,10,89.1,Math
+STU153,Multivariable Calculus Post-AP,12,95.4,Math
+STU154,Pre-Calculus Honors,11,85.86,Math
+STU155,Calculus AB AP,12,87.46,Math
+STU156,Geometry,9,92.43,Math
+STU157,Calculus BC AP,12,87.28,Math
+STU158,Calculus BC AP,12,83.45,Math
+STU159,Geometry Honors,10,80.05,Math
+STU16,Calculus I Honors,12,94.47,Math
+STU160,Statistics AP,12,94.43,Math
+STU160,Calculus AB AP,12,84.36,Math
+STU161,Pre-Calculus Honors,11,90.07,Math
+STU162,Multivariable Calculus Post-AP,12,96.6,Math
+STU163,Pre-Calculus Honors,10,86.05,Math
+STU164,Statistics AP,12,93.08,Math
+STU164,Calculus AB AP,12,83.35,Math
+STU165,Statistics AP,12,85.68,Math
+STU165,Calculus I Honors,12,87.5,Math
+STU166,Geometry Honors,10,85.08,Math
+STU167,Calculus AB AP,11,93.7,Math
+STU168,Calculus BC AP,11,96.82,Math
+STU169,Pre-Calculus Honors,9,93.75,Math
+STU17,Pre-Calculus,11,78.03,Math
+STU170,Calculus I Honors,12,88.26,Math
+STU171,Multivariable Calculus Post-AP,12,95.5,Math
+STU172,Multivariable Calculus Post-AP,12,91.3,Math
+STU173,Statistics AP,12,76.89,Math
+STU173,Calculus I Honors,12,75.58,Math
+STU174,Calculus I Honors,12,92.9,Math
+STU175,Calculus AB AP,12,87.71,Math
+STU176,Calculus AB AP,11,94.46,Math
+STU177,Geometry,10,96.33,Math
+STU178,Calculus AB AP,12,80.35,Math
+STU179,Pre-Calculus,11,88.23,Math
+STU18,Pre-Calculus Honors,11,88.45,Math
+STU180,Statistics AP,12,90.44,Math
+STU180,Calculus BC AP,12,86.55,Math
+STU181,Statistics AP,12,93.93,Math
+STU181,Calculus BC AP,12,79.6,Math
+STU182,Geometry,9,90.53,Math
+STU183,Calculus I Honors,12,96.13,Math
+STU184,Calculus AB AP,10,98.39,Math
+STU185,Pre-Calculus,11,91.72,Math
+STU186,Calculus I Honors,12,96.46,Math
+STU187,Calculus AB AP,11,97.45,Math
+STU188,Geometry Honors,9,87.43,Math
+STU189,Pre-Calculus,11,89.95,Math
+STU19,Geometry,9,92.29,Math
+STU190,Calculus AB AP,11,89.37,Math
+STU191,Calculus AB AP,11,86.91,Math
+STU192,Calculus I Honors,12,98.98,Math
+STU193,Geometry,9,94.18,Math
+STU194,Calculus AB AP,11,91.9,Math
+STU195,Pre-Calculus Honors,11,91.47,Math
+STU196,Pre-Calculus,11,94.26,Math
+STU197,Geometry Honors,9,96.63,Math
+STU198,Calculus BC AP,12,83.23,Math
+STU199,Pre-Calculus Honors,11,85.28,Math
+STU2,Pre-Calculus,11,83.83,Math
+STU20,Geometry,9,80.34,Math
+STU200,Pre-Calculus,11,95.69,Math
+STU201,Pre-Calculus,11,96.68,Math
+STU202,Calculus BC AP,12,89.02,Math
+STU203,Calculus BC AP,12,78.7,Math
+STU204,Pre-Calculus,11,82.48,Math
+STU205,Calculus AB AP,11,95.64,Math
+STU206,Calculus I Honors,12,91.9,Math
+STU207,Statistics AP,12,81.83,Math
+STU207,Calculus I Honors,12,83.81,Math
+STU208,Calculus AB AP,10,92.5,Math
+STU209,Geometry Honors,9,89.66,Math
+STU21,Pre-Calculus Honors,11,90.23,Math
+STU210,Calculus I Honors,11,96.33,Math
+STU211,Pre-Calculus Honors,11,91.96,Math
+STU212,Pre-Calculus,11,82.25,Math
+STU213,Calculus I Honors,12,90.71,Math
+STU214,Pre-Calculus,11,89.53,Math
+STU215,Calculus I Honors,12,95.37,Math
+STU216,Geometry Honors,10,90.72,Math
+STU217,Statistics AP,11,95.58,Math
+STU217,Calculus AB AP,11,92.65,Math
+STU218,Pre-Calculus,11,82.5,Math
+STU219,Geometry,9,91.69,Math
+STU22,Pre-Calculus,11,86.63,Math
+STU220,Pre-Calculus Honors,11,83.01,Math
+STU221,Calculus I Honors,12,93.37,Math
+STU222,Geometry Honors,9,79.93,Math
+STU223,Calculus AB AP,11,90.4,Math
+STU224,Calculus AB AP,12,71.68,Math
+STU225,Calculus AB AP,11,89.65,Math
+STU226,Geometry Honors,9,91.04,Math
+STU227,Calculus BC AP,12,91.3,Math
+STU228,Pre-Calculus Honors,10,86.88,Math
+STU229,Pre-Calculus,11,86.87,Math
+STU23,Multivariable Calculus Post-AP,12,92.8,Math
+STU230,Pre-Calculus Honors,11,77.48,Math
+STU231,Calculus I Honors,12,81.48,Math
+STU232,Calculus I Honors,12,94.18,Math
+STU233,Pre-Calculus,11,93.75,Math
+STU234,Geometry,10,90.11,Math
+STU235,Calculus I Honors,12,92.15,Math
+STU236,Pre-Calculus Honors,10,85.27,Math
+STU237,Calculus AB AP,11,91.38,Math
+STU238,Geometry,10,79.6,Math
+STU239,Geometry,9,86.35,Math
+STU24,Pre-Calculus,11,93.03,Math
+STU240,Calculus BC AP,11,98.13,Math
+STU241,Geometry Honors,10,87.85,Math
+STU242,Pre-Calculus,11,87.15,Math
+STU243,Geometry Honors,10,94.64,Math
+STU244,Geometry,10,85.05,Math
+STU245,Geometry,10,87.02,Math
+STU246,Calculus BC AP,12,95.62,Math
+STU247,Pre-Calculus Honors,10,86.23,Math
+STU248,Pre-Calculus,10,95.6,Math
+STU249,Geometry Honors,9,89.56,Math
+STU25,Pre-Calculus Honors,11,83.51,Math
+STU250,Pre-Calculus Honors,10,83.78,Math
+STU251,Pre-Calculus,11,93.53,Math
+STU252,Pre-Calculus,11,86.06,Math
+STU253,Calculus AB AP,11,90.1,Math
+STU254,Geometry Honors,10,89.76,Math
+STU255,Pre-Calculus,11,92.71,Math
+STU256,Pre-Calculus Honors,10,90.75,Math
+STU257,Geometry Honors,9,94.83,Math
+STU258,Geometry Honors,9,93.63,Math
+STU259,Pre-Calculus,11,84.09,Math
+STU26,Calculus I Honors,12,93.75,Math
+STU260,Geometry Honors,9,82.73,Math
+STU261,Pre-Calculus,11,95.75,Math
+STU262,Geometry Honors,10,87.41,Math
+STU263,Pre-Calculus Honors,11,85.51,Math
+STU264,Geometry Honors,10,92.57,Math
+STU265,Geometry,10,82.27,Math
+STU266,Geometry,10,89.83,Math
+STU267,Pre-Calculus Honors,10,90.88,Math
+STU268,Calculus I Honors,12,91.64,Math
+STU269,Geometry,10,87.56,Math
+STU27,Pre-Calculus Honors,10,90.79,Math
+STU270,Pre-Calculus Honors,11,81.18,Math
+STU271,Geometry,9,93.88,Math
+STU272,Pre-Calculus,11,87.55,Math
+STU273,Geometry,10,96.56,Math
+STU274,Geometry,9,88.45,Math
+STU275,Pre-Calculus,11,81.75,Math
+STU276,Pre-Calculus,11,93.62,Math
+STU277,Calculus I Honors,12,96.1,Math
+STU278,Geometry Honors,9,95.33,Math
+STU279,Pre-Calculus,11,84.79,Math
+STU28,Statistics AP,12,92.67,Math
+STU280,Calculus AB AP,10,93.24,Math
+STU281,Pre-Calculus Honors,10,93.28,Math
+STU282,Pre-Calculus,11,83.11,Math
+STU283,Geometry Honors,10,79.72,Math
+STU284,Calculus BC AP,12,88.98,Math
+STU285,Pre-Calculus Honors,10,80.17,Math
+STU286,Pre-Calculus Honors,10,92.8,Math
+STU287,Calculus AB AP,11,96.1,Math
+STU288,Pre-Calculus Honors,10,90.83,Math
+STU289,Geometry Honors,9,86.7,Math
+STU29,Calculus I Honors,12,89.15,Math
+STU290,Multivariable Calculus Post-AP,12,91.3,Math
+STU291,Pre-Calculus,11,88.43,Math
+STU292,Pre-Calculus,11,80.92,Math
+STU293,Calculus I Honors,12,94.89,Math
+STU294,Calculus BC AP,11,98.33,Math
+STU295,Pre-Calculus Honors,9,95.12,Math
+STU296,Geometry Honors,10,92.72,Math
+STU297,Calculus AB AP,10,90.85,Math
+STU298,Geometry Honors,9,87.9,Math
+STU299,Geometry Honors,10,91.43,Math
+STU3,Calculus AB AP,11,93.1,Math
+STU30,Calculus BC AP,12,92.88,Math
+STU300,Geometry,10,85.13,Math
+STU301,Pre-Calculus Honors,10,85.9,Math
+STU302,Geometry Honors,10,84.43,Math
+STU303,Geometry,10,77.91,Math
+STU304,Geometry,10,89.16,Math
+STU305,Pre-Calculus Honors,11,90.03,Math
+STU306,Geometry,10,85.79,Math
+STU307,Pre-Calculus Honors,10,97.09,Math
+STU308,Geometry Honors,9,92.68,Math
+STU309,Geometry,10,94.33,Math
+STU31,Statistics AP,12,81.72,Math
+STU310,Calculus I Honors,12,83.12,Math
+STU311,Calculus AB AP,10,98.2,Math
+STU312,Pre-Calculus,11,93.7,Math
+STU313,Pre-Calculus Honors,11,84.89,Math
+STU314,Geometry,9,88.32,Math
+STU315,Geometry Honors,9,87.48,Math
+STU316,Geometry,10,84.57,Math
+STU317,Pre-Calculus Honors,10,86.94,Math
+STU318,Geometry Honors,10,83.97,Math
+STU319,Geometry,9,79.1,Math
+STU32,Calculus AB AP,11,95.42,Math
+STU320,Geometry Honors,9,89.54,Math
+STU321,Geometry Honors,9,85.81,Math
+STU322,Geometry,9,89.98,Math
+STU323,Geometry Honors,10,87.52,Math
+STU324,Geometry Honors,9,89.67,Math
+STU325,Geometry Honors,10,92.1,Math
+STU326,Geometry,10,83.27,Math
+STU327,Pre-Calculus Honors,10,90.27,Math
+STU328,Geometry,10,79.56,Math
+STU329,Geometry Honors,9,83.33,Math
+STU33,Pre-Calculus Honors,10,86.06,Math
+STU330,Pre-Calculus Honors,9,90.92,Math
+STU331,Calculus BC AP,11,87.43,Math
+STU332,Geometry,9,79.7,Math
+STU333,Pre-Calculus,10,91.98,Math
+STU334,Geometry,9,94.4,Math
+STU335,Calculus I Honors,12,96.25,Math
+STU336,Calculus AB AP,11,91.15,Math
+STU337,Geometry,9,95.06,Math
+STU338,Calculus AB AP,10,92.35,Math
+STU339,Geometry Honors,9,85.1,Math
+STU34,Calculus AB AP,12,93.68,Math
+STU340,Calculus AB AP,12,91.15,Math
+STU341,Geometry,10,92.63,Math
+STU342,Pre-Calculus,11,89.55,Math
+STU343,Pre-Calculus Honors,11,75.99,Math
+STU344,Pre-Calculus Honors,11,91.07,Math
+STU345,Calculus I Honors,12,97.67,Math
+STU346,Geometry,9,82.29,Math
+STU347,Calculus BC AP,12,92.88,Math
+STU348,Geometry Honors,9,97.28,Math
+STU349,Statistics AP,12,82.55,Math
+STU349,Calculus I Honors,12,94.06,Math
+STU35,Calculus AB AP,11,91.9,Math
+STU350,Pre-Calculus Honors,11,93.71,Math
+STU351,Geometry Honors,9,83.31,Math
+STU352,Calculus BC AP,12,94.82,Math
+STU353,Calculus BC AP,12,94.23,Math
+STU354,Geometry Honors,10,86.94,Math
+STU355,Calculus BC AP,12,86.78,Math
+STU356,Geometry Honors,10,95.51,Math
+STU357,Pre-Calculus Honors,10,95.05,Math
+STU358,Calculus I Honors,12,97.56,Math
+STU359,Geometry Honors,9,81.39,Math
+STU36,Pre-Calculus,11,94.51,Math
+STU360,Pre-Calculus Honors,11,89.15,Math
+STU361,Geometry Honors,9,96.51,Math
+STU362,Geometry Honors,9,94.78,Math
+STU363,Geometry,9,95.4,Math
+STU364,Geometry,9,88.02,Math
+STU365,Geometry,10,95.37,Math
+STU366,Geometry,10,86.13,Math
+STU367,Geometry Honors,9,84.39,Math
+STU368,Statistics AP,11,96.31,Math
+STU368,Calculus BC AP,11,99.43,Math
+STU369,Geometry,9,88.22,Math
+STU37,Statistics AP,12,84.4,Math
+STU37,Calculus I Honors,12,89.96,Math
+STU370,Geometry Honors,9,94.8,Math
+STU371,Geometry Honors,9,93.97,Math
+STU372,Geometry Honors,9,85.86,Math
+STU373,Geometry,9,92.31,Math
+STU374,Geometry,9,90.37,Math
+STU375,Calculus BC AP,12,91.72,Math
+STU376,Geometry Honors,9,83.48,Math
+STU377,Calculus BC AP,12,94.85,Math
+STU378,Geometry Honors,9,89.61,Math
+STU379,Pre-Calculus Honors,11,92.86,Math
+STU38,Geometry,9,91.06,Math
+STU380,Geometry Honors,9,88.33,Math
+STU381,Geometry,10,80.86,Math
+STU382,Pre-Calculus Honors,10,93.35,Math
+STU383,Calculus I Honors,12,87.35,Math
+STU384,Geometry Honors,9,94.3,Math
+STU385,Geometry Honors,9,90,Math
+STU386,Geometry Honors,10,81,Math
+STU387,Calculus I Honors,12,97.94,Math
+STU388,Geometry Honors,9,92.5,Math
+STU389,Geometry Honors,10,87.79,Math
+STU39,Calculus AB AP,12,81.94,Math
+STU390,Pre-Calculus Honors,10,83.92,Math
+STU391,Pre-Calculus Honors,11,85.14,Math
+STU392,Calculus I Honors,12,88.15,Math
+STU393,Geometry Honors,10,85.53,Math
+STU394,Calculus AB AP,11,94.92,Math
+STU395,Calculus I Honors,12,95.96,Math
+STU396,Geometry,10,83.63,Math
+STU397,Calculus I Honors,12,96.46,Math
+STU398,Pre-Calculus,10,93.69,Math
+STU399,Pre-Calculus,11,98.73,Math
+STU4,Geometry,10,92.96,Math
+STU40,Calculus BC AP,12,97.72,Math
+STU400,Calculus BC AP,12,82.17,Math
+STU401,Calculus BC AP,11,98.35,Math
+STU402,Calculus AB AP,11,87.23,Math
+STU403,Geometry Honors,9,94.39,Math
+STU404,Geometry Honors,9,89.88,Math
+STU405,Geometry Honors,9,95.9,Math
+STU406,Geometry,9,84.41,Math
+STU407,Geometry,9,93.1,Math
+STU408,Calculus BC AP,12,94.18,Math
+STU409,Pre-Calculus,11,75.5,Math
+STU41,Calculus BC AP,11,97.02,Math
+STU410,Statistics AP,12,95.39,Math
+STU410,Calculus BC AP,12,93.6,Math
+STU411,Geometry,9,99.45,Math
+STU412,Geometry,9,91.19,Math
+STU413,Geometry Honors,9,86.15,Math
+STU414,Calculus AB AP,12,86.92,Math
+STU415,Geometry Honors,9,81.92,Math
+STU416,Geometry Honors,9,96.53,Math
+STU417,Geometry,9,95.01,Math
+STU418,Calculus BC AP,11,97.3,Math
+STU419,Geometry Honors,10,96.5,Math
+STU42,Geometry Honors,9,86.54,Math
+STU420,Calculus BC AP,12,94.83,Math
+STU421,Calculus I Honors,12,94.35,Math
+STU422,Geometry,9,97.43,Math
+STU423,Geometry,9,88.96,Math
+STU424,Geometry Honors,10,94.45,Math
+STU425,Statistics AP,12,89.7,Math
+STU426,Pre-Calculus Honors,10,85.68,Math
+STU427,Geometry Honors,9,90.61,Math
+STU428,Statistics AP,12,99.26,Math
+STU428,Calculus BC AP,12,96.58,Math
+STU429,Geometry,9,94.6,Math
+STU43,Pre-Calculus Honors,10,93.65,Math
+STU430,Pre-Calculus,11,81.53,Math
+STU431,Statistics AP,12,93.63,Math
+STU431,Calculus BC AP,12,89.42,Math
+STU432,Geometry Honors,9,88.22,Math
+STU433,Geometry,9,90.13,Math
+STU434,Pre-Calculus,11,94.55,Math
+STU435,Calculus I Honors,12,95.05,Math
+STU436,Pre-Calculus,11,84.97,Math
+STU437,Geometry Honors,9,83.44,Math
+STU438,Geometry Honors,9,76.53,Math
+STU439,Pre-Calculus,11,94.76,Math
+STU44,Statistics AP,12,78.33,Math
+STU440,Pre-Calculus Honors,11,81.34,Math
+STU441,Calculus AB AP,12,80.95,Math
+STU442,Pre-Calculus,11,89.69,Math
+STU443,Pre-Calculus Honors,10,95.1,Math
+STU444,Calculus AB AP,12,91.3,Math
+STU445,Calculus BC AP,12,90.8,Math
+STU446,Calculus AB AP,11,95.13,Math
+STU447,Calculus BC AP,12,98.17,Math
+STU448,Pre-Calculus Honors,11,87.42,Math
+STU449,Geometry,9,89.85,Math
+STU45,Pre-Calculus,11,97.48,Math
+STU450,Pre-Calculus Honors,10,85.6,Math
+STU451,Calculus BC AP,12,94.55,Math
+STU452,Calculus AB AP,10,95.95,Math
+STU453,Geometry,9,94.8,Math
+STU454,Calculus AB AP,12,90.25,Math
+STU455,Pre-Calculus Honors,10,94.03,Math
+STU456,Pre-Calculus Honors,10,83.34,Math
+STU457,Geometry,10,91.25,Math
+STU458,Pre-Calculus,11,87.93,Math
+STU459,Pre-Calculus,11,80.44,Math
+STU46,Multivariable Calculus Post-AP,12,89.1,Math
+STU460,Geometry Honors,9,83.13,Math
+STU461,Pre-Calculus,11,89.71,Math
+STU462,Geometry Honors,10,82.62,Math
+STU463,Pre-Calculus Honors,10,81.51,Math
+STU464,Geometry Honors,9,90.84,Math
+STU465,Geometry,9,93.7,Math
+STU466,Pre-Calculus Honors,11,89.38,Math
+STU467,Pre-Calculus,11,95.76,Math
+STU468,Geometry,9,78.4,Math
+STU469,Calculus I Honors,12,90.2,Math
+STU47,Geometry Honors,10,81.05,Math
+STU471,Calculus AB AP,11,95.16,Math
+STU472,Geometry Honors,9,87.6,Math
+STU473,Pre-Calculus,11,85.08,Math
+STU474,Calculus BC AP,12,93.22,Math
+STU475,Geometry Honors,9,87.43,Math
+STU476,Geometry,9,82.01,Math
+STU477,Pre-Calculus,11,89.5,Math
+STU478,Pre-Calculus,11,93.17,Math
+STU48,Pre-Calculus Honors,11,95.03,Math
+STU480,Geometry,10,89.93,Math
+STU481,Calculus AB AP,12,90.25,Math
+STU482,Statistics AP,12,96.92,Math
+STU482,Calculus BC AP,12,88.33,Math
+STU483,Calculus BC AP,12,89.58,Math
+STU484,Calculus BC AP,11,96.68,Math
+STU485,Calculus AB AP,11,95.95,Math
+STU486,Pre-Calculus Honors,11,91.75,Math
+STU487,Calculus BC AP,11,98.83,Math
+STU488,Pre-Calculus Honors,11,90.07,Math
+STU489,Multivariable Calculus Post-AP,12,88.1,Math
+STU49,Calculus AB AP,12,88.75,Math
+STU490,Statistics AP,12,90.94,Math
+STU490,Calculus I Honors,12,91.35,Math
+STU491,Calculus BC AP,12,90.12,Math
+STU492,Calculus I Honors,12,84.25,Math
+STU493,Geometry,10,92.46,Math
+STU494,Pre-Calculus,11,94.25,Math
+STU495,Calculus I Honors,12,89.6,Math
+STU496,Geometry,10,93.46,Math
+STU497,Calculus AB AP,10,90.54,Math
+STU498,Geometry Honors,9,89.77,Math
+STU499,Pre-Calculus Honors,11,89.68,Math
+STU5,Calculus I Honors,12,94.24,Math
+STU50,Geometry,9,96.62,Math
+STU500,Statistics AP,12,85.11,Math
+STU501,Geometry Honors,10,83.85,Math
+STU503,Calculus BC AP,12,89.95,Math
+STU504,Geometry,9,91.8,Math
+STU505,Geometry Honors,9,89.51,Math
+STU506,Calculus AB AP,12,88.6,Math
+STU507,Pre-Calculus,10,95.18,Math
+STU508,Geometry Honors,9,98.02,Math
+STU509,Calculus I Honors,12,98.4,Math
+STU51,Calculus AB AP,12,89.95,Math
+STU510,Calculus AB AP,10,91.6,Math
+STU511,Calculus BC AP,12,89.95,Math
+STU512,Calculus AB AP,12,82.8,Math
+STU513,Calculus AB AP,11,96.25,Math
+STU514,Geometry,10,88.83,Math
+STU515,Calculus I Honors,12,95.73,Math
+STU516,Geometry Honors,10,92.4,Math
+STU517,Calculus I Honors,12,84.3,Math
+STU518,Calculus BC AP,11,98.85,Math
+STU519,Pre-Calculus Honors,10,93.15,Math
+STU52,Multivariable Calculus Post-AP,12,95.2,Math
+STU520,Geometry Honors,9,82.86,Math
+STU521,Pre-Calculus Honors,11,78.23,Math
+STU522,Calculus BC AP,12,96.28,Math
+STU523,Pre-Calculus Honors,11,92.49,Math
+STU524,Statistics AP,12,95.38,Math
+STU524,Calculus AB AP,12,91.86,Math
+STU525,Calculus I Honors,11,94.95,Math
+STU526,Geometry Honors,9,90.61,Math
+STU527,Calculus I Honors,12,84.97,Math
+STU528,Calculus AB AP,12,85.19,Math
+STU529,Statistics AP,12,96.59,Math
+STU529,Multivariable Calculus Post-AP,12,98,Math
+STU53,Geometry Honors,9,90.97,Math
+STU530,Statistics AP,12,92.96,Math
+STU531,Statistics AP,12,83.3,Math
+STU532,Geometry Honors,9,90.66,Math
+STU533,Calculus AB AP,12,91.6,Math
+STU534,Geometry Honors,9,83.39,Math
+STU535,Calculus BC AP,12,85.62,Math
+STU536,Calculus I Honors,12,97.01,Math
+STU537,Geometry,9,95.62,Math
+STU538,Calculus AB AP,10,98.12,Math
+STU539,Geometry,10,88.12,Math
+STU54,Calculus I Honors,12,91.54,Math
+STU540,Calculus AB AP,12,79,Math
+STU541,Geometry,9,94.12,Math
+STU542,Pre-Calculus,11,81.69,Math
+STU543,Calculus I Honors,12,93.98,Math
+STU544,Calculus AB AP,12,86.35,Math
+STU545,Statistics AP,12,79.88,Math
+STU546,Geometry Honors,9,81.43,Math
+STU547,Geometry Honors,9,84.11,Math
+STU548,Calculus I Honors,12,94.33,Math
+STU549,Pre-Calculus Honors,11,89.54,Math
+STU55,Statistics AP,12,98.77,Math
+STU55,Multivariable Calculus Post-AP,12,92.1,Math
+STU550,Pre-Calculus,11,84.56,Math
+STU551,Calculus BC AP,12,95.35,Math
+STU552,Calculus AB AP,10,97.37,Math
+STU553,Calculus I Honors,12,94.65,Math
+STU554,Calculus BC AP,12,94.53,Math
+STU555,Geometry Honors,10,94.62,Math
+STU556,Pre-Calculus Honors,9,95.85,Math
+STU557,Statistics AP,11,95.06,Math
+STU557,Calculus AB AP,11,92.52,Math
+STU558,Calculus AB AP,10,95.14,Math
+STU559,Statistics AP,11,96.09,Math
+STU559,Calculus BC AP,11,99.33,Math
+STU56,Statistics AP,12,94.46,Math
+STU56,Calculus BC AP,12,87.95,Math
+STU560,Pre-Calculus Honors,9,94.88,Math
+STU561,Calculus AB AP,11,87.31,Math
+STU562,Calculus BC AP,12,83.39,Math
+STU563,Geometry,9,82.39,Math
+STU564,Calculus AB AP,10,93.85,Math
+STU565,Geometry Honors,10,89.55,Math
+STU566,Pre-Calculus Honors,11,95.94,Math
+STU567,Calculus I Honors,12,87.5,Math
+STU568,Geometry,9,87.67,Math
+STU569,Calculus AB AP,11,86.35,Math
+STU57,Calculus I Honors,12,78.64,Math
+STU570,Pre-Calculus Honors,11,89.51,Math
+STU571,Calculus I Honors,12,96.26,Math
+STU572,Geometry,10,89.76,Math
+STU573,Geometry Honors,10,84.39,Math
+STU574,Geometry Honors,10,95.37,Math
+STU575,Geometry,10,93.88,Math
+STU576,Geometry,9,91.31,Math
+STU577,Pre-Calculus,11,85.56,Math
+STU578,Geometry Honors,9,85.92,Math
+STU579,Calculus AB AP,11,97.1,Math
+STU58,Geometry Honors,9,87.73,Math
+STU580,Geometry Honors,9,96.73,Math
+STU581,Geometry,10,92.35,Math
+STU582,Geometry Honors,10,85.82,Math
+STU583,Calculus AB AP,11,89.94,Math
+STU584,Geometry,10,86.78,Math
+STU585,Calculus AB AP,11,85.9,Math
+STU586,Calculus AB AP,11,93.99,Math
+STU587,Calculus BC AP,11,90.1,Math
+STU588,Pre-Calculus,11,83.49,Math
+STU589,Geometry,9,92.36,Math
+STU59,Geometry,9,91.33,Math
+STU590,Geometry,10,92.09,Math
+STU591,Geometry Honors,10,95.64,Math
+STU592,Calculus AB AP,12,91.01,Math
+STU593,Calculus AB AP,10,94.02,Math
+STU594,Pre-Calculus,11,90.48,Math
+STU595,Pre-Calculus,10,93.72,Math
+STU596,Multivariable Calculus Post-AP,12,83.38,Math
+STU597,Pre-Calculus Honors,11,79.73,Math
+STU598,Geometry,9,88.75,Math
+STU599,Geometry Honors,9,92.69,Math
+STU6,Geometry,10,85.11,Math
+STU60,Pre-Calculus Honors,10,94.18,Math
+STU600,Calculus AB AP,11,87.7,Math
+STU601,Geometry,9,87.66,Math
+STU602,Pre-Calculus,11,92.68,Math
+STU603,Statistics AP,12,82.08,Math
+STU603,Calculus I Honors,12,86.09,Math
+STU604,Geometry,9,91.84,Math
+STU605,Pre-Calculus Honors,9,91.22,Math
+STU606,Calculus AB AP,12,93.02,Math
+STU607,Geometry Honors,10,91.31,Math
+STU608,Pre-Calculus Honors,10,93.73,Math
+STU609,Geometry Honors,9,83.01,Math
+STU61,Geometry Honors,10,89.54,Math
+STU610,Pre-Calculus,10,89.63,Math
+STU611,Pre-Calculus,10,90.82,Math
+STU612,Geometry Honors,9,96.56,Math
+STU613,Geometry Honors,9,87.1,Math
+STU614,Statistics AP,12,93.15,Math
+STU614,Calculus AB AP,12,90.76,Math
+STU615,Geometry Honors,10,93.12,Math
+STU616,Geometry Honors,10,91.6,Math
+STU617,Statistics AP,12,84.78,Math
+STU617,Calculus I Honors,12,91.75,Math
+STU618,Pre-Calculus Honors,10,99.21,Math
+STU619,Geometry,9,89.5,Math
+STU62,Calculus AB AP,11,76.45,Math
+STU620,Pre-Calculus Honors,11,87.86,Math
+STU621,Geometry Honors,9,83.81,Math
+STU622,Calculus AB AP,12,92.5,Math
+STU624,Pre-Calculus Honors,10,85.81,Math
+STU625,Geometry Honors,9,83.52,Math
+STU626,Geometry Honors,9,84.91,Math
+STU627,Pre-Calculus Honors,11,82.49,Math
+STU628,Pre-Calculus Honors,11,87.19,Math
+STU629,Geometry Honors,9,79.52,Math
+STU63,Geometry Honors,9,92.71,Math
+STU630,Pre-Calculus Honors,10,77.51,Math
+STU631,Multivariable Calculus Post-AP,12,90.9,Math
+STU632,Pre-Calculus Honors,9,93.02,Math
+STU633,Pre-Calculus,11,96.63,Math
+STU634,Calculus AB AP,10,97.3,Math
+STU635,Statistics AP,12,88.18,Math
+STU635,Calculus I Honors,12,97.03,Math
+STU636,Geometry,9,93.61,Math
+STU637,Geometry Honors,9,92.68,Math
+STU638,Geometry Honors,10,91.08,Math
+STU639,Pre-Calculus Honors,9,96.34,Math
+STU64,Calculus BC AP,11,94.72,Math
+STU640,Geometry,9,84.55,Math
+STU641,Geometry Honors,10,91.31,Math
+STU642,Pre-Calculus Honors,11,94.69,Math
+STU643,Pre-Calculus Honors,9,94.19,Math
+STU644,Geometry Honors,9,94,Math
+STU645,Geometry,9,87.36,Math
+STU646,Algebra II Honors,9,84.48,Math
+STU647,Geometry,9,95.75,Math
+STU648,Geometry,9,77.01,Math
+STU649,Calculus AB AP,10,97,Math
+STU65,Geometry Honors,10,82,Math
+STU650,Pre-Calculus Honors,11,92.4,Math
+STU651,Geometry Honors,9,91.66,Math
+STU652,Pre-Calculus,11,75.94,Math
+STU653,Geometry,10,90.85,Math
+STU654,Calculus BC AP,10,98.12,Math
+STU655,Geometry Honors,10,86.96,Math
+STU656,Geometry,10,87.6,Math
+STU657,Geometry,10,92.33,Math
+STU658,Geometry Honors,10,81.9,Math
+STU659,Calculus I Honors,12,97.69,Math
+STU66,Calculus AB AP,12,92.95,Math
+STU660,Geometry,10,82.81,Math
+STU661,Geometry,9,97.6,Math
+STU662,Geometry,10,93.67,Math
+STU663,Calculus AB AP,10,96.1,Math
+STU664,Pre-Calculus,11,89.59,Math
+STU665,Calculus AB AP,11,86.31,Math
+STU666,Geometry Honors,9,87.08,Math
+STU667,Statistics AP,12,98.28,Math
+STU667,Calculus BC AP,12,98.93,Math
+STU668,Calculus I Honors,12,93.73,Math
+STU669,Calculus AB AP,11,97.39,Math
+STU67,Calculus AB AP,12,95.14,Math
+STU670,Pre-Calculus,11,79.55,Math
+STU671,Calculus AB AP,11,92.75,Math
+STU672,Calculus AB AP,12,81.34,Math
+STU673,Geometry,9,92.53,Math
+STU674,Pre-Calculus Honors,11,94.83,Math
+STU675,Geometry Honors,10,84.05,Math
+STU676,Geometry Honors,9,89.59,Math
+STU677,Geometry Honors,10,95.08,Math
+STU678,Statistics AP,12,96.14,Math
+STU678,Calculus BC AP,12,93.45,Math
+STU679,Geometry,9,79.53,Math
+STU68,Calculus I Honors,12,96.44,Math
+STU680,Calculus AB AP,10,92.99,Math
+STU681,Geometry,9,93.42,Math
+STU682,Calculus AB AP,12,87.85,Math
+STU683,Geometry Honors,9,93.49,Math
+STU684,Calculus BC AP,12,91.7,Math
+STU685,Geometry Honors,9,87.45,Math
+STU686,Multivariable Calculus Post-AP,12,94.2,Math
+STU687,Pre-Calculus Honors,11,95.51,Math
+STU689,Calculus I Honors,12,89.01,Math
+STU69,Geometry,9,91.25,Math
+STU690,Geometry,9,91.34,Math
+STU691,Geometry,9,88.16,Math
+STU692,Pre-Calculus,11,86.51,Math
+STU693,Geometry Honors,9,91.6,Math
+STU694,Calculus AB AP,12,79.1,Math
+STU695,Statistics AP,12,96.5,Math
+STU695,Calculus BC AP,12,90.33,Math
+STU696,Geometry,9,79.56,Math
+STU697,Geometry Honors,9,82.61,Math
+STU698,Calculus AB AP,12,91.38,Math
+STU699,Calculus AB AP,12,86.78,Math
+STU7,Pre-Calculus Honors,10,86.52,Math
+STU70,Multivariable Calculus Post-AP,12,93,Math
+STU700,Geometry Honors,9,85.75,Math
+STU701,Geometry,9,94.3,Math
+STU702,Calculus AB AP,12,79.58,Math
+STU703,Geometry Honors,9,77.69,Math
+STU704,Geometry Honors,9,94.18,Math
+STU705,Geometry,9,84.02,Math
+STU706,Pre-Calculus Honors,10,91.35,Math
+STU707,Geometry Honors,9,87.19,Math
+STU708,Calculus BC AP,12,96.62,Math
+STU709,Calculus I Honors,12,90.45,Math
+STU71,Pre-Calculus,11,96.5,Math
+STU710,Geometry Honors,9,81.41,Math
+STU712,Calculus AB AP,10,89.96,Math
+STU713,Geometry,9,75.34,Math
+STU714,Geometry Honors,9,88.02,Math
+STU715,Calculus BC AP,12,87.02,Math
+STU716,Calculus AB AP,11,89.48,Math
+STU717,Pre-Calculus,11,76.86,Math
+STU718,Calculus BC AP,12,89.52,Math
+STU719,Geometry Honors,9,89.88,Math
+STU72,Calculus I Honors,12,95.2,Math
+STU720,Geometry,10,91.27,Math
+STU721,Pre-Calculus Honors,11,91.61,Math
+STU722,Statistics AP,12,91.18,Math
+STU722,Calculus BC AP,12,84.9,Math
+STU723,Geometry Honors,10,88.15,Math
+STU724,Calculus I Honors,12,78.28,Math
+STU725,Calculus AB AP,11,94.3,Math
+STU726,Geometry Honors,10,83.07,Math
+STU727,Geometry Honors,9,92.52,Math
+STU728,Multivariable Calculus Post-AP,12,92.1,Math
+STU729,Pre-Calculus,10,94.07,Math
+STU73,Calculus AB AP,11,84.26,Math
+STU730,Geometry Honors,9,96.65,Math
+STU731,Geometry Honors,10,92.6,Math
+STU732,Calculus BC AP,12,89.29,Math
+STU733,Calculus AB AP,11,93.3,Math
+STU734,Pre-Calculus,10,95.84,Math
+STU735,Geometry Honors,9,91.28,Math
+STU736,Geometry Honors,9,91.13,Math
+STU737,Calculus I Honors,12,91.1,Math
+STU738,Calculus BC AP,11,97.65,Math
+STU739,Geometry Honors,9,83.44,Math
+STU74,Calculus I Honors,12,86.55,Math
+STU740,Pre-Calculus Honors,10,99.25,Math
+STU741,Calculus BC AP,11,98.72,Math
+STU742,Pre-Calculus,11,85.01,Math
+STU743,Geometry Honors,9,93.9,Math
+STU744,Pre-Calculus Honors,9,94.03,Math
+STU745,Calculus AB AP,10,98.1,Math
+STU746,Calculus AB AP,11,91.01,Math
+STU747,Pre-Calculus,11,92.81,Math
+STU748,Pre-Calculus Honors,11,89.47,Math
+STU749,Pre-Calculus,11,88.15,Math
+STU75,Calculus AB AP,11,94.16,Math
+STU750,Geometry,10,86.83,Math
+STU751,Geometry,10,84.8,Math
+STU752,Calculus AB AP,11,90.7,Math
+STU753,Pre-Calculus Honors,10,81.72,Math
+STU754,Calculus I Honors,11,97.07,Math
+STU755,Pre-Calculus Honors,10,84.59,Math
+STU756,Geometry,9,95.21,Math
+STU757,Calculus BC AP,11,91.43,Math
+STU758,Pre-Calculus Honors,11,92.29,Math
+STU759,Calculus AB AP,11,91.3,Math
+STU76,Calculus AB AP,11,90.1,Math
+STU760,Geometry,9,89.52,Math
+STU761,Geometry Honors,9,93.1,Math
+STU762,Geometry,9,77.34,Math
+STU763,Calculus AB AP,11,82.76,Math
+STU764,Geometry Honors,9,91.98,Math
+STU765,Geometry Honors,10,89.52,Math
+STU766,Pre-Calculus,11,90.85,Math
+STU767,Geometry Honors,10,82.65,Math
+STU768,Pre-Calculus Honors,11,90.09,Math
+STU769,Geometry Honors,9,88.16,Math
+STU77,Statistics AP,12,95.34,Math
+STU77,Calculus BC AP,12,92.63,Math
+STU770,Calculus AB AP,11,91.6,Math
+STU771,Geometry Honors,9,91.43,Math
+STU772,Calculus AB AP,10,91.25,Math
+STU773,Calculus I Honors,10,93.73,Math
+STU774,Calculus AB AP,11,97.45,Math
+STU775,Geometry Honors,9,96.2,Math
+STU776,Calculus I Honors,11,95.62,Math
+STU777,Geometry,9,93.19,Math
+STU778,Geometry Honors,10,90.77,Math
+STU779,Pre-Calculus,10,94.04,Math
+STU78,Geometry,10,91.91,Math
+STU780,Pre-Calculus,10,88.38,Math
+STU781,Geometry Honors,9,90.37,Math
+STU782,Pre-Calculus,12,84.9,Math
+STU783,Geometry,9,90.49,Math
+STU784,Geometry Honors,10,87.27,Math
+STU785,Pre-Calculus Honors,10,87.75,Math
+STU786,Geometry,9,91.07,Math
+STU787,Pre-Calculus,11,83.45,Math
+STU788,Calculus AB AP,12,90.55,Math
+STU789,Geometry Honors,9,95.95,Math
+STU79,Calculus AB AP,12,79.45,Math
+STU790,Geometry Honors,9,84.88,Math
+STU791,Geometry Honors,9,92.5,Math
+STU792,Geometry,10,88.21,Math
+STU793,Geometry,9,92.55,Math
+STU794,Geometry Honors,10,96.7,Math
+STU795,Geometry Honors,9,88.15,Math
+STU796,Calculus AB AP,12,91.75,Math
+STU797,Geometry,10,87.76,Math
+STU798,Pre-Calculus,10,89.64,Math
+STU799,Statistics AP,12,94.51,Math
+STU799,Calculus BC AP,12,93,Math
+STU8,Statistics AP,12,86.63,Math
+STU8,Calculus I Honors,12,98.15,Math
+STU80,Calculus I Honors,12,91.03,Math
+STU800,Geometry Honors,9,93.33,Math
+STU801,Pre-Calculus Honors,10,91.15,Math
+STU802,Calculus AB AP,12,96.7,Math
+STU804,Geometry,9,94.66,Math
+STU805,Pre-Calculus Honors,10,78.05,Math
+STU806,Pre-Calculus Honors,10,85.97,Math
+STU807,Geometry,9,87.92,Math
+STU808,Calculus AB AP,10,92.8,Math
+STU809,Calculus AB AP,10,93.34,Math
+STU81,Pre-Calculus Honors,10,89.06,Math
+STU811,Algebra II Honors,10,87.42,Math
+STU812,Geometry,9,94.84,Math
+STU813,Pre-Calculus Honors,10,97.43,Math
+STU814,Algebra II Honors,9,92,Math
+STU815,Geometry Honors,10,88.07,Math
+STU816,Pre-Calculus Honors,11,97.15,Math
+STU817,Pre-Calculus Honors,11,89.98,Math
+STU818,Pre-Calculus Honors,11,90.92,Math
+STU819,Pre-Calculus Honors,10,97.82,Math
+STU82,Calculus AB AP,11,93.25,Math
+STU820,Geometry,9,85,Math
+STU821,Calculus AB AP,10,97.75,Math
+STU822,Calculus AB AP,10,95.65,Math
+STU823,Algebra II Honors,10,87.93,Math
+STU824,Geometry Honors,10,97.53,Math
+STU825,Pre-Calculus,10,90.16,Math
+STU826,Pre-Calculus Honors,9,96.55,Math
+STU827,Pre-Calculus,10,91.25,Math
+STU828,Pre-Calculus Honors,11,81.7,Math
+STU829,Geometry,9,90.04,Math
+STU83,Calculus AB AP,12,91.6,Math
+STU830,Pre-Calculus Honors,10,96.09,Math
+STU831,Algebra II Honors,10,91.17,Math
+STU832,Calculus I Honors,12,90.49,Math
+STU833,Geometry,10,79.92,Math
+STU834,Algebra II Honors,9,89.6,Math
+STU835,Pre-Calculus Honors,11,82.66,Math
+STU836,Geometry Honors,10,99.04,Math
+STU837,Geometry Honors,9,97.35,Math
+STU838,Calculus AB AP,11,91.15,Math
+STU839,Geometry Honors,9,81.62,Math
+STU84,Pre-Calculus Honors,11,79.4,Math
+STU840,Pre-Calculus Honors,9,90.41,Math
+STU841,Geometry Honors,9,86.87,Math
+STU842,Algebra II Honors,9,97.26,Math
+STU843,Algebra II Honors,9,89.74,Math
+STU844,Algebra II Honors,9,91.35,Math
+STU845,Geometry,9,93.56,Math
+STU846,Algebra II Honors,10,87.41,Math
+STU847,Geometry,9,95.24,Math
+STU848,Algebra II Honors,9,96.74,Math
+STU849,Geometry Honors,9,92.61,Math
+STU85,Calculus BC AP,12,94.45,Math
+STU850,Geometry Honors,9,87.03,Math
+STU851,Algebra II Honors,9,92.61,Math
+STU852,Pre-Calculus Honors,10,90.47,Math
+STU853,Algebra II Honors,9,95.04,Math
+STU854,Geometry Honors,9,89.59,Math
+STU855,Algebra II Honors,10,80.43,Math
+STU856,Algebra II Honors,9,95.37,Math
+STU857,Algebra II,10,86.14,Math
+STU858,Pre-Calculus,11,83.29,Math
+STU859,Pre-Calculus,10,92.95,Math
+STU86,Pre-Calculus,11,93.83,Math
+STU87,Statistics AP,12,89.4,Math
+STU88,Calculus BC AP,12,89.93,Math
+STU89,Pre-Calculus Honors,11,81.7,Math
+STU9,Calculus I Honors,12,95.75,Math
+STU90,Statistics AP,12,84.01,Math
+STU90,Calculus I Honors,12,87.09,Math
+STU91,Pre-Calculus,11,89.53,Math
+STU92,Calculus I Honors,12,85.15,Math
+STU93,Pre-Calculus,11,94.96,Math
+STU94,Geometry Honors,9,86.93,Math
+STU95,Pre-Calculus,11,90.11,Math
+STU96,Geometry Honors,10,93.43,Math
+STU97,Calculus BC AP,12,90.77,Math
+STU98,Pre-Calculus,11,90.55,Math
+STU99,Pre-Calculus,11,89.53,Math

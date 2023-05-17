@@ -1,0 +1,871 @@
+StudentID,Course,Grade,Section_Grade,Course_Type
+STU1,Microeconomics AP,11,92.38,Humanities
+STU10,Government and Politics: United States AP,11,88.88,Humanities
+STU100,European History AP,12,93.96,Humanities
+STU101,European History AP,11,94.79,Humanities
+STU102,European History AP,12,96.2,Humanities
+STU103,European History AP,12,93.53,Humanities
+STU104,Human Geography AP,9,94.93,Humanities
+STU105,European History AP,11,95.58,Humanities
+STU105,Government and Politics: United States AP,11,96,Humanities
+STU106,United States History Honors,10,89.27,Humanities
+STU107,Art History AP,12,92.03,Humanities
+STU108,United States History AP,10,82.88,Humanities
+STU109,World History AP,9,89.8,Humanities
+STU11,European History AP,12,97.62,Humanities
+STU110,Human Geography AP,9,86.9,Humanities
+STU111,European History AP,11,86.56,Humanities
+STU112,Art History AP,12,96.54,Humanities
+STU113,United States History AP,10,93.47,Humanities
+STU114,Human Geography AP,9,90.14,Humanities
+STU115,United States History AP,10,92.71,Humanities
+STU116,European History AP,12,86.56,Humanities
+STU117,European History AP,11,94.17,Humanities
+STU118,European History AP,12,77.55,Humanities
+STU118,Microeconomics AP,12,63.81,Humanities
+STU119,United States History AP,10,86.95,Humanities
+STU12,Microeconomics AP,12,95.33,Humanities
+STU120,Art History AP,12,94.54,Humanities
+STU121,European History AP,11,89.61,Humanities
+STU122,European History AP,11,91.64,Humanities
+STU123,Microeconomics AP,12,80.24,Humanities
+STU124,United States History AP,10,95.08,Humanities
+STU125,European History AP,11,89.65,Humanities
+STU126,European History AP,11,93.88,Humanities
+STU128,European History AP,11,87.17,Humanities
+STU129,European History AP,11,98.33,Humanities
+STU13,European History AP,12,81.71,Humanities
+STU131,Government and Politics: United States AP,11,98.33,Humanities
+STU132,Art History AP,12,94.99,Humanities
+STU132,European History AP,12,86.85,Humanities
+STU133,Microeconomics AP,12,85.94,Humanities
+STU134,European History AP,12,83.74,Humanities
+STU135,United States History Honors,10,89.91,Humanities
+STU136,United States History AP,10,94.79,Humanities
+STU137,Government and Politics: United States AP,11,93.82,Humanities
+STU138,United States History AP,10,92.31,Humanities
+STU139,Microeconomics AP,12,85.27,Humanities
+STU14,United States History AP,10,95.25,Humanities
+STU140,Holocaust History Honors,10,97.8,Humanities
+STU141,Microeconomics AP,12,95.93,Humanities
+STU142,Microeconomics AP,12,74.06,Humanities
+STU143,Government and Politics: United States AP,12,90.32,Humanities
+STU144,Human Geography AP,9,90.49,Humanities
+STU145,European History AP,12,88.29,Humanities
+STU146,United States History Honors,10,83.93,Humanities
+STU146,Holocaust History Honors,10,90.15,Humanities
+STU147,Microeconomics AP,12,87.65,Humanities
+STU148,United States History Honors,10,90.37,Humanities
+STU149,Government and Politics: United States AP,12,94.69,Humanities
+STU15,European History AP,11,99.05,Humanities
+STU15,Government and Politics: United States AP,11,97.22,Humanities
+STU150,Government and Politics: United States AP,12,80.86,Humanities
+STU151,European History AP,12,90.09,Humanities
+STU152,United States History AP,10,93.39,Humanities
+STU153,European History AP,12,100,Humanities
+STU155,World History AP,12,93.88,Humanities
+STU156,Human Geography AP,9,83.47,Humanities
+STU157,World History AP,12,99.59,Humanities
+STU158,European History AP,12,93.59,Humanities
+STU158,Microeconomics AP,12,89.1,Humanities
+STU159,United States History Honors,10,91.07,Humanities
+STU16,Microeconomics AP,12,87.46,Humanities
+STU160,Microeconomics AP,12,94.53,Humanities
+STU163,United States History Honors,10,91.19,Humanities
+STU164,Microeconomics AP,12,87.64,Humanities
+STU165,Microeconomics AP,12,82.87,Humanities
+STU166,United States History AP,10,91.03,Humanities
+STU167,European History AP,11,95.9,Humanities
+STU167,Government and Politics: United States AP,11,94.39,Humanities
+STU168,European History AP,11,98.75,Humanities
+STU169,World History AP,9,96.73,Humanities
+STU17,European History AP,11,77.92,Humanities
+STU170,Art History AP,12,88.95,Humanities
+STU172,European History AP,12,96.02,Humanities
+STU173,Microeconomics AP,12,65.63,Humanities
+STU174,Art History AP,12,95.81,Humanities
+STU175,Microeconomics AP,12,82.46,Humanities
+STU176,Government and Politics: United States AP,11,96.35,Humanities
+STU177,United States History Honors,10,97.82,Humanities
+STU177,Holocaust History Honors,10,99.92,Humanities
+STU178,European History AP,12,92.7,Humanities
+STU179,United States History AP,11,82.82,Humanities
+STU179,Government and Politics: United States AP,11,86.79,Humanities
+STU180,Microeconomics AP,12,91.26,Humanities
+STU181,European History AP,12,82.57,Humanities
+STU181,Government and Politics: United States AP,12,91.57,Humanities
+STU182,Human Geography AP,9,85.32,Humanities
+STU183,European History AP,12,85.32,Humanities
+STU184,United States History AP,10,96.27,Humanities
+STU185,European History AP,11,89.53,Humanities
+STU186,Microeconomics AP,12,86.72,Humanities
+STU187,Microeconomics AP,11,96.01,Humanities
+STU188,Human Geography AP,9,90.35,Humanities
+STU19,Human Geography AP,9,89.4,Humanities
+STU190,European History AP,11,97.41,Humanities
+STU191,European History AP,11,90.56,Humanities
+STU191,Microeconomics AP,11,93.82,Humanities
+STU193,Human Geography AP,9,89.47,Humanities
+STU194,European History AP,11,98.57,Humanities
+STU195,European History AP,11,95.82,Humanities
+STU196,European History AP,11,91.85,Humanities
+STU197,World History AP,9,97.96,Humanities
+STU198,European History AP,12,92.76,Humanities
+STU199,European History AP,11,94.42,Humanities
+STU20,Modern World Honors: 1750 to the Present,9,90.9,Humanities
+STU200,Art History AP,11,95.68,Humanities
+STU203,Art History AP,12,87.74,Humanities
+STU203,Microeconomics AP,12,80.99,Humanities
+STU205,European History AP,11,93.29,Humanities
+STU206,Microeconomics AP,12,86.57,Humanities
+STU207,European History AP,12,81.53,Humanities
+STU208,United States History AP,10,94.32,Humanities
+STU209,Human Geography AP,9,81.55,Humanities
+STU21,European History AP,11,93.34,Humanities
+STU210,European History AP,11,94,Humanities
+STU211,European History AP,11,96.56,Humanities
+STU212,Art History AP,11,94.29,Humanities
+STU212,European History AP,11,88.54,Humanities
+STU213,European History AP,12,85.16,Humanities
+STU213,Microeconomics AP,12,79.28,Humanities
+STU214,World History AP,11,87.35,Humanities
+STU215,Microeconomics AP,12,81.75,Humanities
+STU216,United States History AP,10,80.51,Humanities
+STU216,Holocaust History Honors,10,94.14,Humanities
+STU217,Microeconomics AP,11,94.27,Humanities
+STU219,Human Geography AP,9,94.02,Humanities
+STU22,European History AP,11,93.78,Humanities
+STU220,European History AP,11,86.64,Humanities
+STU220,Government and Politics: United States AP,11,88.54,Humanities
+STU221,Microeconomics AP,12,81.48,Humanities
+STU222,Human Geography AP,9,82.41,Humanities
+STU223,Microeconomics AP,11,83.93,Humanities
+STU224,Microeconomics AP,12,79.46,Humanities
+STU225,Government and Politics: United States AP,11,96.44,Humanities
+STU226,World History AP,9,92.45,Humanities
+STU227,Microeconomics AP,12,94.08,Humanities
+STU228,United States History AP,10,91.2,Humanities
+STU23,European History AP,12,94.06,Humanities
+STU230,European History AP,11,87.23,Humanities
+STU231,European History AP,12,75.08,Humanities
+STU231,Microeconomics AP,12,70.96,Humanities
+STU232,European History AP,12,82.4,Humanities
+STU233,European History AP,11,93.29,Humanities
+STU233,Government and Politics: United States AP,11,90.16,Humanities
+STU234,United States History Honors,10,92.16,Humanities
+STU235,Art History AP,12,93.89,Humanities
+STU236,United States History AP,10,88.21,Humanities
+STU238,United States History Honors,10,86.45,Humanities
+STU239,Modern World Honors: 1750 to the Present,9,91.78,Humanities
+STU24,Government and Politics: United States AP,11,85.12,Humanities
+STU240,European History AP,11,98.52,Humanities
+STU242,European History AP,11,89.61,Humanities
+STU243,United States History AP,10,90.77,Humanities
+STU244,United States History Honors,10,86.43,Humanities
+STU245,United States History AP,10,83.56,Humanities
+STU246,Microeconomics AP,12,94,Humanities
+STU247,United States History AP,10,86.36,Humanities
+STU248,United States History AP,10,90,Humanities
+STU249,Human Geography AP,9,91.86,Humanities
+STU25,European History AP,11,93.84,Humanities
+STU25,Government and Politics: United States AP,11,90.27,Humanities
+STU250,United States History AP,10,88.22,Humanities
+STU251,Government and Politics: United States AP,11,90.2,Humanities
+STU252,European History AP,11,93.05,Humanities
+STU252,Government and Politics: United States AP,11,91.3,Humanities
+STU253,European History AP,11,90.1,Humanities
+STU254,United States History AP,10,86.57,Humanities
+STU256,United States History AP,10,96.53,Humanities
+STU257,World History AP,9,89.18,Humanities
+STU258,World History AP,9,90.82,Humanities
+STU259,United States History Honors,11,88.97,Humanities
+STU26,European History AP,12,96.5,Humanities
+STU260,Human Geography AP,9,91.79,Humanities
+STU261,Government and Politics: United States AP,11,95.31,Humanities
+STU262,United States History AP,10,93.73,Humanities
+STU263,United States History AP,11,91.2,Humanities
+STU264,United States History AP,10,90.08,Humanities
+STU265,United States History Honors,10,80.81,Humanities
+STU266,United States History AP,10,85.77,Humanities
+STU267,United States History AP,10,89.57,Humanities
+STU268,European History AP,12,88.58,Humanities
+STU268,Microeconomics AP,12,86.31,Humanities
+STU269,United States History AP,10,81.19,Humanities
+STU27,United States History AP,10,94.15,Humanities
+STU270,European History AP,11,91.38,Humanities
+STU271,Human Geography AP,9,90.28,Humanities
+STU272,United States History Honors,11,91.02,Humanities
+STU273,United States History AP,10,95.42,Humanities
+STU274,Modern World Honors: 1750 to the Present,9,92.83,Humanities
+STU277,European History AP,12,97.03,Humanities
+STU278,World History AP,9,93.67,Humanities
+STU279,European History AP,11,92.93,Humanities
+STU279,Government and Politics: United States AP,11,94.02,Humanities
+STU280,United States History AP,10,96.78,Humanities
+STU281,United States History AP,10,92.56,Humanities
+STU283,United States History AP,10,78.9,Humanities
+STU284,Microeconomics AP,12,92.43,Humanities
+STU285,United States History AP,10,96.86,Humanities
+STU285,Government and Politics: United States AP,10,91.33,Humanities
+STU286,United States History AP,10,92.71,Humanities
+STU286,Government and Politics: United States AP,10,95.93,Humanities
+STU287,European History AP,11,97.26,Humanities
+STU288,United States History AP,10,93.31,Humanities
+STU289,Human Geography AP,9,92.77,Humanities
+STU29,Art History AP,12,94.04,Humanities
+STU290,Microeconomics AP,12,93.79,Humanities
+STU291,European History AP,11,97.11,Humanities
+STU293,United States History AP,12,92.54,Humanities
+STU293,Microeconomics AP,12,90.57,Humanities
+STU294,European History AP,11,97.09,Humanities
+STU294,Microeconomics AP,11,96.56,Humanities
+STU295,World History AP,9,98.78,Humanities
+STU296,United States History Honors,10,93.8,Humanities
+STU297,United States History AP,10,89.83,Humanities
+STU298,Human Geography AP,9,93.12,Humanities
+STU299,United States History AP,10,87.71,Humanities
+STU3,European History AP,11,98.93,Humanities
+STU30,Microeconomics AP,12,91.83,Humanities
+STU300,United States History Honors,10,89.66,Humanities
+STU301,United States History AP,10,91.2,Humanities
+STU302,United States History AP,10,89.83,Humanities
+STU303,United States History Honors,10,88.36,Humanities
+STU304,United States History Honors,10,89.17,Humanities
+STU306,United States History AP,10,85.51,Humanities
+STU307,United States History AP,10,96.69,Humanities
+STU308,World History AP,9,99.39,Humanities
+STU309,United States History AP,10,95.47,Humanities
+STU31,European History AP,12,80.03,Humanities
+STU31,Holocaust History Honors,12,97.48,Humanities
+STU310,Art History AP,12,93.11,Humanities
+STU311,United States History AP,10,92.97,Humanities
+STU312,European History AP,11,93.91,Humanities
+STU313,Government and Politics: United States AP,11,91.2,Humanities
+STU314,Human Geography AP,9,89.46,Humanities
+STU315,World History AP,9,92.65,Humanities
+STU316,United States History Honors,10,85.53,Humanities
+STU317,United States History AP,10,89.24,Humanities
+STU318,United States History AP,10,83.81,Humanities
+STU319,Human Geography AP,9,81.53,Humanities
+STU32,Microeconomics AP,11,97.89,Humanities
+STU320,Human Geography AP,9,91.29,Humanities
+STU321,World History AP,9,93.88,Humanities
+STU322,Modern World Honors: 1750 to the Present,9,93.14,Humanities
+STU323,United States History AP,10,88.46,Humanities
+STU324,World History AP,9,93.88,Humanities
+STU325,United States History AP,10,92.8,Humanities
+STU326,United States History Honors,10,89.71,Humanities
+STU327,United States History AP,10,88.21,Humanities
+STU328,United States History Honors,10,88.18,Humanities
+STU328,Holocaust History Honors,10,97.88,Humanities
+STU329,Human Geography AP,9,91.04,Humanities
+STU33,United States History AP,10,90.93,Humanities
+STU330,World History AP,9,98.37,Humanities
+STU331,European History AP,11,94.48,Humanities
+STU332,Modern World Honors: 1750 to the Present,9,86.27,Humanities
+STU333,United States History Honors,10,89.15,Humanities
+STU334,Modern World Honors: 1750 to the Present,9,95.43,Humanities
+STU336,Government and Politics: United States AP,11,95.23,Humanities
+STU337,Human Geography AP,9,85.73,Humanities
+STU338,United States History AP,10,95.56,Humanities
+STU339,World History AP,9,92.04,Humanities
+STU34,Microeconomics AP,12,90.98,Humanities
+STU340,European History AP,12,93.76,Humanities
+STU341,United States History Honors,10,91.54,Humanities
+STU343,Government and Politics: United States AP,11,91.32,Humanities
+STU344,Government and Politics: United States AP,11,92.26,Humanities
+STU345,Art History AP,12,96.27,Humanities
+STU345,European History AP,12,91.33,Humanities
+STU346,Modern World Honors: 1750 to the Present,9,94.57,Humanities
+STU347,Microeconomics AP,12,93.8,Humanities
+STU348,World History AP,9,98.98,Humanities
+STU349,Microeconomics AP,12,82.16,Humanities
+STU35,European History AP,11,97.53,Humanities
+STU351,Human Geography AP,9,89.4,Humanities
+STU352,Microeconomics AP,12,92.91,Humanities
+STU353,European History AP,12,98.1,Humanities
+STU354,United States History AP,10,88.22,Humanities
+STU355,Microeconomics AP,12,91.07,Humanities
+STU356,United States History AP,10,89.58,Humanities
+STU357,United States History AP,10,91.71,Humanities
+STU358,European History AP,12,95.07,Humanities
+STU359,Human Geography AP,9,96.66,Humanities
+STU36,European History AP,11,95.45,Humanities
+STU360,European History AP,11,88.87,Humanities
+STU361,World History AP,9,98.37,Humanities
+STU362,World History AP,9,98.78,Humanities
+STU363,Human Geography AP,9,91.87,Humanities
+STU364,Human Geography AP,9,91.98,Humanities
+STU365,United States History Honors,10,84.17,Humanities
+STU366,United States History Honors,10,88.22,Humanities
+STU367,World History AP,9,95.51,Humanities
+STU368,Microeconomics AP,11,97.79,Humanities
+STU369,Modern World Honors: 1750 to the Present,9,95.32,Humanities
+STU37,Microeconomics AP,12,90.31,Humanities
+STU370,Human Geography AP,9,98.79,Humanities
+STU371,Human Geography AP,9,96.4,Humanities
+STU372,Human Geography AP,9,92.73,Humanities
+STU373,Modern World Honors: 1750 to the Present,9,90.03,Humanities
+STU374,Modern World Honors: 1750 to the Present,9,94.55,Humanities
+STU376,Human Geography AP,9,90.9,Humanities
+STU377,Microeconomics AP,12,96.7,Humanities
+STU378,Human Geography AP,9,93.3,Humanities
+STU379,European History AP,11,92.93,Humanities
+STU38,Human Geography AP,9,89.62,Humanities
+STU380,Human Geography AP,9,94.75,Humanities
+STU381,United States History Honors,10,81.59,Humanities
+STU382,United States History AP,10,94.96,Humanities
+STU383,European History AP,12,84.66,Humanities
+STU384,World History AP,9,95.1,Humanities
+STU385,World History AP,9,93.88,Humanities
+STU386,United States History AP,10,80.6,Humanities
+STU387,Government and Politics: United States AP,12,79.96,Humanities
+STU387,Microeconomics AP,12,84.59,Humanities
+STU388,Human Geography AP,9,92.86,Humanities
+STU389,United States History AP,10,91.79,Humanities
+STU39,European History AP,12,90.91,Humanities
+STU390,United States History AP,10,90.89,Humanities
+STU391,European History AP,11,96.73,Humanities
+STU392,European History AP,12,84.52,Humanities
+STU393,United States History AP,10,94.49,Humanities
+STU394,European History AP,11,90.56,Humanities
+STU395,Art History AP,12,91.23,Humanities
+STU395,Microeconomics AP,12,90.82,Humanities
+STU396,United States History Honors,10,87.28,Humanities
+STU397,Microeconomics AP,12,83.48,Humanities
+STU398,United States History AP,10,91.5,Humanities
+STU399,Government and Politics: United States AP,11,81.45,Humanities
+STU4,United States History Honors,10,87.35,Humanities
+STU40,European History AP,12,98.67,Humanities
+STU400,European History AP,12,98.22,Humanities
+STU401,Microeconomics AP,11,97.51,Humanities
+STU402,Microeconomics AP,11,88.76,Humanities
+STU403,Human Geography AP,9,87.18,Humanities
+STU404,Human Geography AP,9,96.28,Humanities
+STU405,Human Geography AP,9,93.3,Humanities
+STU406,Human Geography AP,9,83.45,Humanities
+STU407,Human Geography AP,9,91.32,Humanities
+STU408,Art History AP,12,99.3,Humanities
+STU41,European History AP,11,98.34,Humanities
+STU41,Microeconomics AP,11,97.2,Humanities
+STU410,European History AP,12,92.71,Humanities
+STU411,Human Geography AP,9,93.99,Humanities
+STU412,Human Geography AP,9,89.01,Humanities
+STU413,Human Geography AP,9,94.35,Humanities
+STU415,Human Geography AP,9,89.61,Humanities
+STU416,World History AP,9,98.57,Humanities
+STU417,Human Geography AP,9,92.16,Humanities
+STU418,European History AP,11,96.56,Humanities
+STU419,United States History AP,10,94.07,Humanities
+STU42,Human Geography AP,9,93.47,Humanities
+STU420,Microeconomics AP,12,96.02,Humanities
+STU421,Art History AP,12,95.73,Humanities
+STU422,Human Geography AP,9,94.74,Humanities
+STU423,World History AP,9,94.29,Humanities
+STU424,United States History AP,10,89.07,Humanities
+STU425,Microeconomics AP,12,80.69,Humanities
+STU426,United States History AP,10,87.03,Humanities
+STU427,Human Geography AP,9,89.1,Humanities
+STU428,Microeconomics AP,12,97.41,Humanities
+STU429,Human Geography AP,9,91.18,Humanities
+STU43,United States History AP,10,93.85,Humanities
+STU430,European History AP,11,82.97,Humanities
+STU432,Human Geography AP,9,96.52,Humanities
+STU433,Modern World Honors: 1750 to the Present,9,90.72,Humanities
+STU434,European History AP,11,95.07,Humanities
+STU435,Microeconomics AP,12,90.41,Humanities
+STU437,Human Geography AP,9,84.27,Humanities
+STU438,Human Geography AP,9,90.35,Humanities
+STU439,European History AP,11,93.68,Humanities
+STU439,Government and Politics: United States AP,11,93.56,Humanities
+STU44,Art History AP,12,84.32,Humanities
+STU44,European History AP,12,77.9,Humanities
+STU441,World History AP,12,101.63,Humanities
+STU442,Government and Politics: United States AP,11,82.39,Humanities
+STU443,United States History AP,10,89.83,Humanities
+STU444,European History AP,12,94.13,Humanities
+STU445,European History AP,12,91.05,Humanities
+STU445,Microeconomics AP,12,86.95,Humanities
+STU446,European History AP,11,97.68,Humanities
+STU446,Government and Politics: United States AP,11,99.43,Humanities
+STU447,Microeconomics AP,12,98.12,Humanities
+STU448,European History AP,11,91.69,Humanities
+STU449,Human Geography AP,9,87.61,Humanities
+STU450,United States History AP,10,93.76,Humanities
+STU451,European History AP,12,97.6,Humanities
+STU451,Microeconomics AP,12,94.85,Humanities
+STU452,United States History AP,10,100.76,Humanities
+STU453,Human Geography AP,9,87.45,Humanities
+STU454,Art History AP,12,98.23,Humanities
+STU454,European History AP,12,97.39,Humanities
+STU454,Microeconomics AP,12,90.1,Humanities
+STU455,United States History AP,10,92.54,Humanities
+STU455,Government and Politics: United States AP,10,93.91,Humanities
+STU456,United States History AP,10,82.71,Humanities
+STU457,United States History AP,10,90.42,Humanities
+STU458,Art History AP,11,94.43,Humanities
+STU458,European History AP,11,96.79,Humanities
+STU459,Art History AP,11,90.87,Humanities
+STU460,Human Geography AP,9,92.86,Humanities
+STU462,United States History AP,10,83.22,Humanities
+STU463,United States History AP,10,87.63,Humanities
+STU464,World History AP,9,97.76,Humanities
+STU465,Human Geography AP,9,90.49,Humanities
+STU466,European History AP,11,93.57,Humanities
+STU467,Government and Politics: United States AP,11,84.28,Humanities
+STU468,Modern World Honors: 1750 to the Present,9,92.18,Humanities
+STU469,European History AP,12,92.7,Humanities
+STU47,United States History AP,10,86.86,Humanities
+STU470,Human Geography AP,9,90.77,Humanities
+STU472,World History AP,9,97.14,Humanities
+STU473,Art History AP,11,92.01,Humanities
+STU474,European History AP,12,96.65,Humanities
+STU475,Human Geography AP,9,94.76,Humanities
+STU476,Human Geography AP,9,82.4,Humanities
+STU479,European History AP,12,92.11,Humanities
+STU48,Government and Politics: United States AP,11,93.3,Humanities
+STU480,United States History AP,10,86.69,Humanities
+STU481,Art History AP,12,98.58,Humanities
+STU483,Microeconomics AP,12,93.42,Humanities
+STU484,European History AP,11,93.55,Humanities
+STU485,Microeconomics AP,11,93.17,Humanities
+STU486,Government and Politics: United States AP,11,94.88,Humanities
+STU487,Microeconomics AP,11,98.84,Humanities
+STU488,Government and Politics: United States AP,11,92.79,Humanities
+STU489,Microeconomics AP,12,85.82,Humanities
+STU490,Microeconomics AP,12,85.93,Humanities
+STU491,Microeconomics AP,12,86.61,Humanities
+STU492,European History AP,12,77.39,Humanities
+STU493,United States History AP,10,86.5,Humanities
+STU494,Government and Politics: United States AP,11,94.55,Humanities
+STU495,Government and Politics: United States AP,12,91.91,Humanities
+STU496,United States History AP,10,91.69,Humanities
+STU497,United States History AP,10,92.54,Humanities
+STU498,Human Geography AP,9,91.11,Humanities
+STU5,European History AP,12,96.62,Humanities
+STU50,Human Geography AP,9,93.45,Humanities
+STU500,Art History AP,12,95.49,Humanities
+STU500,European History AP,12,91.03,Humanities
+STU501,United States History AP,10,84.24,Humanities
+STU502,European History AP,11,92.31,Humanities
+STU504,Human Geography AP,9,90.66,Humanities
+STU505,World History AP,9,92.24,Humanities
+STU507,United States History AP,10,86.95,Humanities
+STU508,Human Geography AP,9,95.35,Humanities
+STU509,Microeconomics AP,12,92.32,Humanities
+STU51,Microeconomics AP,12,93.62,Humanities
+STU510,United States History AP,10,89.81,Humanities
+STU511,European History AP,12,96.97,Humanities
+STU512,European History AP,12,90.82,Humanities
+STU513,Microeconomics AP,11,94.97,Humanities
+STU514,United States History Honors,10,85.49,Humanities
+STU515,European History AP,12,93.06,Humanities
+STU516,United States History AP,10,90,Humanities
+STU517,Art History AP,12,91.22,Humanities
+STU518,Microeconomics AP,11,98.25,Humanities
+STU519,United States History AP,10,92.65,Humanities
+STU520,Human Geography AP,9,84.86,Humanities
+STU521,European History AP,11,89.77,Humanities
+STU521,Government and Politics: United States AP,11,91.15,Humanities
+STU522,Microeconomics AP,12,94.34,Humanities
+STU523,European History AP,11,96.55,Humanities
+STU523,Government and Politics: United States AP,11,91.96,Humanities
+STU524,European History AP,12,97.51,Humanities
+STU526,Human Geography AP,9,94.59,Humanities
+STU527,European History AP,12,79.1,Humanities
+STU528,Microeconomics AP,12,86.36,Humanities
+STU53,World History AP,9,97.35,Humanities
+STU530,European History AP,12,84.87,Humanities
+STU530,Microeconomics AP,12,86.16,Humanities
+STU531,Microeconomics AP,12,80.08,Humanities
+STU532,Human Geography AP,9,90.88,Humanities
+STU533,European History AP,12,97.74,Humanities
+STU534,World History AP,9,89.39,Humanities
+STU535,European History AP,12,93.48,Humanities
+STU536,European History AP,12,93.71,Humanities
+STU537,Human Geography AP,9,90.6,Humanities
+STU538,United States History AP,10,98.39,Humanities
+STU539,United States History Honors,10,93.76,Humanities
+STU54,Art History AP,12,93.14,Humanities
+STU54,European History AP,12,92.61,Humanities
+STU540,Government and Politics: United States AP,12,88.59,Humanities
+STU540,Microeconomics AP,12,82.96,Humanities
+STU541,Human Geography AP,9,83.19,Humanities
+STU542,Government and Politics: United States AP,11,78.55,Humanities
+STU543,Microeconomics AP,12,86.23,Humanities
+STU544,Microeconomics AP,12,92.56,Humanities
+STU546,Human Geography AP,9,90.12,Humanities
+STU547,Human Geography AP,9,89.58,Humanities
+STU548,Art History AP,12,95.05,Humanities
+STU550,World History AP,11,96.33,Humanities
+STU551,Microeconomics AP,12,95.37,Humanities
+STU552,United States History AP,10,97.88,Humanities
+STU553,Government and Politics: United States AP,12,86.18,Humanities
+STU553,Microeconomics AP,12,90.89,Humanities
+STU554,European History AP,12,85.04,Humanities
+STU555,United States History AP,10,90.34,Humanities
+STU556,World History AP,9,96.73,Humanities
+STU557,Microeconomics AP,11,91.64,Humanities
+STU558,United States History AP,10,96.92,Humanities
+STU559,Microeconomics AP,11,97.68,Humanities
+STU56,European History AP,12,91.45,Humanities
+STU560,World History AP,9,99.59,Humanities
+STU561,European History AP,11,91.49,Humanities
+STU562,Microeconomics AP,12,84.13,Humanities
+STU563,Modern World Honors: 1750 to the Present,9,91.86,Humanities
+STU564,United States History AP,10,94.24,Humanities
+STU565,United States History AP,10,89.32,Humanities
+STU566,European History AP,11,96.8,Humanities
+STU567,European History AP,12,84.67,Humanities
+STU567,Holocaust History Honors,12,98.51,Humanities
+STU568,Modern World Honors: 1750 to the Present,9,91.58,Humanities
+STU569,Microeconomics AP,11,94.16,Humanities
+STU57,Art History AP,12,93.74,Humanities
+STU570,European History AP,11,90.76,Humanities
+STU571,Microeconomics AP,12,90.91,Humanities
+STU572,United States History Honors,10,90.95,Humanities
+STU573,United States History AP,10,90.68,Humanities
+STU574,United States History AP,10,97.01,Humanities
+STU575,United States History AP,10,89.58,Humanities
+STU576,Modern World Honors: 1750 to the Present,9,94.17,Humanities
+STU577,European History AP,11,93.76,Humanities
+STU577,Government and Politics: United States AP,11,93.28,Humanities
+STU578,Human Geography AP,9,89.97,Humanities
+STU579,European History AP,11,98.81,Humanities
+STU58,Human Geography AP,9,96.8,Humanities
+STU580,World History AP,9,98.37,Humanities
+STU581,United States History AP,10,87.03,Humanities
+STU582,United States History Honors,10,90.98,Humanities
+STU583,Microeconomics AP,11,90.15,Humanities
+STU584,United States History Honors,10,90.95,Humanities
+STU587,Microeconomics AP,11,92.07,Humanities
+STU588,Art History AP,11,92.68,Humanities
+STU588,European History AP,11,84.47,Humanities
+STU589,Human Geography AP,9,90.76,Humanities
+STU59,Modern World Honors: 1750 to the Present,9,89.19,Humanities
+STU590,United States History AP,10,87.03,Humanities
+STU591,United States History AP,10,98.56,Humanities
+STU592,Microeconomics AP,12,93.8,Humanities
+STU593,United States History AP,10,95,Humanities
+STU594,Government and Politics: United States AP,11,88.36,Humanities
+STU595,United States History AP,10,89.53,Humanities
+STU596,Art History AP,12,95.76,Humanities
+STU597,European History AP,11,93.76,Humanities
+STU597,Government and Politics: United States AP,11,90.46,Humanities
+STU598,World History AP,9,93.88,Humanities
+STU599,Human Geography AP,9,91.86,Humanities
+STU6,United States History Honors,10,86.82,Humanities
+STU60,United States History AP,10,87.2,Humanities
+STU600,European History AP,11,95.61,Humanities
+STU600,Microeconomics AP,11,93.06,Humanities
+STU601,Human Geography AP,9,88.73,Humanities
+STU602,United States History AP,11,92.97,Humanities
+STU602,Government and Politics: United States AP,11,87.78,Humanities
+STU603,Microeconomics AP,12,76.82,Humanities
+STU604,Human Geography AP,9,88.4,Humanities
+STU605,Human Geography AP,9,95.85,Humanities
+STU606,Art History AP,12,97.43,Humanities
+STU606,Microeconomics AP,12,93.16,Humanities
+STU607,United States History AP,10,88.31,Humanities
+STU608,United States History AP,10,98.97,Humanities
+STU609,Human Geography AP,9,93.51,Humanities
+STU61,United States History AP,10,90.94,Humanities
+STU61,Holocaust History Honors,10,97.43,Humanities
+STU610,United States History AP,10,83.33,Humanities
+STU611,United States History Honors,10,93.29,Humanities
+STU612,Human Geography AP,9,95.26,Humanities
+STU613,Human Geography AP,9,87.28,Humanities
+STU614,Microeconomics AP,12,91.74,Humanities
+STU615,United States History AP,10,92.46,Humanities
+STU616,United States History AP,10,89.66,Humanities
+STU617,European History AP,12,87.23,Humanities
+STU617,Government and Politics: United States AP,12,89.92,Humanities
+STU618,United States History AP,10,101.45,Humanities
+STU619,World History AP,9,91.84,Humanities
+STU62,European History AP,11,84.36,Humanities
+STU62,Government and Politics: United States AP,11,84.84,Humanities
+STU621,World History AP,9,93.27,Humanities
+STU622,European History AP,12,99.05,Humanities
+STU623,United States History AP,10,77.12,Humanities
+STU624,United States History AP,10,87.69,Humanities
+STU625,World History AP,9,95.92,Humanities
+STU626,World History AP,9,97.96,Humanities
+STU628,Government and Politics: United States AP,11,93.85,Humanities
+STU629,Human Geography AP,9,92.12,Humanities
+STU63,Human Geography AP,9,93.68,Humanities
+STU630,United States History AP,10,81.78,Humanities
+STU631,Microeconomics AP,12,86.67,Humanities
+STU632,World History AP,9,94.49,Humanities
+STU633,Art History AP,11,98.09,Humanities
+STU634,United States History AP,10,96.92,Humanities
+STU635,Microeconomics AP,12,85.28,Humanities
+STU636,Human Geography AP,9,88.2,Humanities
+STU637,World History AP,9,98.37,Humanities
+STU638,United States History AP,10,87.54,Humanities
+STU639,World History AP,9,101.22,Humanities
+STU64,Microeconomics AP,11,94.2,Humanities
+STU640,Modern World Honors: 1750 to the Present,9,90.49,Humanities
+STU641,United States History AP,10,85.59,Humanities
+STU641,Holocaust History Honors,10,96.61,Humanities
+STU642,European History AP,11,97.8,Humanities
+STU643,Human Geography AP,9,94.55,Humanities
+STU644,Human Geography AP,9,91.2,Humanities
+STU645,Modern World Honors: 1750 to the Present,9,95.29,Humanities
+STU646,Human Geography AP,9,83.53,Humanities
+STU647,Human Geography AP,9,92.48,Humanities
+STU648,Modern World Honors: 1750 to the Present,9,94.54,Humanities
+STU649,United States History AP,10,97.69,Humanities
+STU651,Human Geography AP,9,94.75,Humanities
+STU652,Art History AP,11,97.57,Humanities
+STU653,United States History Honors,10,91.15,Humanities
+STU654,United States History AP,10,98.22,Humanities
+STU655,United States History AP,10,80.59,Humanities
+STU656,United States History AP,10,80.25,Humanities
+STU657,United States History Honors,10,92.36,Humanities
+STU658,United States History AP,10,84.07,Humanities
+STU659,Art History AP,12,96.15,Humanities
+STU66,Microeconomics AP,12,96.27,Humanities
+STU660,United States History AP,10,86.61,Humanities
+STU661,Human Geography AP,9,91.93,Humanities
+STU662,United States History Honors,10,90.95,Humanities
+STU662,Holocaust History Honors,10,98.62,Humanities
+STU663,United States History AP,10,97.35,Humanities
+STU664,Art History AP,11,92.25,Humanities
+STU664,European History AP,11,91.15,Humanities
+STU665,Government and Politics: United States AP,11,89.77,Humanities
+STU666,Human Geography AP,9,92.05,Humanities
+STU668,Art History AP,12,91.34,Humanities
+STU668,Government and Politics: United States AP,12,81.01,Humanities
+STU669,Government and Politics: United States AP,11,95.9,Humanities
+STU67,Microeconomics AP,12,91.14,Humanities
+STU670,Art History AP,11,88.6,Humanities
+STU671,European History AP,11,95.89,Humanities
+STU672,Microeconomics AP,12,85.8,Humanities
+STU673,Human Geography AP,9,91.21,Humanities
+STU674,European History AP,11,98.66,Humanities
+STU675,United States History AP,10,90.59,Humanities
+STU676,World History AP,9,91.63,Humanities
+STU677,United States History AP,10,92.48,Humanities
+STU678,European History AP,12,98.59,Humanities
+STU679,Modern World Honors: 1750 to the Present,9,94.07,Humanities
+STU68,Art History AP,12,96.56,Humanities
+STU68,Microeconomics AP,12,89.01,Humanities
+STU680,United States History AP,10,95.25,Humanities
+STU681,Human Geography AP,9,91.03,Humanities
+STU682,European History AP,12,96.75,Humanities
+STU682,Microeconomics AP,12,91.65,Humanities
+STU683,Human Geography AP,9,93.72,Humanities
+STU684,European History AP,12,98.52,Humanities
+STU685,Human Geography AP,9,92.31,Humanities
+STU686,Microeconomics AP,12,97.09,Humanities
+STU687,Art History AP,11,98.4,Humanities
+STU687,European History AP,11,94.07,Humanities
+STU688,Human Geography AP,9,87.69,Humanities
+STU689,Government and Politics: United States AP,12,81.91,Humanities
+STU69,Human Geography AP,9,87.88,Humanities
+STU690,Modern World Honors: 1750 to the Present,9,92.23,Humanities
+STU691,Human Geography AP,9,89.44,Humanities
+STU692,European History AP,11,86.84,Humanities
+STU693,Human Geography AP,9,94.84,Humanities
+STU694,Microeconomics AP,12,82.8,Humanities
+STU695,Microeconomics AP,12,93.47,Humanities
+STU696,Human Geography AP,9,80.61,Humanities
+STU697,Human Geography AP,9,90.2,Humanities
+STU698,Microeconomics AP,12,86.66,Humanities
+STU699,European History AP,12,76.42,Humanities
+STU7,United States History AP,10,97.71,Humanities
+STU70,European History AP,12,97.42,Humanities
+STU700,Modern World Honors: 1750 to the Present,9,97.17,Humanities
+STU701,Modern World Honors: 1750 to the Present,9,94.34,Humanities
+STU702,World History AP,12,86.53,Humanities
+STU703,World History AP,9,86.53,Humanities
+STU704,World History AP,9,99.59,Humanities
+STU705,Human Geography AP,9,86.68,Humanities
+STU706,United States History AP,10,93.08,Humanities
+STU707,Human Geography AP,9,89.08,Humanities
+STU708,Microeconomics AP,12,95.46,Humanities
+STU71,European History AP,11,95.31,Humanities
+STU710,World History AP,9,94.29,Humanities
+STU711,Human Geography AP,9,88.49,Humanities
+STU712,United States History AP,10,87.54,Humanities
+STU713,Modern World Honors: 1750 to the Present,9,93.1,Humanities
+STU714,World History AP,9,96.73,Humanities
+STU716,European History AP,11,90.76,Humanities
+STU716,Government and Politics: United States AP,11,93.73,Humanities
+STU717,United States History AP,11,79.75,Humanities
+STU717,Government and Politics: United States AP,11,84.72,Humanities
+STU719,Human Geography AP,9,90.04,Humanities
+STU72,Microeconomics AP,12,84.46,Humanities
+STU720,United States History Honors,10,91.83,Humanities
+STU720,Holocaust History Honors,10,96.56,Humanities
+STU721,European History AP,11,87.98,Humanities
+STU722,World History AP,12,93.88,Humanities
+STU723,United States History AP,10,87.46,Humanities
+STU724,European History AP,12,74.89,Humanities
+STU725,Microeconomics AP,11,94.59,Humanities
+STU726,United States History AP,10,82.05,Humanities
+STU726,Holocaust History Honors,10,97.52,Humanities
+STU727,World History AP,9,94.08,Humanities
+STU728,European History AP,12,94.65,Humanities
+STU728,Microeconomics AP,12,90.04,Humanities
+STU729,United States History AP,10,84.1,Humanities
+STU73,European History AP,11,91.44,Humanities
+STU73,Microeconomics AP,11,92.82,Humanities
+STU730,World History AP,9,95.1,Humanities
+STU731,United States History AP,10,89.92,Humanities
+STU732,European History AP,12,91.06,Humanities
+STU733,Art History AP,11,99.07,Humanities
+STU733,European History AP,11,96.34,Humanities
+STU734,United States History AP,10,92.14,Humanities
+STU735,World History AP,9,92.86,Humanities
+STU736,World History AP,9,97.96,Humanities
+STU737,European History AP,12,83.07,Humanities
+STU738,Microeconomics AP,11,93.47,Humanities
+STU739,Human Geography AP,9,90.86,Humanities
+STU74,Art History AP,12,90.15,Humanities
+STU740,United States History AP,10,96.78,Humanities
+STU741,European History AP,11,99.05,Humanities
+STU742,Government and Politics: United States AP,11,92.18,Humanities
+STU743,World History AP,9,95.92,Humanities
+STU744,World History AP,9,96.53,Humanities
+STU745,United States History AP,10,99.66,Humanities
+STU747,European History AP,11,91.69,Humanities
+STU749,European History AP,11,89.55,Humanities
+STU75,Government and Politics: United States AP,11,92.96,Humanities
+STU75,Microeconomics AP,11,95.2,Humanities
+STU750,United States History AP,10,82.46,Humanities
+STU751,United States History AP,10,84.96,Humanities
+STU752,European History AP,11,91.8,Humanities
+STU753,United States History AP,10,79.32,Humanities
+STU754,Art History AP,11,97.35,Humanities
+STU755,United States History AP,10,89.83,Humanities
+STU756,Human Geography AP,9,89.72,Humanities
+STU757,European History AP,11,94.09,Humanities
+STU757,Microeconomics AP,11,92.79,Humanities
+STU758,Government and Politics: United States AP,11,96.51,Humanities
+STU759,European History AP,11,95.67,Humanities
+STU760,Modern World Honors: 1750 to the Present,9,93.17,Humanities
+STU761,Human Geography AP,9,95.53,Humanities
+STU762,Modern World Honors: 1750 to the Present,9,93.04,Humanities
+STU764,Human Geography AP,9,91.78,Humanities
+STU765,United States History AP,10,88.05,Humanities
+STU766,European History AP,11,88.44,Humanities
+STU767,United States History Honors,10,85.09,Humanities
+STU769,Human Geography AP,9,91.74,Humanities
+STU77,Microeconomics AP,12,96.41,Humanities
+STU770,European History AP,11,95.2,Humanities
+STU771,Human Geography AP,9,91.98,Humanities
+STU772,United States History AP,10,93.36,Humanities
+STU773,United States History AP,10,89.7,Humanities
+STU774,European History AP,11,98.63,Humanities
+STU775,World History AP,9,100.41,Humanities
+STU777,Human Geography AP,9,94.27,Humanities
+STU778,United States History AP,10,92.71,Humanities
+STU779,United States History AP,10,87.88,Humanities
+STU78,United States History AP,10,81.45,Humanities
+STU780,United States History Honors,10,85.96,Humanities
+STU781,World History AP,9,99.18,Humanities
+STU782,Art History AP,12,95.42,Humanities
+STU782,European History AP,12,87.95,Humanities
+STU783,Modern World Honors: 1750 to the Present,9,92.55,Humanities
+STU784,United States History AP,10,86.57,Humanities
+STU785,United States History AP,10,92.12,Humanities
+STU786,Human Geography AP,9,89.09,Humanities
+STU787,Art History AP,11,92.24,Humanities
+STU788,Microeconomics AP,12,93.36,Humanities
+STU789,World History AP,9,93.88,Humanities
+STU79,Microeconomics AP,12,85.88,Humanities
+STU790,Human Geography AP,9,89.25,Humanities
+STU791,Human Geography AP,9,91.54,Humanities
+STU792,United States History AP,10,84.36,Humanities
+STU793,Human Geography AP,9,90.79,Humanities
+STU794,United States History AP,10,83.68,Humanities
+STU795,Human Geography AP,9,93.27,Humanities
+STU796,European History AP,12,96.65,Humanities
+STU797,United States History Honors,10,88.97,Humanities
+STU798,United States History AP,10,82.88,Humanities
+STU799,Microeconomics AP,12,87.04,Humanities
+STU8,Microeconomics AP,12,85.78,Humanities
+STU800,Human Geography AP,9,89.8,Humanities
+STU801,United States History AP,10,95.64,Humanities
+STU802,European History AP,12,96.73,Humanities
+STU803,United States History AP,10,89.32,Humanities
+STU804,World History AP,9,94.9,Humanities
+STU805,United States History AP,10,89.66,Humanities
+STU806,United States History AP,10,87.09,Humanities
+STU807,Human Geography AP,9,91.71,Humanities
+STU808,United States History AP,10,92.88,Humanities
+STU808,Government and Politics: United States AP,10,91.24,Humanities
+STU809,United States History AP,10,90.59,Humanities
+STU81,United States History AP,10,86.02,Humanities
+STU810,United States History AP,10,84.27,Humanities
+STU811,United States History Honors,10,91.73,Humanities
+STU812,Human Geography AP,9,92.14,Humanities
+STU813,United States History AP,10,101.62,Humanities
+STU813,Government and Politics: United States AP,10,101.31,Humanities
+STU814,Human Geography AP,9,88.4,Humanities
+STU815,United States History AP,10,86.67,Humanities
+STU816,World History AP,11,100.82,Humanities
+STU817,World History AP,11,97.55,Humanities
+STU818,European History AP,11,93.9,Humanities
+STU819,United States History AP,10,99.74,Humanities
+STU82,Microeconomics AP,11,94.87,Humanities
+STU820,Modern World Honors: 1750 to the Present,9,90.55,Humanities
+STU821,United States History AP,10,100.6,Humanities
+STU822,United States History AP,10,98.98,Humanities
+STU823,Human Geography AP,10,89.06,Humanities
+STU824,United States History AP,10,98.29,Humanities
+STU825,United States History AP,10,87.71,Humanities
+STU826,World History AP,9,100.41,Humanities
+STU827,United States History AP,10,90.93,Humanities
+STU828,European History AP,11,90.2,Humanities
+STU829,Human Geography AP,9,92.31,Humanities
+STU83,European History AP,12,97.98,Humanities
+STU830,United States History AP,10,88.81,Humanities
+STU831,United States History AP,10,85.5,Humanities
+STU832,European History AP,12,92.12,Humanities
+STU833,United States History Honors,10,92.89,Humanities
+STU834,Human Geography AP,9,96.92,Humanities
+STU835,United States History Honors,11,91.82,Humanities
+STU836,United States History AP,10,97.01,Humanities
+STU837,World History AP,9,100.2,Humanities
+STU839,World History AP,9,99.18,Humanities
+STU84,European History AP,11,92.58,Humanities
+STU840,World History AP,9,92.86,Humanities
+STU841,Human Geography AP,9,84.25,Humanities
+STU842,World History AP,9,100.82,Humanities
+STU843,Human Geography AP,9,94.1,Humanities
+STU844,Human Geography AP,9,96.4,Humanities
+STU845,Modern World Honors: 1750 to the Present,9,93.48,Humanities
+STU846,United States History Honors,10,95.9,Humanities
+STU847,Human Geography AP,9,93.99,Humanities
+STU848,Human Geography AP,9,96.74,Humanities
+STU849,Human Geography AP,9,94.59,Humanities
+STU85,Microeconomics AP,12,97.24,Humanities
+STU850,Human Geography AP,9,88.22,Humanities
+STU851,Human Geography AP,9,87.11,Humanities
+STU852,United States History AP,10,94.32,Humanities
+STU853,Human Geography AP,9,94.55,Humanities
+STU854,World History AP,9,97.14,Humanities
+STU855,United States History Honors,10,89.15,Humanities
+STU856,Human Geography AP,9,97.69,Humanities
+STU857,United States History Honors,10,92.75,Humanities
+STU857,Human Geography AP,10,89.54,Humanities
+STU858,Art History AP,11,93.96,Humanities
+STU859,United States History Honors,10,93.37,Humanities
+STU86,Government and Politics: United States AP,11,84.17,Humanities
+STU88,Art History AP,12,96.18,Humanities
+STU88,European History AP,12,87.46,Humanities
+STU89,European History AP,11,90.37,Humanities
+STU89,Government and Politics: United States AP,11,90.56,Humanities
+STU9,Microeconomics AP,12,86.47,Humanities
+STU90,Microeconomics AP,12,82.91,Humanities
+STU91,Government and Politics: United States AP,11,85.87,Humanities
+STU92,European History AP,12,81.58,Humanities
+STU93,United States History AP,11,80.34,Humanities
+STU93,Government and Politics: United States AP,11,91.11,Humanities
+STU94,Human Geography AP,9,89.66,Humanities
+STU95,European History AP,11,86.33,Humanities
+STU96,United States History AP,10,88.56,Humanities
+STU97,European History AP,12,89.58,Humanities
+STU98,Government and Politics: United States AP,11,94.92,Humanities
