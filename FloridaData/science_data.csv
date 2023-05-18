@@ -1,1194 +1,993 @@
 StudentID,Course,Grade,Section_Grade,Course_Type
-STU1,Biology AP,11,93.51,Science
-STU10,Astronomy Honors,11,91.96,Science
-STU100,Chemistry AP,12,92.95,Science
-STU101,Environmental Science AP,11,92.63,Science
-STU102,Biology AP,12,96.55,Science
-STU102,Organic Chemistry Post-AP,12,96.54,Science
-STU103,Chemistry AP,12,93.06,Science
-STU103,Environmental Science AP,12,95.21,Science
-STU104,Computer Science Principles AP,9,91.78,Science
-STU104,Chemistry Honors,9,87.52,Science
-STU105,Computer Science Principles AP,11,94.9,Science
-STU105,Environmental Science AP,11,93.15,Science
-STU106,Computer Science Principles AP,10,81.97,Science
-STU106,Biology,10,86.12,Science
-STU107,Astronomy Honors,12,82.95,Science
-STU108,Computer Science Principles AP,10,98.11,Science
-STU108,Biology Honors,10,86.54,Science
-STU109,Computer Science Principles AP,9,91.11,Science
-STU109,Chemistry Honors,9,84.62,Science
-STU11,Biology Post-AP,12,93.62,Science
-STU11,Chemistry AP,12,94.32,Science
-STU110,Chemistry,9,91.67,Science
 STU111,Anatomy and Physiology Honors,11,83.83,Science
-STU112,Environmental Science AP,12,91.4,Science
-STU112,Marine Science Honors,12,96.91,Science
-STU113,Computer Science A AP,10,92.62,Science
-STU113,Biology Honors,10,93.15,Science
-STU114,Computer Science Principles AP,9,91.96,Science
-STU114,Chemistry Honors,9,82.61,Science
-STU115,Biology Honors,10,93.26,Science
-STU116,Biology AP,12,87.7,Science
-STU117,Chemistry AP,11,91.08,Science
-STU118,Physics I AP,12,73.3,Science
-STU119,Computer Science Principles AP,10,96.34,Science
-STU119,Biology Honors,10,90.83,Science
 STU119,Anatomy and Physiology Honors,10,92.87,Science
-STU12,Physics C AP: Mechanics,12,82.5,Science
-STU120,Marine Science Honors,12,93.77,Science
-STU121,Environmental Science AP,11,82.84,Science
-STU122,Environmental Science AP,11,91.36,Science
 STU123,Anatomy and Physiology Honors,12,91.77,Science
-STU124,Computer Science A AP,10,95.47,Science
-STU124,Biology Honors,10,92.85,Science
-STU125,Environmental Science AP,11,88.07,Science
 STU126,Anatomy and Physiology Honors,11,91.35,Science
-STU127,Computer Science Principles AP,10,83.93,Science
-STU127,Biology,10,88.92,Science
-STU128,Computer Science Principles AP,11,96.52,Science
-STU128,Environmental Science AP,11,88.27,Science
-STU129,Biology AP,11,100.1,Science
-STU13,Astronomy Honors,12,84.03,Science
 STU13,Anatomy and Physiology Honors,12,82.98,Science
-STU130,Physics C AP: Mechanics,12,91.14,Science
-STU130,Biology Post-AP,12,94.94,Science
-STU130,Science Research III Advanced,12,99,Science
-STU131,Biology AP,11,93.09,Science
-STU132,Biology AP,12,85.9,Science
-STU132,Organic Chemistry Post-AP,12,96.05,Science
-STU133,Biology AP,12,88.44,Science
-STU133,Organic Chemistry Post-AP,12,93.83,Science
-STU134,Environmental Science AP,12,88.26,Science
-STU134,Marine Science Honors,12,89.22,Science
-STU135,Biology,10,90.99,Science
-STU136,Biology Honors,10,94.54,Science
 STU136,Anatomy and Physiology Honors,10,94.74,Science
-STU137,Environmental Science AP,11,90.79,Science
-STU137,Marine Science Honors,11,95.39,Science
-STU138,Biology Honors,10,93.17,Science
 STU138,Anatomy and Physiology Honors,10,97.43,Science
-STU139,Physics I AP,12,80.79,Science
-STU14,Computer Science A AP,10,94.17,Science
-STU14,Chemistry AP,10,97.57,Science
-STU140,Biology Honors,10,77.64,Science
-STU141,Biology AP,12,92.54,Science
-STU141,Organic Chemistry Post-AP,12,97.92,Science
-STU142,Environmental Science AP,12,74.32,Science
 STU143,Anatomy and Physiology Honors,12,90.89,Science
-STU144,Chemistry Honors,9,82.84,Science
-STU145,Chemistry AP,12,85.47,Science
-STU146,Biology,10,85.18,Science
-STU147,Physics I AP,12,84.04,Science
-STU148,Computer Science Principles AP,10,81.55,Science
-STU148,Biology,10,89.26,Science
-STU149,Biology Post-AP,12,95.69,Science
-STU149,Chemistry AP,12,87.97,Science
-STU15,Biology AP,11,97.81,Science
 STU150,Anatomy and Physiology Honors,12,79.54,Science
-STU151,Environmental Science AP,12,91.08,Science
-STU152,Computer Science A AP,10,93.1,Science
-STU152,Biology Honors,10,94.63,Science
-STU153,Biology Post-AP,12,101.12,Science
-STU153,Organic Chemistry Post-AP,12,98.77,Science
-STU154,Marine Science Honors,11,94.67,Science
-STU155,Environmental Science AP,12,91.67,Science
-STU156,Chemistry,9,90.74,Science
-STU157,Biology Post-AP,12,94.63,Science
-STU157,Chemistry AP,12,94.46,Science
-STU158,Biology Post-AP,12,96.07,Science
-STU159,Biology Honors,10,86.98,Science
-STU159,Marine Science Honors,10,95.77,Science
-STU16,Environmental Science AP,12,88.23,Science
-STU160,Chemistry AP,12,84.48,Science
-STU161,Biology AP,11,92.85,Science
 STU161,Anatomy and Physiology Honors,11,96.77,Science
-STU162,Physics C AP: Mechanics,12,95.96,Science
-STU163,Biology Honors,10,85.45,Science
-STU164,Marine Science Honors,12,93.77,Science
-STU165,Astronomy Honors,12,95.75,Science
-STU166,Biology Honors,10,87.09,Science
-STU167,Environmental Science AP,11,95.34,Science
-STU168,Biology AP,11,96.75,Science
-STU168,Organic Chemistry Post-AP,11,99.01,Science
-STU168,Science Research II Advanced,11,97,Science
-STU169,Computer Science Principles AP,9,97.45,Science
-STU169,Chemistry Honors,9,93.19,Science
-STU17,Computer Science A AP,11,82.01,Science
-STU17,Marine Science Honors,11,92.47,Science
-STU170,Environmental Science AP,12,80.72,Science
-STU171,Computer Science Principles AP,12,97.72,Science
-STU171,Physics C AP: Mechanics,12,93.45,Science
-STU172,Physics C AP: Mechanics,12,90.73,Science
-STU172,Organic Chemistry Post-AP,12,95.31,Science
-STU173,Astronomy Honors,12,84.9,Science
-STU174,Biology AP,12,87.67,Science
-STU175,Physics I AP,12,80.35,Science
-STU176,Computer Science A AP,11,94.79,Science
-STU176,Biology AP,11,98.9,Science
-STU177,Biology,10,98.67,Science
-STU178,Marine Science Honors,12,97.31,Science
-STU179,Marine Science Honors,11,94.1,Science
-STU18,Biology AP,11,94.98,Science
-STU180,Marine Science Honors,12,95.18,Science
-STU181,Marine Science Honors,12,93.75,Science
-STU182,Computer Science Principles AP,9,86.1,Science
-STU182,Chemistry,9,91.66,Science
-STU183,Biology AP,12,82.54,Science
-STU184,Biology Honors,10,96.53,Science
-STU184,Science Research I Honors,10,95,Science
-STU185,Marine Science Honors,11,91.53,Science
-STU186,Chemistry AP,12,91.42,Science
-STU187,Biology AP,11,97.18,Science
-STU188,Computer Science Principles AP,9,92.38,Science
-STU188,Chemistry Honors,9,89.46,Science
-STU189,Marine Science Honors,11,90.68,Science
-STU19,Computer Science Principles AP,9,87.7,Science
-STU19,Chemistry,9,94.07,Science
-STU190,Biology AP,11,92.97,Science
-STU190,Science Research II Advanced,11,97,Science
-STU191,Chemistry AP,11,90.22,Science
-STU192,Biology AP,12,86.73,Science
-STU192,Astronomy Honors,12,97.53,Science
 STU192,Anatomy and Physiology Honors,12,95.63,Science
-STU193,Chemistry,9,93.47,Science
-STU194,Biology AP,11,93.22,Science
-STU195,Biology AP,11,92.86,Science
 STU196,Anatomy and Physiology Honors,11,92.6,Science
-STU197,Chemistry Honors,9,95.59,Science
-STU198,Physics C AP: Mechanics,12,91.16,Science
-STU199,Chemistry AP,11,92.7,Science
 STU199,Anatomy and Physiology Honors,11,97.41,Science
-STU2,Marine Science Honors,11,91.04,Science
-STU20,Computer Science Principles AP,9,83.24,Science
-STU20,Chemistry,9,83.14,Science
-STU200,Biology AP,11,90.08,Science
-STU201,Environmental Science AP,11,87.86,Science
-STU202,Biology AP,12,93.6,Science
-STU203,Physics C AP: Mechanics,12,61.91,Science
-STU204,Marine Science Honors,11,93.86,Science
 STU204,Anatomy and Physiology Honors,11,85.2,Science
-STU205,Computer Science Principles AP,11,97.48,Science
-STU205,Chemistry AP,11,94.46,Science
-STU205,Environmental Science AP,11,94.69,Science
-STU206,Environmental Science AP,12,86.95,Science
 STU207,Anatomy and Physiology Honors,12,77.91,Science
-STU208,Biology Honors,10,96.87,Science
-STU209,Chemistry Honors,9,86.54,Science
-STU21,Environmental Science AP,11,91.61,Science
-STU210,Environmental Science AP,11,92.96,Science
-STU211,Environmental Science AP,11,88.78,Science
 STU211,Anatomy and Physiology Honors,11,92.55,Science
-STU212,Marine Science Honors,11,91.47,Science
 STU213,Anatomy and Physiology Honors,12,83.29,Science
 STU214,Anatomy and Physiology Honors,11,92.83,Science
-STU215,Astronomy Honors,12,94.04,Science
-STU216,Biology,10,85.98,Science
-STU217,Biology AP,11,93.26,Science
-STU218,Marine Science Honors,11,93.28,Science
-STU219,Computer Science Principles AP,9,87.07,Science
-STU219,Chemistry,9,95.04,Science
-STU22,Environmental Science AP,11,90.9,Science
-STU220,Marine Science Honors,11,94.69,Science
-STU221,Biology AP,12,73.82,Science
-STU222,Chemistry,9,93.12,Science
-STU223,Physics I AP,11,89.27,Science
-STU224,Physics I AP,12,74.62,Science
-STU225,Biology AP,11,94.25,Science
-STU226,Computer Science Principles AP,9,91.6,Science
-STU226,Chemistry Honors,9,89.46,Science
-STU227,Physics C AP: Mechanics,12,91.93,Science
-STU227,Chemistry AP,12,88.63,Science
-STU228,Computer Science A AP,10,89.01,Science
-STU228,Biology Honors,10,93.87,Science
-STU229,Marine Science Honors,11,97.6,Science
-STU23,Physics C AP: Mechanics,12,92.79,Science
-STU23,Science Research III Advanced,12,96,Science
-STU230,Computer Science Principles AP,11,92.05,Science
-STU230,Environmental Science AP,11,87.27,Science
-STU231,Environmental Science AP,12,72.19,Science
-STU232,Environmental Science AP,12,87.62,Science
-STU233,Chemistry AP,11,80.42,Science
 STU233,Anatomy and Physiology Honors,11,92.51,Science
-STU234,Biology,10,83.78,Science
 STU235,Anatomy and Physiology Honors,12,89.66,Science
-STU236,Computer Science Principles AP,10,95.26,Science
-STU236,Biology Honors,10,84.79,Science
-STU237,Computer Science A AP,11,92.92,Science
-STU237,Biology AP,11,94.83,Science
-STU238,Biology,10,93.17,Science
-STU239,Chemistry,9,94.49,Science
-STU24,Marine Science Honors,11,96.86,Science
-STU240,Biology AP,11,97.38,Science
-STU240,Science Research II Advanced,11,98,Science
-STU241,Biology Honors,10,83.64,Science
-STU242,Marine Science Honors,11,94.58,Science
-STU243,Computer Science Principles AP,10,94.75,Science
-STU243,Biology Honors,10,93.37,Science
-STU244,Biology,10,92.12,Science
-STU245,Computer Science Principles AP,10,78.89,Science
-STU245,Biology,10,91.55,Science
-STU246,Physics C AP: Mechanics,12,87.09,Science
-STU247,Computer Science A AP,10,92.01,Science
-STU247,Biology Honors,10,90.76,Science
-STU248,Computer Science Principles AP,10,93.94,Science
-STU248,Biology,10,93.47,Science
-STU249,Chemistry,9,101.37,Science
-STU25,Environmental Science AP,11,92.89,Science
-STU250,Biology Honors,10,86.57,Science
-STU251,Marine Science Honors,11,94.91,Science
-STU252,Marine Science Honors,11,95.27,Science
-STU253,Marine Science Honors,11,93.1,Science
-STU253,Astronomy Honors,11,94.83,Science
-STU254,Biology,10,93.51,Science
-STU255,Marine Science Honors,11,92.79,Science
-STU256,Computer Science Principles AP,10,94.36,Science
-STU256,Biology Honors,10,91.22,Science
-STU257,Chemistry Honors,9,92.77,Science
-STU258,Chemistry Honors,9,89.72,Science
 STU259,Anatomy and Physiology Honors,11,84.09,Science
-STU26,Computer Science Principles AP,12,94.83,Science
-STU26,Marine Science Honors,12,94.71,Science
-STU260,Computer Science Principles AP,9,89.56,Science
-STU260,Chemistry,9,90.73,Science
-STU261,Environmental Science AP,11,92.9,Science
-STU262,Computer Science Principles AP,10,95.95,Science
-STU262,Biology Honors,10,90.24,Science
-STU263,Environmental Science AP,11,90.08,Science
-STU264,Computer Science Principles AP,10,94.9,Science
-STU264,Biology Honors,10,93.38,Science
-STU265,Biology,10,92.41,Science
-STU266,Biology Honors,10,88.23,Science
-STU266,Marine Science Honors,10,97.31,Science
-STU267,Computer Science A AP,10,92.15,Science
-STU267,Biology Honors,10,92.83,Science
-STU268,Astronomy Honors,12,87.75,Science
-STU269,Biology Honors,10,78.7,Science
-STU27,Computer Science Principles AP,10,95.71,Science
-STU27,Biology Honors,10,92.58,Science
-STU270,Environmental Science AP,11,89.48,Science
-STU271,Chemistry,9,97.41,Science
 STU272,Anatomy and Physiology Honors,11,82.54,Science
-STU273,Biology Honors,10,90.73,Science
-STU274,Computer Science Principles AP,9,92.73,Science
-STU274,Chemistry,9,94.5,Science
-STU275,Computer Science Principles AP,11,85.16,Science
-STU275,Marine Science Honors,11,84.77,Science
-STU276,Marine Science Honors,11,95.03,Science
-STU277,Chemistry AP,12,91.82,Science
-STU278,Chemistry Honors,9,94.89,Science
-STU279,Environmental Science AP,11,89.84,Science
-STU28,Biology Post-AP,12,93.51,Science
-STU28,Chemistry AP,12,83.45,Science
-STU280,Biology Honors,10,96.72,Science
-STU280,Science Research I Honors,10,95,Science
-STU281,Computer Science Principles AP,10,93.91,Science
-STU281,Biology Honors,10,91.43,Science
-STU281,Science Research I Honors,10,95,Science
-STU282,Computer Science Principles AP,11,89.22,Science
 STU282,Anatomy and Physiology Honors,11,87.15,Science
-STU283,Computer Science Principles AP,10,96.18,Science
-STU283,Biology Honors,10,87.77,Science
-STU284,Chemistry AP,12,90.95,Science
-STU285,Biology Honors,10,92.65,Science
-STU286,Biology Honors,10,97.03,Science
-STU286,Science Research I Honors,10,95,Science
-STU287,Computer Science A AP,11,96.04,Science
-STU287,Biology AP,11,98.92,Science
 STU287,Anatomy and Physiology Honors,11,99.06,Science
-STU288,Computer Science Principles AP,10,98.11,Science
-STU288,Biology Honors,10,90.23,Science
-STU289,Chemistry,9,99.52,Science
 STU29,Anatomy and Physiology Honors,12,84.51,Science
-STU290,Organic Chemistry Post-AP,12,95.8,Science
-STU291,Environmental Science AP,11,92.37,Science
 STU292,Anatomy and Physiology Honors,11,89.56,Science
-STU293,Biology AP,12,86.3,Science
-STU294,Computer Science A AP,11,94.48,Science
-STU294,Chemistry AP,11,97.09,Science
-STU295,Chemistry Honors,9,96.42,Science
-STU296,Biology Honors,10,84.64,Science
-STU297,Biology Honors,10,92.16,Science
-STU298,Computer Science Principles AP,9,96.57,Science
-STU298,Chemistry,9,96.35,Science
-STU299,Computer Science A AP,10,82.05,Science
-STU299,Biology Honors,10,83.46,Science
-STU3,Biology AP,11,96.78,Science
-STU30,Chemistry AP,12,86.8,Science
-STU300,Biology,10,92.84,Science
-STU301,Biology Honors,10,90.73,Science
-STU302,Biology Honors,10,90.85,Science
-STU303,Biology,10,80.12,Science
-STU304,Biology,10,88.45,Science
-STU305,Biology AP,11,94.18,Science
 STU305,Anatomy and Physiology Honors,11,97.3,Science
-STU306,Biology Honors,10,82.55,Science
-STU307,Computer Science A AP,10,95.23,Science
-STU307,Biology Honors,10,93.34,Science
-STU308,Chemistry Honors,9,93.76,Science
-STU309,Biology Honors,10,82.75,Science
 STU31,Anatomy and Physiology Honors,12,81.01,Science
 STU310,Anatomy and Physiology Honors,12,86.56,Science
-STU311,Computer Science A AP,10,95.23,Science
-STU311,Biology Honors,10,93.87,Science
-STU311,Science Research I Honors,10,95,Science
-STU312,Environmental Science AP,11,91.16,Science
 STU313,Anatomy and Physiology Honors,11,95.99,Science
-STU314,Chemistry,9,90.8,Science
-STU315,Computer Science Principles AP,9,94.72,Science
-STU315,Chemistry Honors,9,92.89,Science
-STU316,Biology,10,89.54,Science
-STU317,Computer Science Principles AP,10,96.75,Science
-STU317,Biology Honors,10,90.33,Science
-STU318,Biology,10,93.28,Science
-STU319,Chemistry,9,87.5,Science
-STU32,Biology AP,11,94.24,Science
-STU32,Science Research II Advanced,11,94,Science
-STU321,Computer Science Principles AP,9,89.2,Science
-STU321,Chemistry Honors,9,83.82,Science
-STU322,Chemistry,9,87.6,Science
-STU323,Biology Honors,10,83.42,Science
-STU324,Chemistry Honors,9,92.65,Science
-STU325,Computer Science A AP,10,89.02,Science
-STU325,Biology Honors,10,92.78,Science
-STU326,Biology,10,92.52,Science
-STU327,Biology Honors,10,90.16,Science
-STU328,Biology,10,97.72,Science
-STU329,Chemistry,9,93.69,Science
-STU33,Computer Science A AP,10,89.75,Science
-STU33,Biology Honors,10,92.5,Science
-STU330,Chemistry Honors,9,95.62,Science
-STU331,Biology AP,11,90.8,Science
 STU331,Anatomy and Physiology Honors,11,92.57,Science
-STU332,Chemistry,9,80.84,Science
-STU333,Computer Science Principles AP,10,90.32,Science
-STU333,Biology,10,92.05,Science
-STU334,Chemistry,9,99.24,Science
-STU335,Biology Post-AP,12,97.34,Science
-STU335,Chemistry AP,12,89.86,Science
-STU336,Environmental Science AP,11,94.18,Science
-STU337,Chemistry,9,90.89,Science
-STU338,Computer Science A AP,10,92.55,Science
-STU338,Biology Honors,10,95.56,Science
 STU338,Anatomy and Physiology Honors,10,93.68,Science
-STU339,Chemistry,9,95.6,Science
-STU34,Chemistry AP,12,89.59,Science
-STU340,Environmental Science AP,12,88.17,Science
-STU341,Biology Honors,10,84.22,Science
-STU342,Computer Science Principles AP,11,87.72,Science
 STU342,Anatomy and Physiology Honors,11,89.52,Science
-STU343,Environmental Science AP,11,91.58,Science
-STU344,Biology AP,11,92.5,Science
-STU345,Biology AP,12,86.75,Science
-STU346,Chemistry,9,90.15,Science
-STU347,Physics C AP: Mechanics,12,91.03,Science
-STU348,Computer Science Principles AP,9,98.83,Science
-STU348,Chemistry Honors,9,93.57,Science
-STU349,Biology AP,12,79.92,Science
-STU35,Biology AP,11,98.13,Science
-STU35,Astronomy Honors,11,98.56,Science
-STU35,Science Research II Advanced,11,94,Science
-STU350,Biology AP,11,93.26,Science
-STU351,Computer Science Principles AP,9,94.42,Science
-STU351,Chemistry,9,98.2,Science
-STU352,Physics C AP: Mechanics,12,88.49,Science
-STU353,Biology Post-AP,12,95.74,Science
-STU353,Chemistry AP,12,95.54,Science
-STU354,Biology Honors,10,88.64,Science
-STU355,Physics C AP: Mechanics,12,81.86,Science
-STU356,Biology Honors,10,91,Science
-STU357,Computer Science A AP,10,95.5,Science
-STU357,Biology Honors,10,92.02,Science
-STU358,Biology AP,12,87.7,Science
-STU359,Chemistry Honors,9,84.42,Science
-STU36,Environmental Science AP,11,91.66,Science
-STU360,Physics I AP,11,83.02,Science
-STU361,Chemistry Honors,9,90.71,Science
-STU362,Computer Science Principles AP,9,96.61,Science
-STU362,Chemistry Honors,9,98.74,Science
-STU363,Chemistry,9,95.45,Science
-STU364,Computer Science Principles AP,9,87.95,Science
-STU364,Chemistry,9,90.68,Science
-STU365,Biology Honors,10,83.78,Science
-STU366,Biology,10,88.07,Science
-STU367,Computer Science Principles AP,9,90.52,Science
-STU367,Chemistry Honors,9,86.01,Science
-STU368,Biology AP,11,94.04,Science
-STU369,Chemistry,9,93.7,Science
-STU37,Environmental Science AP,12,88.43,Science
-STU370,Chemistry Honors,9,95.38,Science
-STU371,Chemistry Honors,9,89.59,Science
-STU372,Chemistry,9,93.96,Science
-STU373,Computer Science Principles AP,9,94.14,Science
-STU373,Chemistry,9,88.59,Science
-STU374,Chemistry,9,87.91,Science
-STU375,Physics C AP: Mechanics,12,82.84,Science
-STU376,Chemistry Honors,9,82.96,Science
-STU377,Physics C AP: Mechanics,12,91.77,Science
-STU378,Computer Science Principles AP,9,93.85,Science
-STU378,Chemistry Honors,9,84.58,Science
-STU379,Computer Science A AP,11,95.47,Science
-STU379,Biology AP,11,96.78,Science
-STU38,Chemistry,9,87.71,Science
-STU380,Computer Science Principles AP,9,94.63,Science
-STU380,Chemistry Honors,9,85.05,Science
-STU381,Biology,10,74.08,Science
-STU382,Computer Science A AP,10,93.76,Science
-STU382,Biology Honors,10,94.06,Science
-STU383,Astronomy Honors,12,84.94,Science
 STU383,Anatomy and Physiology Honors,12,87.03,Science
-STU384,Chemistry Honors,9,96.75,Science
-STU385,Chemistry,9,101.65,Science
-STU386,Biology Honors,10,81.69,Science
-STU387,Physics I AP,12,82.54,Science
-STU388,Computer Science Principles AP,9,97.48,Science
-STU388,Chemistry Honors,9,89.85,Science
-STU389,Computer Science A AP,10,85.27,Science
-STU389,Biology Honors,10,84.99,Science
-STU39,Physics I AP,12,79.36,Science
-STU39,Science Research III Advanced,12,97,Science
-STU390,Computer Science Principles AP,10,94.49,Science
-STU390,Biology Honors,10,87.27,Science
-STU391,Environmental Science AP,11,93.44,Science
-STU392,Biology AP,12,87.47,Science
-STU393,Computer Science Principles AP,10,90.44,Science
-STU393,Biology Honors,10,93.58,Science
-STU394,Computer Science A AP,11,95.92,Science
-STU394,Biology AP,11,95.44,Science
-STU395,Biology AP,12,87.33,Science
-STU396,Biology,10,87.16,Science
-STU397,Biology AP,12,85.62,Science
 STU397,Anatomy and Physiology Honors,12,91.6,Science
-STU398,Computer Science Principles AP,10,95.71,Science
-STU398,Biology Honors,10,89.58,Science
-STU399,Computer Science A AP,11,82.66,Science
-STU399,Marine Science Honors,11,94.62,Science
-STU4,Biology,10,91.87,Science
-STU40,Chemistry AP,12,96.01,Science
-STU400,Physics I AP,12,91.53,Science
-STU401,Chemistry AP,11,99.19,Science
-STU402,Biology AP,11,85.36,Science
-STU403,Chemistry Honors,9,92.72,Science
-STU404,Computer Science Principles AP,9,91.33,Science
-STU404,Chemistry Honors,9,89.85,Science
-STU405,Computer Science Principles AP,9,91.79,Science
-STU405,Chemistry Honors,9,85.05,Science
-STU406,Chemistry,9,83.48,Science
-STU407,Chemistry,9,92.34,Science
-STU408,Biology Post-AP,12,95.83,Science
-STU408,Chemistry AP,12,94.46,Science
-STU408,Science Research III Advanced,12,97,Science
-STU409,Astronomy Honors,11,86.89,Science
-STU41,Biology AP,11,94.8,Science
-STU410,Physics C AP: Mechanics,12,86.17,Science
-STU411,Chemistry,9,103.7,Science
-STU412,Chemistry,9,90.4,Science
-STU413,Computer Science Principles AP,9,93.37,Science
-STU413,Chemistry Honors,9,87.67,Science
-STU414,Biology AP,12,86.5,Science
-STU415,Chemistry,9,91.12,Science
-STU416,Computer Science Principles AP,9,97.54,Science
-STU416,Chemistry Honors,9,95.71,Science
-STU417,Chemistry,9,99.37,Science
-STU418,Biology AP,11,97.26,Science
-STU418,Organic Chemistry Post-AP,11,98.77,Science
-STU419,Computer Science Principles AP,10,96.25,Science
-STU419,Biology Honors,10,91.77,Science
-STU42,Computer Science Principles AP,9,90.58,Science
-STU42,Chemistry Honors,9,86.76,Science
-STU420,Biology Post-AP,12,94.57,Science
-STU420,Chemistry AP,12,93.92,Science
-STU421,Marine Science Honors,12,89.34,Science
-STU422,Chemistry,9,100.11,Science
-STU423,Chemistry,9,92.64,Science
-STU424,Biology Honors,10,91.87,Science
-STU425,Environmental Science AP,12,84.29,Science
-STU425,Astronomy Honors,12,92.17,Science
-STU426,Biology Honors,10,88.9,Science
-STU427,Computer Science Principles AP,9,98.74,Science
-STU427,Chemistry Honors,9,89.52,Science
-STU428,Physics C AP: Mechanics,12,96.46,Science
-STU429,Chemistry Honors,9,83.36,Science
-STU43,Biology Honors,10,91.85,Science
-STU430,Marine Science Honors,11,94.53,Science
-STU431,Chemistry AP,12,87.08,Science
-STU432,Computer Science Principles AP,9,95.98,Science
-STU432,Chemistry Honors,9,89.75,Science
-STU433,Chemistry,9,88.74,Science
-STU434,Biology AP,11,87.08,Science
-STU435,Biology Post-AP,12,94.38,Science
-STU435,Chemistry AP,12,94.8,Science
-STU436,Marine Science Honors,11,90.19,Science
-STU437,Chemistry,9,96.3,Science
-STU438,Chemistry,9,91.03,Science
-STU439,Marine Science Honors,11,95.21,Science
 STU440,Anatomy and Physiology Honors,11,91,Science
-STU441,Biology AP,12,90.58,Science
-STU442,Marine Science Honors,11,94.09,Science
-STU443,Biology Honors,10,89.7,Science
-STU444,Biology AP,12,92.59,Science
-STU444,Organic Chemistry Post-AP,12,94.81,Science
-STU445,Physics I AP,12,82.84,Science
-STU446,Biology AP,11,99.4,Science
-STU447,Physics C AP: Mechanics,12,91.79,Science
-STU448,Computer Science Principles AP,11,93.65,Science
-STU448,Biology AP,11,89.86,Science
-STU449,Chemistry,9,84.46,Science
-STU45,Environmental Science AP,11,89.86,Science
 STU45,Anatomy and Physiology Honors,11,98.26,Science
-STU450,Biology Honors,10,92.67,Science
-STU451,Biology AP,12,94.93,Science
-STU452,Biology Honors,10,97.97,Science
-STU452,Environmental Science AP,10,96.93,Science
-STU452,Science Research I Honors,10,95,Science
-STU453,Chemistry,9,95.97,Science
-STU454,Biology AP,12,86.56,Science
-STU455,Computer Science Principles AP,10,99.13,Science
-STU455,Biology Honors,10,97.14,Science
-STU456,Computer Science Principles AP,10,95.53,Science
-STU456,Biology Honors,10,89.54,Science
 STU456,Anatomy and Physiology Honors,10,89.98,Science
-STU457,Biology,10,96.51,Science
-STU458,Marine Science Honors,11,95.43,Science
-STU459,Marine Science Honors,11,92.61,Science
 STU459,Anatomy and Physiology Honors,11,81.7,Science
-STU46,Chemistry AP,12,94.12,Science
-STU460,Computer Science Principles AP,9,92.29,Science
-STU460,Chemistry Honors,9,82.56,Science
-STU461,Environmental Science AP,11,88.07,Science
-STU462,Biology Honors,10,84.69,Science
-STU463,Computer Science Principles AP,10,90.01,Science
-STU463,Biology Honors,10,90.09,Science
-STU464,Computer Science Principles AP,9,94.81,Science
-STU464,Chemistry Honors,9,89.59,Science
-STU465,Computer Science Principles AP,9,91.86,Science
-STU465,Chemistry,9,97.92,Science
-STU466,Environmental Science AP,11,92.56,Science
-STU467,Physics I AP,11,82.03,Science
-STU468,Chemistry,9,82.55,Science
-STU469,Astronomy Honors,12,91.95,Science
-STU47,Biology,10,94.2,Science
-STU470,Chemistry,9,91.83,Science
-STU471,Biology AP,11,97.2,Science
-STU472,Computer Science Principles AP,9,90.97,Science
-STU472,Chemistry,9,98.74,Science
-STU473,Marine Science Honors,11,95.39,Science
-STU474,Chemistry AP,12,92.47,Science
-STU475,Computer Science Principles AP,9,94.71,Science
-STU475,Chemistry,9,97.26,Science
-STU476,Chemistry,9,89.14,Science
-STU477,Marine Science Honors,11,97.47,Science
-STU478,Marine Science Honors,11,95.97,Science
-STU479,Physics C AP: Mechanics,12,87.27,Science
-STU48,Environmental Science AP,11,91.43,Science
-STU480,Biology,10,96.93,Science
-STU481,Biology AP,12,90.99,Science
-STU482,Chemistry AP,12,92.57,Science
-STU483,Physics I AP,12,84.69,Science
-STU483,Organic Chemistry Post-AP,12,95.06,Science
-STU483,Science Research III Advanced,12,88,Science
-STU484,Chemistry AP,11,98.38,Science
-STU485,Biology AP,11,96.57,Science
-STU486,Biology AP,11,85.51,Science
-STU487,Computer Science A AP,11,98.11,Science
-STU487,Biology AP,11,99.98,Science
-STU487,Organic Chemistry Post-AP,11,98.77,Science
-STU488,Biology AP,11,95.29,Science
-STU488,Environmental Science AP,11,94.82,Science
-STU489,Physics C AP: Mechanics,12,91.74,Science
-STU49,Chemistry AP,12,84.46,Science
-STU490,Marine Science Honors,12,94.62,Science
-STU491,Chemistry AP,12,90.61,Science
-STU492,Marine Science Honors,12,76.5,Science
-STU493,Biology Honors,10,81.14,Science
-STU494,Astronomy Honors,11,93.82,Science
-STU495,Environmental Science AP,12,91.28,Science
-STU496,Biology Honors,10,84.7,Science
-STU497,Computer Science A AP,10,92.17,Science
-STU497,Biology Honors,10,91.36,Science
-STU498,Chemistry Honors,9,81.56,Science
-STU499,Computer Science Principles AP,11,96.49,Science
-STU499,Environmental Science AP,11,98.05,Science
-STU5,Biology Post-AP,12,97.87,Science
-STU50,Computer Science Principles AP,9,89.05,Science
-STU50,Chemistry,9,95.1,Science
-STU500,Environmental Science AP,12,86.08,Science
-STU501,Biology,10,91.54,Science
-STU502,Environmental Science AP,11,94.3,Science
-STU503,Chemistry AP,12,94.26,Science
-STU503,Science Research III Advanced,12,96,Science
-STU504,Chemistry,9,90.76,Science
-STU505,Chemistry Honors,9,87.08,Science
-STU506,Biology AP,12,86.61,Science
 STU506,Anatomy and Physiology Honors,12,96.5,Science
-STU507,Computer Science A AP,10,90.52,Science
-STU507,Biology Honors,10,86.95,Science
-STU508,Chemistry Honors,9,98.44,Science
-STU509,Biology AP,12,92.53,Science
-STU51,Environmental Science AP,12,94.95,Science
-STU510,Computer Science Principles AP,10,98.35,Science
-STU510,Biology Honors,10,93.31,Science
-STU511,Biology AP,12,94.53,Science
-STU512,Physics I AP,12,84.19,Science
-STU513,Computer Science A AP,11,96.85,Science
-STU513,Chemistry AP,11,96.28,Science
-STU513,Science Research II Advanced,11,91,Science
-STU514,Computer Science Principles AP,10,84.69,Science
-STU514,Biology,10,88.29,Science
-STU515,Chemistry AP,12,83.18,Science
-STU516,Computer Science A AP,10,92.17,Science
-STU516,Biology Honors,10,95.55,Science
-STU517,Marine Science Honors,12,86.25,Science
-STU518,Biology AP,11,98.58,Science
-STU518,Organic Chemistry Post-AP,11,98.77,Science
-STU518,Science Research II Advanced,11,98,Science
-STU519,Biology Honors,10,96.97,Science
-STU52,Physics C AP: Mechanics,12,95.1,Science
-STU52,Science Research III Advanced,12,99,Science
-STU520,Chemistry,9,91.08,Science
-STU521,Environmental Science AP,11,90.16,Science
-STU521,Marine Science Honors,11,94.35,Science
-STU522,Physics C AP: Mechanics,12,92.83,Science
-STU523,Biology AP,11,93.94,Science
-STU524,Physics C AP: Mechanics,12,89.14,Science
 STU525,Anatomy and Physiology Honors,11,90.43,Science
-STU526,Chemistry Honors,9,91.84,Science
-STU527,Environmental Science AP,12,84.09,Science
-STU528,Biology AP,12,90.09,Science
 STU528,Anatomy and Physiology Honors,12,93.28,Science
-STU529,Physics C AP: Mechanics,12,98.44,Science
-STU53,Chemistry Honors,9,91.84,Science
-STU530,Physics I AP,12,76.54,Science
-STU531,Environmental Science AP,12,80.27,Science
-STU532,Computer Science Principles AP,9,89.83,Science
-STU532,Chemistry Honors,9,86.6,Science
-STU533,Chemistry AP,12,90.97,Science
-STU534,Chemistry Honors,9,82.53,Science
-STU535,Chemistry AP,12,85.17,Science
-STU535,Science Research III Advanced,12,95,Science
-STU536,Biology AP,12,89.9,Science
-STU537,Chemistry,9,95.74,Science
-STU538,Chemistry AP,10,100.27,Science
-STU538,Science Research I Honors,10,95,Science
 STU538,Anatomy and Physiology Honors,10,99.42,Science
-STU539,Biology,10,94.14,Science
-STU54,Environmental Science AP,12,88.76,Science
-STU540,Environmental Science AP,12,88.03,Science
-STU541,Chemistry,9,94.42,Science
-STU542,Marine Science Honors,11,79.3,Science
-STU543,Physics I AP,12,65.61,Science
-STU544,Physics I AP,12,89.16,Science
-STU545,Astronomy Honors,12,87.46,Science
-STU546,Chemistry,9,90.88,Science
-STU547,Computer Science Principles AP,9,89.41,Science
-STU547,Chemistry,9,99.04,Science
 STU548,Anatomy and Physiology Honors,12,94.38,Science
-STU549,Marine Science Honors,11,88.84,Science
-STU55,Physics C AP: Mechanics,12,91.92,Science
-STU55,Science Research III Advanced,12,98,Science
-STU550,Environmental Science AP,11,94.81,Science
-STU550,Marine Science Honors,11,95.52,Science
-STU551,Biology Post-AP,12,100,Science
-STU551,Chemistry AP,12,95.81,Science
-STU552,Chemistry AP,10,97.97,Science
-STU552,Science Research I Honors,10,95,Science
 STU553,Anatomy and Physiology Honors,12,87.64,Science
-STU554,Physics C AP: Mechanics,12,77.85,Science
-STU555,Computer Science Principles AP,10,96.25,Science
-STU555,Biology Honors,10,92.7,Science
-STU556,Computer Science Principles AP,9,99.04,Science
-STU556,Chemistry Honors,9,97.15,Science
-STU557,Physics I AP,11,91.39,Science
-STU558,Computer Science A AP,10,94.75,Science
-STU558,Biology Honors,10,94.76,Science
-STU558,Science Research I Honors,10,95,Science
-STU559,Biology AP,11,94.91,Science
-STU56,Biology AP,12,90.28,Science
-STU560,Chemistry Honors,9,98.31,Science
-STU561,Biology AP,11,89.55,Science
-STU562,Biology AP,12,84.41,Science
-STU563,Computer Science Principles AP,9,82.9,Science
-STU563,Chemistry,9,87.88,Science
-STU564,Computer Science Principles AP,10,99.85,Science
-STU564,Chemistry AP,10,97.43,Science
-STU565,Computer Science Principles AP,10,93.99,Science
-STU565,Biology Honors,10,88.9,Science
-STU566,Biology AP,11,93.04,Science
-STU567,Environmental Science AP,12,89.13,Science
-STU568,Computer Science Principles AP,9,82.44,Science
-STU568,Chemistry,9,90.65,Science
-STU569,Biology AP,11,88.1,Science
-STU57,Marine Science Honors,12,84.3,Science
-STU570,Environmental Science AP,11,94.79,Science
-STU570,Marine Science Honors,11,98.21,Science
+STU600,Anatomy and Physiology Honors,11,96.7,Science
+STU617,Anatomy and Physiology Honors,12,84.42,Science
+STU624,Anatomy and Physiology Honors,10,93.8,Science
+STU627,Anatomy and Physiology Honors,11,98.43,Science
+STU635,Anatomy and Physiology Honors,12,93.24,Science
+STU650,Anatomy and Physiology Honors,11,97.58,Science
+STU652,Anatomy and Physiology Honors,11,93.23,Science
+STU668,Anatomy and Physiology Honors,12,87.61,Science
+STU672,Anatomy and Physiology Honors,12,92.91,Science
+STU689,Anatomy and Physiology Honors,12,82.54,Science
+STU694,Anatomy and Physiology Honors,12,83.01,Science
+STU702,Anatomy and Physiology Honors,12,92.56,Science
+STU72,Anatomy and Physiology Honors,12,89.63,Science
+STU753,Anatomy and Physiology Honors,10,84.24,Science
+STU759,Anatomy and Physiology Honors,11,98.33,Science
+STU772,Anatomy and Physiology Honors,10,96.53,Science
+STU80,Anatomy and Physiology Honors,12,94.26,Science
+STU821,Anatomy and Physiology Honors,10,99.87,Science
+STU822,Anatomy and Physiology Honors,10,98.76,Science
+STU824,Anatomy and Physiology Honors,10,97.91,Science
+STU858,Anatomy and Physiology Honors,11,88.44,Science
+STU86,Anatomy and Physiology Honors,11,90.46,Science
+STU10,Astronomy Honors,11,91.96,Science
+STU107,Astronomy Honors,12,82.95,Science
+STU13,Astronomy Honors,12,84.03,Science
+STU165,Astronomy Honors,12,95.75,Science
+STU173,Astronomy Honors,12,84.9,Science
+STU192,Astronomy Honors,12,97.53,Science
+STU215,Astronomy Honors,12,94.04,Science
+STU253,Astronomy Honors,11,94.83,Science
+STU268,Astronomy Honors,12,87.75,Science
+STU35,Astronomy Honors,11,98.56,Science
+STU383,Astronomy Honors,12,84.94,Science
+STU409,Astronomy Honors,11,86.89,Science
+STU425,Astronomy Honors,12,92.17,Science
+STU469,Astronomy Honors,12,91.95,Science
+STU494,Astronomy Honors,11,93.82,Science
+STU545,Astronomy Honors,12,87.46,Science
 STU571,Astronomy Honors,12,93.24,Science
-STU572,Computer Science A AP,10,78.79,Science
+STU630,Astronomy Honors,10,91.64,Science
+STU659,Astronomy Honors,12,96.65,Science
+STU664,Astronomy Honors,11,91.6,Science
+STU702,Astronomy Honors,12,88.75,Science
+STU724,Astronomy Honors,12,77.22,Science
+STU733,Astronomy Honors,11,96.13,Science
+STU738,Astronomy Honors,11,97.77,Science
+STU816,Astronomy Honors,11,98.57,Science
+STU92,Astronomy Honors,12,85.78,Science
+STU95,Astronomy Honors,11,91.6,Science
+STU106,Biology,10,86.12,Science
+STU127,Biology,10,88.92,Science
+STU135,Biology,10,90.99,Science
+STU146,Biology,10,85.18,Science
+STU148,Biology,10,89.26,Science
+STU177,Biology,10,98.67,Science
+STU216,Biology,10,85.98,Science
+STU234,Biology,10,83.78,Science
+STU238,Biology,10,93.17,Science
+STU244,Biology,10,92.12,Science
+STU245,Biology,10,91.55,Science
+STU248,Biology,10,93.47,Science
+STU254,Biology,10,93.51,Science
+STU265,Biology,10,92.41,Science
+STU300,Biology,10,92.84,Science
+STU303,Biology,10,80.12,Science
+STU304,Biology,10,88.45,Science
+STU316,Biology,10,89.54,Science
+STU318,Biology,10,93.28,Science
+STU326,Biology,10,92.52,Science
+STU328,Biology,10,97.72,Science
+STU333,Biology,10,92.05,Science
+STU366,Biology,10,88.07,Science
+STU381,Biology,10,74.08,Science
+STU396,Biology,10,87.16,Science
+STU4,Biology,10,91.87,Science
+STU457,Biology,10,96.51,Science
+STU47,Biology,10,94.2,Science
+STU480,Biology,10,96.93,Science
+STU501,Biology,10,91.54,Science
+STU514,Biology,10,88.29,Science
+STU539,Biology,10,94.14,Science
 STU572,Biology,10,89.51,Science
-STU573,Biology Honors,10,88,Science
-STU574,Biology Honors,10,97.43,Science
-STU575,Biology Honors,10,93.38,Science
-STU576,Computer Science Principles AP,9,90.18,Science
-STU576,Chemistry,9,92.21,Science
-STU577,Environmental Science AP,11,89.69,Science
-STU578,Chemistry,9,92.58,Science
-STU579,Biology AP,11,98.95,Science
-STU58,Computer Science Principles AP,9,93.97,Science
-STU58,Chemistry Honors,9,89.99,Science
-STU580,Computer Science Principles AP,9,97.69,Science
-STU580,Chemistry Honors,9,95.36,Science
 STU581,Biology,10,90.85,Science
 STU582,Biology,10,89.19,Science
-STU583,Physics I AP,11,89.37,Science
 STU584,Biology,10,96.13,Science
-STU585,Computer Science Principles AP,11,96.16,Science
-STU585,Physics I AP,11,88.91,Science
-STU586,Biology AP,11,91.75,Science
-STU587,Chemistry AP,11,90.68,Science
-STU587,Science Research II Advanced,11,93,Science
-STU588,Marine Science Honors,11,92.41,Science
-STU589,Chemistry,9,93.16,Science
-STU59,Chemistry,9,79.01,Science
-STU590,Computer Science Principles AP,10,85.99,Science
 STU590,Biology,10,91.67,Science
-STU591,Biology Honors,10,96.44,Science
-STU592,Physics I AP,12,94.38,Science
-STU592,Biology Post-AP,12,95.74,Science
-STU593,Computer Science A AP,10,94.87,Science
-STU593,Biology Honors,10,93.03,Science
-STU594,Marine Science Honors,11,91.49,Science
-STU595,Chemistry,10,89.19,Science
-STU596,Physics C AP: Mechanics,12,83.19,Science
-STU597,Environmental Science AP,11,91.87,Science
-STU598,Chemistry,9,93.42,Science
-STU599,Computer Science Principles AP,9,95.44,Science
-STU599,Chemistry Honors,9,89.53,Science
 STU6,Biology,10,84.86,Science
-STU60,Computer Science A AP,10,94.57,Science
-STU60,Biology Honors,10,93.66,Science
-STU600,Biology AP,11,93.97,Science
-STU600,Anatomy and Physiology Honors,11,96.7,Science
-STU601,Computer Science Principles AP,9,85.81,Science
-STU601,Chemistry,9,90.08,Science
-STU602,Environmental Science AP,11,93.19,Science
-STU603,Environmental Science AP,12,79.22,Science
-STU604,Chemistry,9,92.49,Science
-STU605,Chemistry Honors,9,92.85,Science
-STU606,Chemistry AP,12,94.25,Science
-STU607,Biology Honors,10,89.59,Science
-STU608,Chemistry AP,10,97.95,Science
-STU608,Science Research I Honors,10,95,Science
-STU609,Computer Science Principles AP,9,90.42,Science
-STU609,Chemistry Honors,9,82.96,Science
-STU61,Biology Honors,10,89.61,Science
 STU610,Biology,10,94.25,Science
-STU611,Computer Science A AP,10,85.15,Science
-STU611,Biology Honors,10,87.65,Science
-STU612,Computer Science Principles AP,9,96.56,Science
-STU612,Chemistry Honors,9,98.76,Science
-STU613,Chemistry Honors,9,81.9,Science
-STU614,Physics I AP,12,80.53,Science
-STU615,Computer Science A AP,10,88.74,Science
-STU615,Biology Honors,10,89.72,Science
-STU616,Biology Honors,10,90.78,Science
-STU617,Biology AP,12,76.69,Science
-STU617,Anatomy and Physiology Honors,12,84.42,Science
-STU618,Computer Science Principles AP,10,99.4,Science
-STU618,Chemistry AP,10,100.14,Science
-STU619,Chemistry Honors,9,80.37,Science
-STU62,Environmental Science AP,11,89.65,Science
-STU620,Computer Science A AP,11,95.38,Science
-STU620,Biology AP,11,92.99,Science
-STU621,Computer Science Principles AP,9,94.33,Science
-STU621,Chemistry Honors,9,84.95,Science
-STU622,Biology AP,12,99.09,Science
-STU622,Organic Chemistry Post-AP,12,98.27,Science
-STU623,Computer Science A AP,10,87.77,Science
-STU623,Biology Honors,10,83.41,Science
-STU624,Computer Science A AP,10,89.08,Science
-STU624,Biology Honors,10,92.94,Science
-STU624,Anatomy and Physiology Honors,10,93.8,Science
-STU625,Chemistry Honors,9,90.05,Science
-STU626,Chemistry Honors,9,89.26,Science
-STU627,Biology AP,11,93.13,Science
-STU627,Anatomy and Physiology Honors,11,98.43,Science
-STU628,Biology AP,11,93.16,Science
-STU629,Chemistry,9,90.8,Science
-STU63,Computer Science Principles AP,9,95.17,Science
-STU63,Chemistry Honors,9,89.81,Science
-STU630,Biology Honors,10,89.76,Science
-STU630,Astronomy Honors,10,91.64,Science
-STU631,Physics C AP: Mechanics,12,91.03,Science
-STU631,Science Research III Advanced,12,94,Science
-STU632,Chemistry Honors,9,92.52,Science
-STU633,Environmental Science AP,11,93.98,Science
-STU634,Chemistry AP,10,97.97,Science
-STU635,Anatomy and Physiology Honors,12,93.24,Science
-STU636,Chemistry,9,88.71,Science
-STU637,Chemistry Honors,9,90.52,Science
-STU638,Biology Honors,10,90.69,Science
-STU639,Computer Science Principles AP,9,98.59,Science
-STU639,Chemistry Honors,9,96.49,Science
-STU64,Physics I AP,11,93.07,Science
-STU64,Environmental Science AP,11,95.48,Science
-STU640,Chemistry,9,88.58,Science
-STU641,Biology Honors,10,89.74,Science
-STU642,Biology AP,11,97.2,Science
-STU643,Computer Science Principles AP,9,99.46,Science
-STU643,Chemistry Honors,9,97.01,Science
-STU644,Chemistry,9,100.6,Science
-STU645,Chemistry,9,93.06,Science
-STU646,Chemistry Honors,9,79.58,Science
-STU647,Computer Science Principles AP,9,93.04,Science
-STU647,Chemistry,9,95.67,Science
-STU648,Chemistry,9,90.24,Science
-STU649,Computer Science A AP,10,95.74,Science
-STU649,Biology Honors,10,96.62,Science
 STU65,Biology,10,91.92,Science
-STU650,Biology AP,11,92.65,Science
-STU650,Anatomy and Physiology Honors,11,97.58,Science
-STU651,Computer Science Principles AP,9,96.94,Science
-STU651,Chemistry Honors,9,90.38,Science
-STU652,Anatomy and Physiology Honors,11,93.23,Science
-STU653,Computer Science Principles AP,10,95.25,Science
 STU653,Biology,10,99.71,Science
-STU654,Computer Science Principles AP,10,99.16,Science
-STU654,Chemistry AP,10,99.86,Science
-STU654,Science Research I Honors,10,95,Science
-STU655,Computer Science Principles AP,10,92.89,Science
-STU655,Biology Honors,10,83.84,Science
 STU656,Biology,10,90.93,Science
 STU657,Biology,10,95.85,Science
 STU658,Biology,10,93.27,Science
-STU659,Biology AP,12,91.4,Science
-STU659,Astronomy Honors,12,96.65,Science
-STU66,Chemistry AP,12,93.58,Science
-STU660,Computer Science Principles AP,10,85.88,Science
 STU660,Biology,10,87.02,Science
-STU661,Chemistry,9,102.96,Science
 STU662,Biology,10,91.69,Science
-STU663,Computer Science A AP,10,97.36,Science
-STU663,Biology Honors,10,94.77,Science
-STU664,Astronomy Honors,11,91.6,Science
-STU665,Biology AP,11,80.2,Science
-STU666,Chemistry,9,93.37,Science
-STU667,Biology Post-AP,12,99.47,Science
-STU668,Anatomy and Physiology Honors,12,87.61,Science
-STU669,Biology AP,11,97.31,Science
-STU669,Science Research II Advanced,11,98,Science
-STU67,Physics I AP,12,90.96,Science
-STU670,Marine Science Honors,11,89.78,Science
-STU671,Environmental Science AP,11,96.06,Science
-STU672,Anatomy and Physiology Honors,12,92.91,Science
-STU673,Chemistry,9,97.59,Science
-STU674,Environmental Science AP,11,98.73,Science
 STU675,Biology,10,93.06,Science
-STU676,Chemistry Honors,9,85.25,Science
-STU677,Biology Honors,10,93.81,Science
-STU678,Environmental Science AP,12,94.04,Science
-STU679,Chemistry,9,82.04,Science
-STU68,Biology AP,12,85.82,Science
-STU680,Biology Honors,10,96.7,Science
-STU681,Chemistry,9,93.77,Science
-STU682,Physics I AP,12,87.66,Science
-STU683,Chemistry Honors,9,83.62,Science
-STU684,Physics I AP,12,92.72,Science
-STU684,Science Research III Advanced,12,99,Science
-STU685,Chemistry Honors,9,81.63,Science
-STU686,Physics C AP: Mechanics,12,96.78,Science
-STU687,Environmental Science AP,11,94.93,Science
-STU688,Chemistry,9,90.84,Science
-STU689,Anatomy and Physiology Honors,12,82.54,Science
-STU69,Computer Science Principles AP,9,84.8,Science
-STU69,Chemistry,9,89.56,Science
-STU690,Computer Science Principles AP,9,86.67,Science
-STU690,Chemistry,9,90.55,Science
-STU691,Chemistry,9,91.17,Science
-STU692,Environmental Science AP,11,83.89,Science
-STU693,Computer Science Principles AP,9,96.38,Science
-STU693,Chemistry Honors,9,89.39,Science
-STU694,Anatomy and Physiology Honors,12,83.01,Science
-STU695,Environmental Science AP,12,95.51,Science
-STU696,Chemistry,9,86.11,Science
-STU697,Chemistry,9,92.47,Science
-STU698,Environmental Science AP,12,90.51,Science
-STU699,Physics C AP: Mechanics,12,60.6,Science
-STU7,Computer Science A AP,10,91.1,Science
-STU7,Biology Honors,10,94.53,Science
-STU70,Organic Chemistry Post-AP,12,96.54,Science
-STU70,Science Research III Advanced,12,97,Science
-STU700,Computer Science Principles AP,9,96.04,Science
-STU700,Chemistry,9,95.94,Science
-STU701,Chemistry,9,88.96,Science
-STU702,Astronomy Honors,12,88.75,Science
-STU702,Anatomy and Physiology Honors,12,92.56,Science
-STU703,Chemistry Honors,9,79.24,Science
-STU704,Chemistry Honors,9,92.98,Science
-STU705,Chemistry,9,96.26,Science
-STU706,Biology Honors,10,94.79,Science
-STU707,Computer Science Principles AP,9,97.69,Science
-STU707,Chemistry Honors,9,90.57,Science
-STU708,Chemistry AP,12,95.96,Science
-STU709,Biology AP,12,83.87,Science
-STU71,Biology AP,11,90.72,Science
-STU710,Computer Science Principles AP,9,92.91,Science
-STU710,Chemistry Honors,9,86.76,Science
-STU711,Computer Science Principles AP,9,86.02,Science
-STU711,Chemistry,9,88.89,Science
-STU712,Computer Science A AP,10,88.88,Science
-STU712,Biology Honors,10,93.66,Science
-STU713,Chemistry,9,87.83,Science
-STU714,Chemistry,9,98.06,Science
-STU715,Physics I AP,12,95.46,Science
-STU716,Chemistry AP,11,90.7,Science
-STU716,Environmental Science AP,11,92.16,Science
-STU717,Marine Science Honors,11,84.86,Science
-STU718,Computer Science Principles AP,12,96.27,Science
-STU718,Physics C AP: Mechanics,12,87.03,Science
-STU719,Computer Science Principles AP,9,96.28,Science
-STU719,Chemistry Honors,9,96.51,Science
-STU72,Biology AP,12,84.98,Science
-STU72,Anatomy and Physiology Honors,12,89.63,Science
 STU720,Biology,10,92.01,Science
-STU721,Biology AP,11,93.33,Science
-STU722,Physics C AP: Mechanics,12,90.63,Science
-STU723,Computer Science Principles AP,10,94.47,Science
-STU723,Biology Honors,10,90.97,Science
-STU724,Astronomy Honors,12,77.22,Science
-STU725,Biology AP,11,97.29,Science
-STU725,Environmental Science AP,11,96.58,Science
-STU726,Biology Honors,10,80.64,Science
-STU727,Computer Science Principles AP,9,96.49,Science
-STU727,Chemistry,9,99.59,Science
-STU728,Physics C AP: Mechanics,12,90.57,Science
-STU729,Computer Science Principles AP,10,91.92,Science
-STU729,Biology Honors,10,85.77,Science
-STU73,Physics I AP,11,89.78,Science
-STU730,Chemistry Honors,9,93.83,Science
-STU731,Biology Honors,10,89.55,Science
-STU732,Physics C AP: Mechanics,12,83.44,Science
-STU732,Biology Post-AP,12,100,Science
-STU733,Biology AP,11,95.64,Science
-STU733,Astronomy Honors,11,96.13,Science
-STU734,Biology Honors,10,89.64,Science
-STU735,Chemistry Honors,9,86.54,Science
-STU736,Chemistry Honors,9,95.84,Science
-STU737,Biology Honors,12,81.31,Science
-STU738,Physics I AP,11,98,Science
-STU738,Astronomy Honors,11,97.77,Science
-STU738,Science Research II Advanced,11,95,Science
-STU739,Computer Science Principles AP,9,87.37,Science
-STU739,Chemistry Honors,9,83.96,Science
-STU74,Environmental Science AP,12,82.82,Science
-STU740,Computer Science A AP,10,98.41,Science
-STU740,Chemistry AP,10,95.41,Science
-STU740,Science Research I Honors,10,95,Science
-STU741,Computer Science A AP,11,95.8,Science
-STU741,Biology AP,11,96.5,Science
-STU741,Science Research II Advanced,11,98,Science
-STU742,Marine Science Honors,11,86.18,Science
-STU743,Computer Science Principles AP,9,99.4,Science
-STU743,Chemistry Honors,9,93.57,Science
-STU744,Computer Science Principles AP,9,97.21,Science
-STU744,Chemistry Honors,9,95.32,Science
-STU745,Chemistry AP,10,99.32,Science
-STU745,Science Research I Honors,10,95,Science
-STU746,Chemistry AP,11,89.17,Science
-STU746,Environmental Science AP,11,95.07,Science
-STU747,Environmental Science AP,11,89.9,Science
-STU748,Environmental Science AP,11,95.93,Science
-STU749,Marine Science Honors,11,92.43,Science
-STU75,Physics I AP,11,95.31,Science
 STU750,Biology,10,91.13,Science
 STU751,Biology,10,92.99,Science
+STU78,Biology,10,89.15,Science
+STU797,Biology,10,85.8,Science
+STU825,Biology,10,96.57,Science
+STU833,Biology,10,85.54,Science
+STU1,Biology AP,11,93.51,Science
+STU102,Biology AP,12,96.55,Science
+STU116,Biology AP,12,87.7,Science
+STU129,Biology AP,11,100.1,Science
+STU131,Biology AP,11,93.09,Science
+STU132,Biology AP,12,85.9,Science
+STU133,Biology AP,12,88.44,Science
+STU141,Biology AP,12,92.54,Science
+STU15,Biology AP,11,97.81,Science
+STU161,Biology AP,11,92.85,Science
+STU168,Biology AP,11,96.75,Science
+STU174,Biology AP,12,87.67,Science
+STU176,Biology AP,11,98.9,Science
+STU18,Biology AP,11,94.98,Science
+STU183,Biology AP,12,82.54,Science
+STU187,Biology AP,11,97.18,Science
+STU190,Biology AP,11,92.97,Science
+STU192,Biology AP,12,86.73,Science
+STU194,Biology AP,11,93.22,Science
+STU195,Biology AP,11,92.86,Science
+STU200,Biology AP,11,90.08,Science
+STU202,Biology AP,12,93.6,Science
+STU217,Biology AP,11,93.26,Science
+STU221,Biology AP,12,73.82,Science
+STU225,Biology AP,11,94.25,Science
+STU237,Biology AP,11,94.83,Science
+STU240,Biology AP,11,97.38,Science
+STU287,Biology AP,11,98.92,Science
+STU293,Biology AP,12,86.3,Science
+STU3,Biology AP,11,96.78,Science
+STU305,Biology AP,11,94.18,Science
+STU32,Biology AP,11,94.24,Science
+STU331,Biology AP,11,90.8,Science
+STU344,Biology AP,11,92.5,Science
+STU345,Biology AP,12,86.75,Science
+STU349,Biology AP,12,79.92,Science
+STU35,Biology AP,11,98.13,Science
+STU350,Biology AP,11,93.26,Science
+STU358,Biology AP,12,87.7,Science
+STU368,Biology AP,11,94.04,Science
+STU379,Biology AP,11,96.78,Science
+STU392,Biology AP,12,87.47,Science
+STU394,Biology AP,11,95.44,Science
+STU395,Biology AP,12,87.33,Science
+STU397,Biology AP,12,85.62,Science
+STU402,Biology AP,11,85.36,Science
+STU41,Biology AP,11,94.8,Science
+STU414,Biology AP,12,86.5,Science
+STU418,Biology AP,11,97.26,Science
+STU434,Biology AP,11,87.08,Science
+STU441,Biology AP,12,90.58,Science
+STU444,Biology AP,12,92.59,Science
+STU446,Biology AP,11,99.4,Science
+STU448,Biology AP,11,89.86,Science
+STU451,Biology AP,12,94.93,Science
+STU454,Biology AP,12,86.56,Science
+STU471,Biology AP,11,97.2,Science
+STU481,Biology AP,12,90.99,Science
+STU485,Biology AP,11,96.57,Science
+STU486,Biology AP,11,85.51,Science
+STU487,Biology AP,11,99.98,Science
+STU488,Biology AP,11,95.29,Science
+STU506,Biology AP,12,86.61,Science
+STU509,Biology AP,12,92.53,Science
+STU511,Biology AP,12,94.53,Science
+STU518,Biology AP,11,98.58,Science
+STU523,Biology AP,11,93.94,Science
+STU528,Biology AP,12,90.09,Science
+STU536,Biology AP,12,89.9,Science
+STU559,Biology AP,11,94.91,Science
+STU56,Biology AP,12,90.28,Science
+STU561,Biology AP,11,89.55,Science
+STU562,Biology AP,12,84.41,Science
+STU566,Biology AP,11,93.04,Science
+STU569,Biology AP,11,88.1,Science
+STU579,Biology AP,11,98.95,Science
+STU586,Biology AP,11,91.75,Science
+STU600,Biology AP,11,93.97,Science
+STU617,Biology AP,12,76.69,Science
+STU620,Biology AP,11,92.99,Science
+STU622,Biology AP,12,99.09,Science
+STU627,Biology AP,11,93.13,Science
+STU628,Biology AP,11,93.16,Science
+STU642,Biology AP,11,97.2,Science
+STU650,Biology AP,11,92.65,Science
+STU659,Biology AP,12,91.4,Science
+STU665,Biology AP,11,80.2,Science
+STU669,Biology AP,11,97.31,Science
+STU68,Biology AP,12,85.82,Science
+STU709,Biology AP,12,83.87,Science
+STU71,Biology AP,11,90.72,Science
+STU72,Biology AP,12,84.98,Science
+STU721,Biology AP,11,93.33,Science
+STU725,Biology AP,11,97.29,Science
+STU733,Biology AP,11,95.64,Science
+STU741,Biology AP,11,96.5,Science
 STU752,Biology AP,11,92.95,Science
-STU753,Computer Science A AP,10,86.6,Science
-STU753,Biology Honors,10,86.81,Science
-STU753,Anatomy and Physiology Honors,10,84.24,Science
 STU754,Biology AP,11,84.15,Science
-STU755,Computer Science Principles AP,10,94.01,Science
-STU755,Biology Honors,10,88.13,Science
-STU756,Chemistry,9,94.8,Science
 STU757,Biology AP,11,89.52,Science
 STU758,Biology AP,11,91.43,Science
 STU759,Biology AP,11,97.23,Science
-STU759,Anatomy and Physiology Honors,11,98.33,Science
-STU76,Environmental Science AP,11,95.25,Science
-STU76,Marine Science Honors,11,100.09,Science
-STU760,Computer Science Principles AP,9,89.03,Science
-STU760,Chemistry,9,87.88,Science
-STU761,Chemistry Honors,9,95.77,Science
-STU762,Chemistry,9,84.27,Science
-STU763,Physics I AP,11,86.7,Science
-STU764,Computer Science Principles AP,9,95.02,Science
-STU764,Chemistry Honors,9,89.99,Science
-STU765,Computer Science Principles AP,10,94.9,Science
-STU765,Biology Honors,10,91.28,Science
-STU766,Environmental Science AP,11,88.73,Science
-STU767,Computer Science Principles AP,10,93.01,Science
-STU767,Biology Honors,10,86.82,Science
-STU768,Computer Science A AP,11,90.01,Science
-STU768,Environmental Science AP,11,94.57,Science
-STU769,Computer Science Principles AP,9,94.22,Science
-STU769,Chemistry Honors,9,84.88,Science
-STU77,Chemistry AP,12,91.35,Science
-STU77,Science Research III Advanced,12,98,Science
 STU770,Biology AP,11,92.97,Science
-STU770,Organic Chemistry Post-AP,11,98.02,Science
-STU770,Science Research II Advanced,11,97,Science
-STU771,Chemistry,9,97.14,Science
-STU772,Biology Honors,10,96.94,Science
-STU772,Anatomy and Physiology Honors,10,96.53,Science
-STU773,Computer Science Principles AP,10,98.47,Science
-STU773,Biology Honors,10,89.6,Science
-STU774,Chemistry AP,11,97.97,Science
-STU775,Chemistry Honors,9,97.59,Science
-STU776,Environmental Science AP,11,90.57,Science
-STU776,Marine Science Honors,11,95.8,Science
-STU777,Computer Science Principles AP,9,96.49,Science
-STU777,Chemistry,9,96.98,Science
-STU778,Computer Science Principles AP,10,94.63,Science
-STU778,Biology Honors,10,89.66,Science
-STU779,Biology Honors,10,85.86,Science
-STU78,Biology,10,89.15,Science
-STU780,Computer Science Principles AP,10,92.89,Science
-STU780,Biology Honors,10,79.15,Science
-STU781,Chemistry Honors,9,89.66,Science
-STU782,Chemistry,12,92.93,Science
-STU783,Chemistry,9,91.23,Science
-STU784,Computer Science Principles AP,10,93.7,Science
-STU784,Biology Honors,10,86.57,Science
-STU785,Computer Science Principles AP,10,94.62,Science
-STU785,Biology Honors,10,94.06,Science
-STU786,Chemistry,9,91.42,Science
-STU787,Marine Science Honors,11,95.03,Science
 STU788,Biology AP,12,90.19,Science
-STU789,Computer Science Principles AP,9,94.57,Science
-STU789,Chemistry Honors,9,96.35,Science
-STU79,Environmental Science AP,12,88.58,Science
-STU790,Chemistry Honors,9,89.72,Science
-STU791,Chemistry Honors,9,91.64,Science
-STU792,Computer Science Principles AP,10,93.04,Science
-STU792,Biology Honors,10,86.96,Science
-STU793,Chemistry Honors,9,81.23,Science
-STU794,Computer Science A AP,10,90.82,Science
-STU794,Biology Honors,10,89.63,Science
-STU795,Computer Science Principles AP,9,95.38,Science
-STU795,Chemistry Honors,9,86.89,Science
-STU796,Chemistry AP,12,86.49,Science
-STU797,Computer Science Principles AP,10,83.92,Science
-STU797,Biology,10,85.8,Science
-STU798,Biology Honors,10,82.06,Science
-STU799,Physics C AP: Mechanics,12,88.69,Science
 STU8,Biology AP,12,73.34,Science
 STU80,Biology AP,12,87.16,Science
-STU80,Anatomy and Physiology Honors,12,94.26,Science
-STU800,Computer Science Principles AP,9,96.01,Science
-STU800,Chemistry,9,101.46,Science
+STU82,Biology AP,11,96.77,Science
+STU832,Biology AP,12,75.04,Science
+STU835,Biology AP,11,81.27,Science
+STU838,Biology AP,11,87.61,Science
+STU85,Biology AP,12,97.32,Science
+STU9,Biology AP,12,84.73,Science
+STU90,Biology AP,12,80.8,Science
+STU98,Biology AP,11,84.6,Science
+STU108,Biology Honors,10,86.54,Science
+STU113,Biology Honors,10,93.15,Science
+STU115,Biology Honors,10,93.26,Science
+STU119,Biology Honors,10,90.83,Science
+STU124,Biology Honors,10,92.85,Science
+STU136,Biology Honors,10,94.54,Science
+STU138,Biology Honors,10,93.17,Science
+STU140,Biology Honors,10,77.64,Science
+STU152,Biology Honors,10,94.63,Science
+STU159,Biology Honors,10,86.98,Science
+STU163,Biology Honors,10,85.45,Science
+STU166,Biology Honors,10,87.09,Science
+STU184,Biology Honors,10,96.53,Science
+STU208,Biology Honors,10,96.87,Science
+STU228,Biology Honors,10,93.87,Science
+STU236,Biology Honors,10,84.79,Science
+STU241,Biology Honors,10,83.64,Science
+STU243,Biology Honors,10,93.37,Science
+STU247,Biology Honors,10,90.76,Science
+STU250,Biology Honors,10,86.57,Science
+STU256,Biology Honors,10,91.22,Science
+STU262,Biology Honors,10,90.24,Science
+STU264,Biology Honors,10,93.38,Science
+STU266,Biology Honors,10,88.23,Science
+STU267,Biology Honors,10,92.83,Science
+STU269,Biology Honors,10,78.7,Science
+STU27,Biology Honors,10,92.58,Science
+STU273,Biology Honors,10,90.73,Science
+STU280,Biology Honors,10,96.72,Science
+STU281,Biology Honors,10,91.43,Science
+STU283,Biology Honors,10,87.77,Science
+STU285,Biology Honors,10,92.65,Science
+STU286,Biology Honors,10,97.03,Science
+STU288,Biology Honors,10,90.23,Science
+STU296,Biology Honors,10,84.64,Science
+STU297,Biology Honors,10,92.16,Science
+STU299,Biology Honors,10,83.46,Science
+STU301,Biology Honors,10,90.73,Science
+STU302,Biology Honors,10,90.85,Science
+STU306,Biology Honors,10,82.55,Science
+STU307,Biology Honors,10,93.34,Science
+STU309,Biology Honors,10,82.75,Science
+STU311,Biology Honors,10,93.87,Science
+STU317,Biology Honors,10,90.33,Science
+STU323,Biology Honors,10,83.42,Science
+STU325,Biology Honors,10,92.78,Science
+STU327,Biology Honors,10,90.16,Science
+STU33,Biology Honors,10,92.5,Science
+STU338,Biology Honors,10,95.56,Science
+STU341,Biology Honors,10,84.22,Science
+STU354,Biology Honors,10,88.64,Science
+STU356,Biology Honors,10,91,Science
+STU357,Biology Honors,10,92.02,Science
+STU365,Biology Honors,10,83.78,Science
+STU382,Biology Honors,10,94.06,Science
+STU386,Biology Honors,10,81.69,Science
+STU389,Biology Honors,10,84.99,Science
+STU390,Biology Honors,10,87.27,Science
+STU393,Biology Honors,10,93.58,Science
+STU398,Biology Honors,10,89.58,Science
+STU419,Biology Honors,10,91.77,Science
+STU424,Biology Honors,10,91.87,Science
+STU426,Biology Honors,10,88.9,Science
+STU43,Biology Honors,10,91.85,Science
+STU443,Biology Honors,10,89.7,Science
+STU450,Biology Honors,10,92.67,Science
+STU452,Biology Honors,10,97.97,Science
+STU455,Biology Honors,10,97.14,Science
+STU456,Biology Honors,10,89.54,Science
+STU462,Biology Honors,10,84.69,Science
+STU463,Biology Honors,10,90.09,Science
+STU493,Biology Honors,10,81.14,Science
+STU496,Biology Honors,10,84.7,Science
+STU497,Biology Honors,10,91.36,Science
+STU507,Biology Honors,10,86.95,Science
+STU510,Biology Honors,10,93.31,Science
+STU516,Biology Honors,10,95.55,Science
+STU519,Biology Honors,10,96.97,Science
+STU555,Biology Honors,10,92.7,Science
+STU558,Biology Honors,10,94.76,Science
+STU565,Biology Honors,10,88.9,Science
+STU573,Biology Honors,10,88,Science
+STU574,Biology Honors,10,97.43,Science
+STU575,Biology Honors,10,93.38,Science
+STU591,Biology Honors,10,96.44,Science
+STU593,Biology Honors,10,93.03,Science
+STU60,Biology Honors,10,93.66,Science
+STU607,Biology Honors,10,89.59,Science
+STU61,Biology Honors,10,89.61,Science
+STU611,Biology Honors,10,87.65,Science
+STU615,Biology Honors,10,89.72,Science
+STU616,Biology Honors,10,90.78,Science
+STU623,Biology Honors,10,83.41,Science
+STU624,Biology Honors,10,92.94,Science
+STU630,Biology Honors,10,89.76,Science
+STU638,Biology Honors,10,90.69,Science
+STU641,Biology Honors,10,89.74,Science
+STU649,Biology Honors,10,96.62,Science
+STU655,Biology Honors,10,83.84,Science
+STU663,Biology Honors,10,94.77,Science
+STU677,Biology Honors,10,93.81,Science
+STU680,Biology Honors,10,96.7,Science
+STU7,Biology Honors,10,94.53,Science
+STU706,Biology Honors,10,94.79,Science
+STU712,Biology Honors,10,93.66,Science
+STU723,Biology Honors,10,90.97,Science
+STU726,Biology Honors,10,80.64,Science
+STU729,Biology Honors,10,85.77,Science
+STU731,Biology Honors,10,89.55,Science
+STU734,Biology Honors,10,89.64,Science
+STU737,Biology Honors,12,81.31,Science
+STU753,Biology Honors,10,86.81,Science
+STU755,Biology Honors,10,88.13,Science
+STU765,Biology Honors,10,91.28,Science
+STU767,Biology Honors,10,86.82,Science
+STU772,Biology Honors,10,96.94,Science
+STU773,Biology Honors,10,89.6,Science
+STU778,Biology Honors,10,89.66,Science
+STU779,Biology Honors,10,85.86,Science
+STU780,Biology Honors,10,79.15,Science
+STU784,Biology Honors,10,86.57,Science
+STU785,Biology Honors,10,94.06,Science
+STU792,Biology Honors,10,86.96,Science
+STU794,Biology Honors,10,89.63,Science
+STU798,Biology Honors,10,82.06,Science
 STU801,Biology Honors,10,97.7,Science
-STU802,Computer Science Principles AP,12,97.87,Science
-STU802,Biology Post-AP,12,94.15,Science
-STU802,Chemistry AP,12,96.35,Science
 STU803,Biology Honors,10,79.78,Science
-STU804,Chemistry,9,97.67,Science
 STU805,Biology Honors,10,81.79,Science
 STU806,Biology Honors,10,93.07,Science
-STU807,Computer Science Principles AP,9,90.02,Science
-STU807,Chemistry,9,96.98,Science
 STU808,Biology Honors,10,95.01,Science
-STU809,Computer Science A AP,10,95.82,Science
 STU809,Biology Honors,10,95.11,Science
 STU81,Biology Honors,10,92.91,Science
 STU810,Biology Honors,10,87.09,Science
-STU811,Computer Science Principles AP,10,92.2,Science
-STU811,Chemistry Honors,10,90.12,Science
-STU812,Computer Science Principles AP,9,89.95,Science
-STU812,Chemistry,9,97.08,Science
 STU813,Biology Honors,10,100,Science
-STU814,Chemistry Honors,9,90.38,Science
-STU815,Computer Science Principles AP,10,97.24,Science
 STU815,Biology Honors,10,91.21,Science
-STU816,Computer Science A AP,11,95.95,Science
 STU816,Biology Honors,11,99.76,Science
-STU816,Astronomy Honors,11,98.57,Science
-STU817,Computer Science Principles AP,11,96.79,Science
-STU817,Environmental Science AP,11,95.31,Science
-STU818,Computer Science A AP,11,92.98,Science
-STU818,Chemistry AP,11,89.8,Science
-STU819,Computer Science Principles AP,10,99.53,Science
-STU819,Chemistry AP,10,99.32,Science
-STU819,Science Research I Honors,10,95,Science
-STU82,Biology AP,11,96.77,Science
-STU82,Science Research II Advanced,11,97,Science
-STU820,Chemistry,9,85.47,Science
-STU821,Chemistry AP,10,98.04,Science
-STU821,Science Research I Honors,10,95,Science
-STU821,Anatomy and Physiology Honors,10,99.87,Science
 STU822,Biology Honors,10,96.51,Science
-STU822,Anatomy and Physiology Honors,10,98.76,Science
-STU823,Computer Science A AP,10,88.36,Science
-STU823,Chemistry Honors,10,85.26,Science
 STU824,Biology Honors,10,96.93,Science
-STU824,Anatomy and Physiology Honors,10,97.91,Science
-STU825,Biology,10,96.57,Science
-STU826,Chemistry Honors,9,99.67,Science
 STU827,Biology Honors,10,84.25,Science
-STU828,Environmental Science AP,11,90.14,Science
-STU829,Chemistry,9,89.93,Science
-STU83,Environmental Science AP,12,94.96,Science
-STU830,Computer Science A AP,10,98.23,Science
 STU830,Biology Honors,10,96.72,Science
-STU831,Computer Science Principles AP,10,93.76,Science
-STU831,Chemistry Honors,10,91.11,Science
-STU832,Biology AP,12,75.04,Science
-STU833,Biology,10,85.54,Science
-STU834,Chemistry,9,101.9,Science
-STU835,Biology AP,11,81.27,Science
-STU836,Computer Science Principles AP,10,99.43,Science
 STU836,Biology Honors,10,95.94,Science
-STU837,Chemistry Honors,9,96.68,Science
-STU838,Biology AP,11,87.61,Science
-STU838,Environmental Science AP,11,92.85,Science
-STU839,Chemistry Honors,9,84.41,Science
-STU84,Computer Science Principles AP,11,91.51,Science
-STU84,Environmental Science AP,11,88.67,Science
-STU840,Computer Science Principles AP,9,96.19,Science
-STU840,Chemistry Honors,9,94.03,Science
-STU841,Chemistry Honors,9,84.5,Science
-STU842,Chemistry Honors,9,97.94,Science
+STU96,Biology Honors,10,89.76,Science
+STU11,Biology Post-AP,12,93.62,Science
+STU130,Biology Post-AP,12,94.94,Science
+STU149,Biology Post-AP,12,95.69,Science
+STU153,Biology Post-AP,12,101.12,Science
+STU157,Biology Post-AP,12,94.63,Science
+STU158,Biology Post-AP,12,96.07,Science
+STU28,Biology Post-AP,12,93.51,Science
+STU335,Biology Post-AP,12,97.34,Science
+STU353,Biology Post-AP,12,95.74,Science
+STU408,Biology Post-AP,12,95.83,Science
+STU420,Biology Post-AP,12,94.57,Science
+STU435,Biology Post-AP,12,94.38,Science
+STU5,Biology Post-AP,12,97.87,Science
+STU551,Biology Post-AP,12,100,Science
+STU592,Biology Post-AP,12,95.74,Science
+STU667,Biology Post-AP,12,99.47,Science
+STU732,Biology Post-AP,12,100,Science
+STU802,Biology Post-AP,12,94.15,Science
+STU110,Chemistry,9,91.67,Science
+STU156,Chemistry,9,90.74,Science
+STU182,Chemistry,9,91.66,Science
+STU19,Chemistry,9,94.07,Science
+STU193,Chemistry,9,93.47,Science
+STU20,Chemistry,9,83.14,Science
+STU219,Chemistry,9,95.04,Science
+STU222,Chemistry,9,93.12,Science
+STU239,Chemistry,9,94.49,Science
+STU249,Chemistry,9,101.37,Science
+STU260,Chemistry,9,90.73,Science
+STU271,Chemistry,9,97.41,Science
+STU274,Chemistry,9,94.5,Science
+STU289,Chemistry,9,99.52,Science
+STU298,Chemistry,9,96.35,Science
+STU314,Chemistry,9,90.8,Science
+STU319,Chemistry,9,87.5,Science
+STU322,Chemistry,9,87.6,Science
+STU329,Chemistry,9,93.69,Science
+STU332,Chemistry,9,80.84,Science
+STU334,Chemistry,9,99.24,Science
+STU337,Chemistry,9,90.89,Science
+STU339,Chemistry,9,95.6,Science
+STU346,Chemistry,9,90.15,Science
+STU351,Chemistry,9,98.2,Science
+STU363,Chemistry,9,95.45,Science
+STU364,Chemistry,9,90.68,Science
+STU369,Chemistry,9,93.7,Science
+STU372,Chemistry,9,93.96,Science
+STU373,Chemistry,9,88.59,Science
+STU374,Chemistry,9,87.91,Science
+STU38,Chemistry,9,87.71,Science
+STU385,Chemistry,9,101.65,Science
+STU406,Chemistry,9,83.48,Science
+STU407,Chemistry,9,92.34,Science
+STU411,Chemistry,9,103.7,Science
+STU412,Chemistry,9,90.4,Science
+STU415,Chemistry,9,91.12,Science
+STU417,Chemistry,9,99.37,Science
+STU422,Chemistry,9,100.11,Science
+STU423,Chemistry,9,92.64,Science
+STU433,Chemistry,9,88.74,Science
+STU437,Chemistry,9,96.3,Science
+STU438,Chemistry,9,91.03,Science
+STU449,Chemistry,9,84.46,Science
+STU453,Chemistry,9,95.97,Science
+STU465,Chemistry,9,97.92,Science
+STU468,Chemistry,9,82.55,Science
+STU470,Chemistry,9,91.83,Science
+STU472,Chemistry,9,98.74,Science
+STU475,Chemistry,9,97.26,Science
+STU476,Chemistry,9,89.14,Science
+STU50,Chemistry,9,95.1,Science
+STU504,Chemistry,9,90.76,Science
+STU520,Chemistry,9,91.08,Science
+STU537,Chemistry,9,95.74,Science
+STU541,Chemistry,9,94.42,Science
+STU546,Chemistry,9,90.88,Science
+STU547,Chemistry,9,99.04,Science
+STU563,Chemistry,9,87.88,Science
+STU568,Chemistry,9,90.65,Science
+STU576,Chemistry,9,92.21,Science
+STU578,Chemistry,9,92.58,Science
+STU589,Chemistry,9,93.16,Science
+STU59,Chemistry,9,79.01,Science
+STU595,Chemistry,10,89.19,Science
+STU598,Chemistry,9,93.42,Science
+STU601,Chemistry,9,90.08,Science
+STU604,Chemistry,9,92.49,Science
+STU629,Chemistry,9,90.8,Science
+STU636,Chemistry,9,88.71,Science
+STU640,Chemistry,9,88.58,Science
+STU644,Chemistry,9,100.6,Science
+STU645,Chemistry,9,93.06,Science
+STU647,Chemistry,9,95.67,Science
+STU648,Chemistry,9,90.24,Science
+STU661,Chemistry,9,102.96,Science
+STU666,Chemistry,9,93.37,Science
+STU673,Chemistry,9,97.59,Science
+STU679,Chemistry,9,82.04,Science
+STU681,Chemistry,9,93.77,Science
+STU688,Chemistry,9,90.84,Science
+STU69,Chemistry,9,89.56,Science
+STU690,Chemistry,9,90.55,Science
+STU691,Chemistry,9,91.17,Science
+STU696,Chemistry,9,86.11,Science
+STU697,Chemistry,9,92.47,Science
+STU700,Chemistry,9,95.94,Science
+STU701,Chemistry,9,88.96,Science
+STU705,Chemistry,9,96.26,Science
+STU711,Chemistry,9,88.89,Science
+STU713,Chemistry,9,87.83,Science
+STU714,Chemistry,9,98.06,Science
+STU727,Chemistry,9,99.59,Science
+STU756,Chemistry,9,94.8,Science
+STU760,Chemistry,9,87.88,Science
+STU762,Chemistry,9,84.27,Science
+STU771,Chemistry,9,97.14,Science
+STU777,Chemistry,9,96.98,Science
+STU782,Chemistry,12,92.93,Science
+STU783,Chemistry,9,91.23,Science
+STU786,Chemistry,9,91.42,Science
+STU800,Chemistry,9,101.46,Science
+STU804,Chemistry,9,97.67,Science
+STU807,Chemistry,9,96.98,Science
+STU812,Chemistry,9,97.08,Science
+STU820,Chemistry,9,85.47,Science
+STU829,Chemistry,9,89.93,Science
+STU834,Chemistry,9,101.9,Science
 STU843,Chemistry,9,99.39,Science
-STU844,Chemistry Honors,9,90.32,Science
 STU845,Chemistry,9,91.35,Science
 STU846,Chemistry,10,95.03,Science
 STU847,Chemistry,9,97.16,Science
+STU855,Chemistry,10,89.79,Science
+STU859,Chemistry,10,97.94,Science
+STU94,Chemistry,9,97.75,Science
+STU100,Chemistry AP,12,92.95,Science
+STU103,Chemistry AP,12,93.06,Science
+STU11,Chemistry AP,12,94.32,Science
+STU117,Chemistry AP,11,91.08,Science
+STU14,Chemistry AP,10,97.57,Science
+STU145,Chemistry AP,12,85.47,Science
+STU149,Chemistry AP,12,87.97,Science
+STU157,Chemistry AP,12,94.46,Science
+STU160,Chemistry AP,12,84.48,Science
+STU186,Chemistry AP,12,91.42,Science
+STU191,Chemistry AP,11,90.22,Science
+STU199,Chemistry AP,11,92.7,Science
+STU205,Chemistry AP,11,94.46,Science
+STU227,Chemistry AP,12,88.63,Science
+STU233,Chemistry AP,11,80.42,Science
+STU277,Chemistry AP,12,91.82,Science
+STU28,Chemistry AP,12,83.45,Science
+STU284,Chemistry AP,12,90.95,Science
+STU294,Chemistry AP,11,97.09,Science
+STU30,Chemistry AP,12,86.8,Science
+STU335,Chemistry AP,12,89.86,Science
+STU34,Chemistry AP,12,89.59,Science
+STU353,Chemistry AP,12,95.54,Science
+STU40,Chemistry AP,12,96.01,Science
+STU401,Chemistry AP,11,99.19,Science
+STU408,Chemistry AP,12,94.46,Science
+STU420,Chemistry AP,12,93.92,Science
+STU431,Chemistry AP,12,87.08,Science
+STU435,Chemistry AP,12,94.8,Science
+STU46,Chemistry AP,12,94.12,Science
+STU474,Chemistry AP,12,92.47,Science
+STU482,Chemistry AP,12,92.57,Science
+STU484,Chemistry AP,11,98.38,Science
+STU49,Chemistry AP,12,84.46,Science
+STU491,Chemistry AP,12,90.61,Science
+STU503,Chemistry AP,12,94.26,Science
+STU513,Chemistry AP,11,96.28,Science
+STU515,Chemistry AP,12,83.18,Science
+STU533,Chemistry AP,12,90.97,Science
+STU535,Chemistry AP,12,85.17,Science
+STU538,Chemistry AP,10,100.27,Science
+STU551,Chemistry AP,12,95.81,Science
+STU552,Chemistry AP,10,97.97,Science
+STU564,Chemistry AP,10,97.43,Science
+STU587,Chemistry AP,11,90.68,Science
+STU606,Chemistry AP,12,94.25,Science
+STU608,Chemistry AP,10,97.95,Science
+STU618,Chemistry AP,10,100.14,Science
+STU634,Chemistry AP,10,97.97,Science
+STU654,Chemistry AP,10,99.86,Science
+STU66,Chemistry AP,12,93.58,Science
+STU708,Chemistry AP,12,95.96,Science
+STU716,Chemistry AP,11,90.7,Science
+STU740,Chemistry AP,10,95.41,Science
+STU745,Chemistry AP,10,99.32,Science
+STU746,Chemistry AP,11,89.17,Science
+STU77,Chemistry AP,12,91.35,Science
+STU774,Chemistry AP,11,97.97,Science
+STU796,Chemistry AP,12,86.49,Science
+STU802,Chemistry AP,12,96.35,Science
+STU818,Chemistry AP,11,89.8,Science
+STU819,Chemistry AP,10,99.32,Science
+STU821,Chemistry AP,10,98.04,Science
+STU104,Chemistry Honors,9,87.52,Science
+STU109,Chemistry Honors,9,84.62,Science
+STU114,Chemistry Honors,9,82.61,Science
+STU144,Chemistry Honors,9,82.84,Science
+STU169,Chemistry Honors,9,93.19,Science
+STU188,Chemistry Honors,9,89.46,Science
+STU197,Chemistry Honors,9,95.59,Science
+STU209,Chemistry Honors,9,86.54,Science
+STU226,Chemistry Honors,9,89.46,Science
+STU257,Chemistry Honors,9,92.77,Science
+STU258,Chemistry Honors,9,89.72,Science
+STU278,Chemistry Honors,9,94.89,Science
+STU295,Chemistry Honors,9,96.42,Science
+STU308,Chemistry Honors,9,93.76,Science
+STU315,Chemistry Honors,9,92.89,Science
+STU321,Chemistry Honors,9,83.82,Science
+STU324,Chemistry Honors,9,92.65,Science
+STU330,Chemistry Honors,9,95.62,Science
+STU348,Chemistry Honors,9,93.57,Science
+STU359,Chemistry Honors,9,84.42,Science
+STU361,Chemistry Honors,9,90.71,Science
+STU362,Chemistry Honors,9,98.74,Science
+STU367,Chemistry Honors,9,86.01,Science
+STU370,Chemistry Honors,9,95.38,Science
+STU371,Chemistry Honors,9,89.59,Science
+STU376,Chemistry Honors,9,82.96,Science
+STU378,Chemistry Honors,9,84.58,Science
+STU380,Chemistry Honors,9,85.05,Science
+STU384,Chemistry Honors,9,96.75,Science
+STU388,Chemistry Honors,9,89.85,Science
+STU403,Chemistry Honors,9,92.72,Science
+STU404,Chemistry Honors,9,89.85,Science
+STU405,Chemistry Honors,9,85.05,Science
+STU413,Chemistry Honors,9,87.67,Science
+STU416,Chemistry Honors,9,95.71,Science
+STU42,Chemistry Honors,9,86.76,Science
+STU427,Chemistry Honors,9,89.52,Science
+STU429,Chemistry Honors,9,83.36,Science
+STU432,Chemistry Honors,9,89.75,Science
+STU460,Chemistry Honors,9,82.56,Science
+STU464,Chemistry Honors,9,89.59,Science
+STU498,Chemistry Honors,9,81.56,Science
+STU505,Chemistry Honors,9,87.08,Science
+STU508,Chemistry Honors,9,98.44,Science
+STU526,Chemistry Honors,9,91.84,Science
+STU53,Chemistry Honors,9,91.84,Science
+STU532,Chemistry Honors,9,86.6,Science
+STU534,Chemistry Honors,9,82.53,Science
+STU556,Chemistry Honors,9,97.15,Science
+STU560,Chemistry Honors,9,98.31,Science
+STU58,Chemistry Honors,9,89.99,Science
+STU580,Chemistry Honors,9,95.36,Science
+STU599,Chemistry Honors,9,89.53,Science
+STU605,Chemistry Honors,9,92.85,Science
+STU609,Chemistry Honors,9,82.96,Science
+STU612,Chemistry Honors,9,98.76,Science
+STU613,Chemistry Honors,9,81.9,Science
+STU619,Chemistry Honors,9,80.37,Science
+STU621,Chemistry Honors,9,84.95,Science
+STU625,Chemistry Honors,9,90.05,Science
+STU626,Chemistry Honors,9,89.26,Science
+STU63,Chemistry Honors,9,89.81,Science
+STU632,Chemistry Honors,9,92.52,Science
+STU637,Chemistry Honors,9,90.52,Science
+STU639,Chemistry Honors,9,96.49,Science
+STU643,Chemistry Honors,9,97.01,Science
+STU646,Chemistry Honors,9,79.58,Science
+STU651,Chemistry Honors,9,90.38,Science
+STU676,Chemistry Honors,9,85.25,Science
+STU683,Chemistry Honors,9,83.62,Science
+STU685,Chemistry Honors,9,81.63,Science
+STU693,Chemistry Honors,9,89.39,Science
+STU703,Chemistry Honors,9,79.24,Science
+STU704,Chemistry Honors,9,92.98,Science
+STU707,Chemistry Honors,9,90.57,Science
+STU710,Chemistry Honors,9,86.76,Science
+STU719,Chemistry Honors,9,96.51,Science
+STU730,Chemistry Honors,9,93.83,Science
+STU735,Chemistry Honors,9,86.54,Science
+STU736,Chemistry Honors,9,95.84,Science
+STU739,Chemistry Honors,9,83.96,Science
+STU743,Chemistry Honors,9,93.57,Science
+STU744,Chemistry Honors,9,95.32,Science
+STU761,Chemistry Honors,9,95.77,Science
+STU764,Chemistry Honors,9,89.99,Science
+STU769,Chemistry Honors,9,84.88,Science
+STU775,Chemistry Honors,9,97.59,Science
+STU781,Chemistry Honors,9,89.66,Science
+STU789,Chemistry Honors,9,96.35,Science
+STU790,Chemistry Honors,9,89.72,Science
+STU791,Chemistry Honors,9,91.64,Science
+STU793,Chemistry Honors,9,81.23,Science
+STU795,Chemistry Honors,9,86.89,Science
+STU811,Chemistry Honors,10,90.12,Science
+STU814,Chemistry Honors,9,90.38,Science
+STU823,Chemistry Honors,10,85.26,Science
+STU826,Chemistry Honors,9,99.67,Science
+STU831,Chemistry Honors,10,91.11,Science
+STU837,Chemistry Honors,9,96.68,Science
+STU839,Chemistry Honors,9,84.41,Science
+STU840,Chemistry Honors,9,94.03,Science
+STU841,Chemistry Honors,9,84.5,Science
+STU842,Chemistry Honors,9,97.94,Science
+STU844,Chemistry Honors,9,90.32,Science
 STU848,Chemistry Honors,9,97.2,Science
 STU849,Chemistry Honors,9,94.36,Science
-STU85,Biology AP,12,97.32,Science
 STU850,Chemistry Honors,9,87.93,Science
 STU851,Chemistry Honors,9,84.14,Science
 STU852,Chemistry Honors,10,96.29,Science
 STU853,Chemistry Honors,9,94.73,Science
 STU854,Chemistry Honors,9,92.59,Science
-STU855,Chemistry,10,89.79,Science
 STU856,Chemistry Honors,9,95.84,Science
 STU857,Chemistry Honors,10,82.53,Science
-STU858,Anatomy and Physiology Honors,11,88.44,Science
-STU859,Chemistry,10,97.94,Science
-STU86,Computer Science A AP,11,77.64,Science
-STU86,Anatomy and Physiology Honors,11,90.46,Science
+STU101,Environmental Science AP,11,92.63,Science
+STU103,Environmental Science AP,12,95.21,Science
+STU105,Environmental Science AP,11,93.15,Science
+STU112,Environmental Science AP,12,91.4,Science
+STU121,Environmental Science AP,11,82.84,Science
+STU122,Environmental Science AP,11,91.36,Science
+STU125,Environmental Science AP,11,88.07,Science
+STU128,Environmental Science AP,11,88.27,Science
+STU134,Environmental Science AP,12,88.26,Science
+STU137,Environmental Science AP,11,90.79,Science
+STU142,Environmental Science AP,12,74.32,Science
+STU151,Environmental Science AP,12,91.08,Science
+STU155,Environmental Science AP,12,91.67,Science
+STU16,Environmental Science AP,12,88.23,Science
+STU167,Environmental Science AP,11,95.34,Science
+STU170,Environmental Science AP,12,80.72,Science
+STU201,Environmental Science AP,11,87.86,Science
+STU205,Environmental Science AP,11,94.69,Science
+STU206,Environmental Science AP,12,86.95,Science
+STU21,Environmental Science AP,11,91.61,Science
+STU210,Environmental Science AP,11,92.96,Science
+STU211,Environmental Science AP,11,88.78,Science
+STU22,Environmental Science AP,11,90.9,Science
+STU230,Environmental Science AP,11,87.27,Science
+STU231,Environmental Science AP,12,72.19,Science
+STU232,Environmental Science AP,12,87.62,Science
+STU25,Environmental Science AP,11,92.89,Science
+STU261,Environmental Science AP,11,92.9,Science
+STU263,Environmental Science AP,11,90.08,Science
+STU270,Environmental Science AP,11,89.48,Science
+STU279,Environmental Science AP,11,89.84,Science
+STU291,Environmental Science AP,11,92.37,Science
+STU312,Environmental Science AP,11,91.16,Science
+STU336,Environmental Science AP,11,94.18,Science
+STU340,Environmental Science AP,12,88.17,Science
+STU343,Environmental Science AP,11,91.58,Science
+STU36,Environmental Science AP,11,91.66,Science
+STU37,Environmental Science AP,12,88.43,Science
+STU391,Environmental Science AP,11,93.44,Science
+STU425,Environmental Science AP,12,84.29,Science
+STU45,Environmental Science AP,11,89.86,Science
+STU452,Environmental Science AP,10,96.93,Science
+STU461,Environmental Science AP,11,88.07,Science
+STU466,Environmental Science AP,11,92.56,Science
+STU48,Environmental Science AP,11,91.43,Science
+STU488,Environmental Science AP,11,94.82,Science
+STU495,Environmental Science AP,12,91.28,Science
+STU499,Environmental Science AP,11,98.05,Science
+STU500,Environmental Science AP,12,86.08,Science
+STU502,Environmental Science AP,11,94.3,Science
+STU51,Environmental Science AP,12,94.95,Science
+STU521,Environmental Science AP,11,90.16,Science
+STU527,Environmental Science AP,12,84.09,Science
+STU531,Environmental Science AP,12,80.27,Science
+STU54,Environmental Science AP,12,88.76,Science
+STU540,Environmental Science AP,12,88.03,Science
+STU550,Environmental Science AP,11,94.81,Science
+STU567,Environmental Science AP,12,89.13,Science
+STU570,Environmental Science AP,11,94.79,Science
+STU577,Environmental Science AP,11,89.69,Science
+STU597,Environmental Science AP,11,91.87,Science
+STU602,Environmental Science AP,11,93.19,Science
+STU603,Environmental Science AP,12,79.22,Science
+STU62,Environmental Science AP,11,89.65,Science
+STU633,Environmental Science AP,11,93.98,Science
+STU64,Environmental Science AP,11,95.48,Science
+STU671,Environmental Science AP,11,96.06,Science
+STU674,Environmental Science AP,11,98.73,Science
+STU678,Environmental Science AP,12,94.04,Science
+STU687,Environmental Science AP,11,94.93,Science
+STU692,Environmental Science AP,11,83.89,Science
+STU695,Environmental Science AP,12,95.51,Science
+STU698,Environmental Science AP,12,90.51,Science
+STU716,Environmental Science AP,11,92.16,Science
+STU725,Environmental Science AP,11,96.58,Science
+STU74,Environmental Science AP,12,82.82,Science
+STU746,Environmental Science AP,11,95.07,Science
+STU747,Environmental Science AP,11,89.9,Science
+STU748,Environmental Science AP,11,95.93,Science
+STU76,Environmental Science AP,11,95.25,Science
+STU766,Environmental Science AP,11,88.73,Science
+STU768,Environmental Science AP,11,94.57,Science
+STU776,Environmental Science AP,11,90.57,Science
+STU79,Environmental Science AP,12,88.58,Science
+STU817,Environmental Science AP,11,95.31,Science
+STU828,Environmental Science AP,11,90.14,Science
+STU83,Environmental Science AP,12,94.96,Science
+STU838,Environmental Science AP,11,92.85,Science
+STU84,Environmental Science AP,11,88.67,Science
 STU87,Environmental Science AP,12,84.47,Science
-STU88,Physics I AP,12,88.31,Science
-STU89,Computer Science Principles AP,11,90.93,Science
 STU89,Environmental Science AP,11,91.31,Science
-STU9,Biology AP,12,84.73,Science
-STU9,Marine Science Honors,12,92.34,Science
-STU90,Biology AP,12,80.8,Science
-STU91,Marine Science Honors,11,91.94,Science
-STU92,Astronomy Honors,12,85.78,Science
 STU93,Environmental Science AP,11,88.66,Science
-STU94,Chemistry,9,97.75,Science
-STU95,Computer Science Principles AP,11,89.58,Science
-STU95,Astronomy Honors,11,91.6,Science
-STU96,Biology Honors,10,89.76,Science
-STU97,Physics C AP: Mechanics,12,90.98,Science
-STU98,Biology AP,11,84.6,Science
+STU112,Marine Science Honors,12,96.91,Science
+STU120,Marine Science Honors,12,93.77,Science
+STU134,Marine Science Honors,12,89.22,Science
+STU137,Marine Science Honors,11,95.39,Science
+STU154,Marine Science Honors,11,94.67,Science
+STU159,Marine Science Honors,10,95.77,Science
+STU164,Marine Science Honors,12,93.77,Science
+STU17,Marine Science Honors,11,92.47,Science
+STU178,Marine Science Honors,12,97.31,Science
+STU179,Marine Science Honors,11,94.1,Science
+STU180,Marine Science Honors,12,95.18,Science
+STU181,Marine Science Honors,12,93.75,Science
+STU185,Marine Science Honors,11,91.53,Science
+STU189,Marine Science Honors,11,90.68,Science
+STU2,Marine Science Honors,11,91.04,Science
+STU204,Marine Science Honors,11,93.86,Science
+STU212,Marine Science Honors,11,91.47,Science
+STU218,Marine Science Honors,11,93.28,Science
+STU220,Marine Science Honors,11,94.69,Science
+STU229,Marine Science Honors,11,97.6,Science
+STU24,Marine Science Honors,11,96.86,Science
+STU242,Marine Science Honors,11,94.58,Science
+STU251,Marine Science Honors,11,94.91,Science
+STU252,Marine Science Honors,11,95.27,Science
+STU253,Marine Science Honors,11,93.1,Science
+STU255,Marine Science Honors,11,92.79,Science
+STU26,Marine Science Honors,12,94.71,Science
+STU266,Marine Science Honors,10,97.31,Science
+STU275,Marine Science Honors,11,84.77,Science
+STU276,Marine Science Honors,11,95.03,Science
+STU399,Marine Science Honors,11,94.62,Science
+STU421,Marine Science Honors,12,89.34,Science
+STU430,Marine Science Honors,11,94.53,Science
+STU436,Marine Science Honors,11,90.19,Science
+STU439,Marine Science Honors,11,95.21,Science
+STU442,Marine Science Honors,11,94.09,Science
+STU458,Marine Science Honors,11,95.43,Science
+STU459,Marine Science Honors,11,92.61,Science
+STU473,Marine Science Honors,11,95.39,Science
+STU477,Marine Science Honors,11,97.47,Science
+STU478,Marine Science Honors,11,95.97,Science
+STU490,Marine Science Honors,12,94.62,Science
+STU492,Marine Science Honors,12,76.5,Science
+STU517,Marine Science Honors,12,86.25,Science
+STU521,Marine Science Honors,11,94.35,Science
+STU542,Marine Science Honors,11,79.3,Science
+STU549,Marine Science Honors,11,88.84,Science
+STU550,Marine Science Honors,11,95.52,Science
+STU57,Marine Science Honors,12,84.3,Science
+STU570,Marine Science Honors,11,98.21,Science
+STU588,Marine Science Honors,11,92.41,Science
+STU594,Marine Science Honors,11,91.49,Science
+STU670,Marine Science Honors,11,89.78,Science
+STU717,Marine Science Honors,11,84.86,Science
+STU742,Marine Science Honors,11,86.18,Science
+STU749,Marine Science Honors,11,92.43,Science
+STU76,Marine Science Honors,11,100.09,Science
+STU776,Marine Science Honors,11,95.8,Science
+STU787,Marine Science Honors,11,95.03,Science
+STU9,Marine Science Honors,12,92.34,Science
+STU91,Marine Science Honors,11,91.94,Science
 STU99,Marine Science Honors,11,97.89,Science
+STU102,Organic Chemistry Post-AP,12,96.54,Science
+STU132,Organic Chemistry Post-AP,12,96.05,Science
+STU133,Organic Chemistry Post-AP,12,93.83,Science
+STU141,Organic Chemistry Post-AP,12,97.92,Science
+STU153,Organic Chemistry Post-AP,12,98.77,Science
+STU168,Organic Chemistry Post-AP,11,99.01,Science
+STU172,Organic Chemistry Post-AP,12,95.31,Science
+STU290,Organic Chemistry Post-AP,12,95.8,Science
+STU418,Organic Chemistry Post-AP,11,98.77,Science
+STU444,Organic Chemistry Post-AP,12,94.81,Science
+STU483,Organic Chemistry Post-AP,12,95.06,Science
+STU487,Organic Chemistry Post-AP,11,98.77,Science
+STU518,Organic Chemistry Post-AP,11,98.77,Science
+STU622,Organic Chemistry Post-AP,12,98.27,Science
+STU70,Organic Chemistry Post-AP,12,96.54,Science
+STU770,Organic Chemistry Post-AP,11,98.02,Science
+STU12,Physics C AP: Mechanics,12,82.5,Science
+STU130,Physics C AP: Mechanics,12,91.14,Science
+STU162,Physics C AP: Mechanics,12,95.96,Science
+STU171,Physics C AP: Mechanics,12,93.45,Science
+STU172,Physics C AP: Mechanics,12,90.73,Science
+STU198,Physics C AP: Mechanics,12,91.16,Science
+STU203,Physics C AP: Mechanics,12,61.91,Science
+STU227,Physics C AP: Mechanics,12,91.93,Science
+STU23,Physics C AP: Mechanics,12,92.79,Science
+STU246,Physics C AP: Mechanics,12,87.09,Science
+STU347,Physics C AP: Mechanics,12,91.03,Science
+STU352,Physics C AP: Mechanics,12,88.49,Science
+STU355,Physics C AP: Mechanics,12,81.86,Science
+STU375,Physics C AP: Mechanics,12,82.84,Science
+STU377,Physics C AP: Mechanics,12,91.77,Science
+STU410,Physics C AP: Mechanics,12,86.17,Science
+STU428,Physics C AP: Mechanics,12,96.46,Science
+STU447,Physics C AP: Mechanics,12,91.79,Science
+STU479,Physics C AP: Mechanics,12,87.27,Science
+STU489,Physics C AP: Mechanics,12,91.74,Science
+STU52,Physics C AP: Mechanics,12,95.1,Science
+STU522,Physics C AP: Mechanics,12,92.83,Science
+STU524,Physics C AP: Mechanics,12,89.14,Science
+STU529,Physics C AP: Mechanics,12,98.44,Science
+STU55,Physics C AP: Mechanics,12,91.92,Science
+STU554,Physics C AP: Mechanics,12,77.85,Science
+STU596,Physics C AP: Mechanics,12,83.19,Science
+STU631,Physics C AP: Mechanics,12,91.03,Science
+STU686,Physics C AP: Mechanics,12,96.78,Science
+STU699,Physics C AP: Mechanics,12,60.6,Science
+STU718,Physics C AP: Mechanics,12,87.03,Science
+STU722,Physics C AP: Mechanics,12,90.63,Science
+STU728,Physics C AP: Mechanics,12,90.57,Science
+STU732,Physics C AP: Mechanics,12,83.44,Science
+STU799,Physics C AP: Mechanics,12,88.69,Science
+STU97,Physics C AP: Mechanics,12,90.98,Science
+STU118,Physics I AP,12,73.3,Science
+STU139,Physics I AP,12,80.79,Science
+STU147,Physics I AP,12,84.04,Science
+STU175,Physics I AP,12,80.35,Science
+STU223,Physics I AP,11,89.27,Science
+STU224,Physics I AP,12,74.62,Science
+STU360,Physics I AP,11,83.02,Science
+STU387,Physics I AP,12,82.54,Science
+STU39,Physics I AP,12,79.36,Science
+STU400,Physics I AP,12,91.53,Science
+STU445,Physics I AP,12,82.84,Science
+STU467,Physics I AP,11,82.03,Science
+STU483,Physics I AP,12,84.69,Science
+STU512,Physics I AP,12,84.19,Science
+STU530,Physics I AP,12,76.54,Science
+STU543,Physics I AP,12,65.61,Science
+STU544,Physics I AP,12,89.16,Science
+STU557,Physics I AP,11,91.39,Science
+STU583,Physics I AP,11,89.37,Science
+STU585,Physics I AP,11,88.91,Science
+STU592,Physics I AP,12,94.38,Science
+STU614,Physics I AP,12,80.53,Science
+STU64,Physics I AP,11,93.07,Science
+STU67,Physics I AP,12,90.96,Science
+STU682,Physics I AP,12,87.66,Science
+STU684,Physics I AP,12,92.72,Science
+STU715,Physics I AP,12,95.46,Science
+STU73,Physics I AP,11,89.78,Science
+STU738,Physics I AP,11,98,Science
+STU75,Physics I AP,11,95.31,Science
+STU763,Physics I AP,11,86.7,Science
+STU88,Physics I AP,12,88.31,Science
+STU184,Science Research I Honors,10,95,Science
+STU280,Science Research I Honors,10,95,Science
+STU281,Science Research I Honors,10,95,Science
+STU286,Science Research I Honors,10,95,Science
+STU311,Science Research I Honors,10,95,Science
+STU452,Science Research I Honors,10,95,Science
+STU538,Science Research I Honors,10,95,Science
+STU552,Science Research I Honors,10,95,Science
+STU558,Science Research I Honors,10,95,Science
+STU608,Science Research I Honors,10,95,Science
+STU654,Science Research I Honors,10,95,Science
+STU740,Science Research I Honors,10,95,Science
+STU745,Science Research I Honors,10,95,Science
+STU819,Science Research I Honors,10,95,Science
+STU821,Science Research I Honors,10,95,Science
+STU168,Science Research II Advanced,11,97,Science
+STU190,Science Research II Advanced,11,97,Science
+STU240,Science Research II Advanced,11,98,Science
+STU32,Science Research II Advanced,11,94,Science
+STU35,Science Research II Advanced,11,94,Science
+STU513,Science Research II Advanced,11,91,Science
+STU518,Science Research II Advanced,11,98,Science
+STU587,Science Research II Advanced,11,93,Science
+STU669,Science Research II Advanced,11,98,Science
+STU738,Science Research II Advanced,11,95,Science
+STU741,Science Research II Advanced,11,98,Science
+STU770,Science Research II Advanced,11,97,Science
+STU82,Science Research II Advanced,11,97,Science
+STU130,Science Research III Advanced,12,99,Science
+STU23,Science Research III Advanced,12,96,Science
+STU39,Science Research III Advanced,12,97,Science
+STU408,Science Research III Advanced,12,97,Science
+STU483,Science Research III Advanced,12,88,Science
+STU503,Science Research III Advanced,12,96,Science
+STU52,Science Research III Advanced,12,99,Science
+STU535,Science Research III Advanced,12,95,Science
+STU55,Science Research III Advanced,12,98,Science
+STU631,Science Research III Advanced,12,94,Science
+STU684,Science Research III Advanced,12,99,Science
+STU70,Science Research III Advanced,12,97,Science
+STU77,Science Research III Advanced,12,98,Science
