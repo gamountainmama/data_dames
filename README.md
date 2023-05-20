@@ -24,6 +24,9 @@ In this project, we aim to compare and analyze the demographics and test scores 
 
 The data will be cleaned to remove missing values, and extraneous outliers, and feature engineering will be applied to extract meaningful features. The cleaned data will be used to create a neural network using TensorFlow and Pytorch/PySpark to predict the outcome of the students.
 
+THe following model was used on all of the datasets to attempt to provide consistency.<img width="624" alt="neural" src="https://github.com/gamountainmama/data_dames/assets/40581033/fd2bcaae-fbc9-4232-8f89-c4bb16d19bd5">
+
+
 ### Data Sets:
 1) Kaggle Data Set - ‘This dataset contains information on the performance of high school students in mathematics, including their grades and demographic information. The data was collected from three high schools in the United States. 
 * Gender: The gender of the student (male/female)
