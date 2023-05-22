@@ -54,6 +54,7 @@ THe following model was used on all of the datasets to attempt to provide consis
 * math grade, 
 * science grade, and 
 * humanities grade.  
+  
 Since all students pass their computer science course, we considered success earning an A in the course. The accuracy of the model for Florida was 0.829.
 
 
