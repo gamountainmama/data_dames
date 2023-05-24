@@ -1,0 +1,17 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.image-container {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+  }
+  
+  .image-style {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  

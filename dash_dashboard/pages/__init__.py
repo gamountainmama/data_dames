@@ -1,0 +1,1 @@
+'''Create an empty __init__.py file in the main directory (the directory that contains both the app.py file and the apps folder). This file is necessary to make the directory a package.'''
