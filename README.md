@@ -58,8 +58,8 @@ THe following model was used on all of the datasets to attempt to provide consis
 Since all students pass their computer science course, we considered success earning an A in the course. 
 
 ### Tableau Dashboards:
-1) Kaggle: https://public.tableau.com/views/KaggleStudentPerformance/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
-2) Florida: https://public.tableau.com/views/FloridaPrivateSchoolData/StudentData?:language=en-US&:display_count=n&:origin=viz_share_link
-3) Georgia: https://public.tableau.com/views/RuralGAPublicSchoolData/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+1) Kaggle Student Data: https://public.tableau.com/views/KaggleStudentPerformance/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+2) Florida Private School Data: https://public.tableau.com/views/FloridaPrivateSchoolData/StudentData?:language=en-US&:display_count=n&:origin=viz_share_link
+3) Rural Georgia Public School: https://public.tableau.com/views/RuralGAPublicSchoolData/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
