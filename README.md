@@ -1,11 +1,11 @@
-# data_dames
+Data_Dames
 
-## Project Title: The Many Problems in Education
+## Project Title: Predictive Modeling in Education 
 
 ## Team Members:
-* Kendall Sanders, 
-* Carol Love, 
-* Sahmirah Muhammad, 
+* Kendall Sanders
+* Carol Love
+* Sahmirah Muhammad
 * Kelly Schuster-Parades
 
 ## Project Background:
@@ -46,7 +46,6 @@ THe following model was used on all of the datasets to attempt to provide consis
 * gifted, absences, 
 * Lexile level, and 
 * previous year’s scores.
-
 
 3) Private School Florida - This dataset contains over 5000 lines of information on course grades for students in 9-12 Grade. The Florida data uses the following features: 
 * grade, 
