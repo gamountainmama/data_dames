@@ -20,9 +20,9 @@ Gender and racial biases are also prevalent in education demographics, with cert
 
 In this project, we compared and analyzed the demographics and test scores of two different schools: a private wealthy school in Ft. Lauderdale and a small rural school in Georgia. The two schools represent vastly different socioeconomic situations, and we expected to observe significant differences in their student populations. We built a NN to predict the academic success of the students and determine if they will pass or fail their classes. 
 
-The data was cleaned to remove missing values and extraneous outliers, and we used feature engineering to extract the most meaningful factors. The cleaned data was used to create a neural network using TensorFlow and Pytorch/PySpark to predict the outcome of the students.
+The data was stored in MongoDB, and we created the necessary CSV files for analysis. The data was cleaned to remove missing values and extraneous outliers, and we used feature engineering to extract the most meaningful factors. The cleaned data was used to create a neural network using TensorFlow and Pytorch/PySpark to predict the outcome of the students.
 
-THe following model was used on all of the datasets to attempt to provide consistency.<img width="624" alt="neural" src="https://github.com/gamountainmama/data_dames/assets/40581033/fd2bcaae-fbc9-4232-8f89-c4bb16d19bd5">
+The following model was used on all of the datasets to attempt to provide consistency.<img width="624" alt="neural" src="https://github.com/gamountainmama/data_dames/assets/40581033/fd2bcaae-fbc9-4232-8f89-c4bb16d19bd5">
 
 
 ### Data Sets:
