@@ -125,7 +125,7 @@ def layout2():
         navbar,
         dbc.Container([   
             html.Div([
-                html.H1("The Problems in Standardizing Educational Data", className="display-4"),
+                html.H1("Predictive Modeling in Education", className="display-4"),
                 html.P('''Establishing standardized grading systems in independent schools can be a challenge due to the wide range of courses and resources. 
                     The numerous course offerings in independent schools also makes it difficult to easily find patterns. Furthermore, the demographics are primarily homogenic
                     making it difficult to identify demographic issues.'''),  # Added a comma at the end of this line
@@ -134,7 +134,7 @@ def layout2():
                     html.Img(src='../assets/pc_features.png', alt="My Image", style={'width': '60%', 'height': '30%'}),
                     html.A(
                         html.Img(src='../assets/pc_tableau.png', alt="My Image", style={'width': '40%', 'height': '30%', 'padding-left': '20px'}),
-                        href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/FloridaPrivateSchoolData/StudentData",
+                        href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/FloridaPrivateSchoolData/Story1",
                         target="_blank"
                     )
                 ]),

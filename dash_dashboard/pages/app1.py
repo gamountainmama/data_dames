@@ -69,7 +69,7 @@ def layout1():
             navbar,
             dbc.Container([
             html.Div([
-                    html.H1("The Problems in Standardizing Educational Data", className="display-4"),
+                html.H1("Predictive Modeling in Education", className="display-4"),
                     html.P(
                         "Education demographics is a complex and multifaceted field with various factors such as test scores, financial incomes, gender, race, ethnicity, "
                         "school location, and parental education levels. This area of study has many problems that can make it difficult to obtain accurate and reliable data."
@@ -131,9 +131,33 @@ def layout1():
             ),
             html.H3("Student Information Overview by Demographics"),
             dcc.Graph(id="update_score_graph", figure={}),
-            html.Img(src='../assets/neural.png', alt="My Image", style={'width': '90%', 'height': '60%'}),
+            html.P(""),
+            html.H3("Neural Network Model and Results"),
 
-        ],
+            html.Img(src='../assets/neural.png', alt="My Image", style={'width': '90%', 'height': '60%'}),
+            html.Div(
+                [
+                    html.Table(
+                        [
+                            html.Thead(
+                                html.Tr([html.Th("Test"), html.Th("Accuracy")])
+                            ),
+                            html.Tbody(
+                                [
+                                    html.Tr([html.Td("Reading"), html.Td("0.616")]),
+                                    html.Tr([html.Td("Writing"), html.Td("0.672")]),
+                                    html.Tr([html.Td("Math"), html.Td("0.608")]),
+                                    html.Tr([html.Td("Overall (average >= 70)"), html.Td("0.640")])
+                                ]
+                            ),
+                        ],
+                        style={"margin": "10px"},
+
+                    )
+                ],
+                className="col-md-5"
+            ),
+                ],
         className="container mt-4",
     ),],)
     return layout

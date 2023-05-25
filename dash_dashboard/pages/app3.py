@@ -56,7 +56,9 @@ def layout3():
         dbc.Container(
             [
                 navbar,
-                html.H1("Georgia Rural School", style={"padding": "10px"}),
+                html.H1("Predictive Modeling in Education", className="display-4"),
+
+                html.H2("Georgia Rural School", style={"padding": "10px"}),
                 html.P(
                     '''The Georgia Milestones data uses the following features: 
                     gender, ethnicity, English-language learners (ELL), students with 
