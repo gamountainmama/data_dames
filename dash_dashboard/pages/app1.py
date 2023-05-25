@@ -64,37 +64,38 @@ navbar = dbc.Navbar(
 )
 
 def layout1():
-    layout = html.Div(
-        [
-            navbar,
+   layout = html.Div(
+        dbc.Container(
+            [
+                navbar,
             dbc.Container([
             html.Div([
-                    html.H1("The Problems in Standardizing Educational Data", className="display-4"),
-                    html.P(
-                        "Education demographics is a complex and multifaceted field with various factors such as test scores, financial incomes, gender, race, ethnicity, "
-                        "school location, and parental education levels. This area of study has many problems that can make it difficult to obtain accurate and reliable data."
-                        "Here are three key problems in education demographics:",
-                        className="lead",),
+                html.H1("Predictive Modeling in Education",className="display-4"),
+                html.H2("Kaggle Synthetic School Data", style={"padding": "10px"}),
+
+                html.P(
+                    "Education demographics is a complex and multifaceted field with various factors such as test scores, financial incomes, gender, race, ethnicity, "
+                    "school location, and parental education levels. This area of study has many problems that can make it difficult to obtain accurate and reliable data."
+                    "Here are three key problems in education demographics:",
+                    style={"font-size": "21px"}),
                     html.Ul([
                             html.Li(
                                 '''Lack of standardized data collection methods: Different educational institutions and organizations may use different methods to collect data, 
-                                leading to inconsistencies and difficulties in comparing and analyzing the information.'''),
+                                leading to inconsistencies and difficulties in comparing and analyzing the information.''', 
+                                style={"font-size": "21px"}),
                             html.Li(
                                 '''Data privacy concerns: Education demographics often involve sensitive information about students and their families. Ensuring data privacy and 
-                                security while still extracting valuable insights can be challenging.'''),
+                                security while still extracting valuable insights can be challenging.''',
+                                style={"font-size": "21px"}),
                             html.Li(
-                                "Limited representation: Some demographic groups may be underrepresented or overlooked in education data, leading to biased analyses and inadequate policy decisions."), ],
+                                "Limited representation: Some demographic groups may be underrepresented or overlooked in education data, leading to biased analyses and inadequate policy decisions.", style={"font-size": "21px"}), ],
                         className="custom-list",),],
                 className="jumbotron",),
             dbc.Row([
                 dbc.Col(
                     [
-                        html.Img(src='../assets/kaggle_features.png', alt="My Image", style={'width': '90%', 'height': '50%'}),
-                        html.A(
-                            html.Img(src='../assets/kaggle_tableau.png', alt="My Image", style={'width': '80%', 'height': '40%','padding-left': '60px'}),
-                            href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/KaggleStudentPerformance/Story1",
-                            target="_blank"
-                        ),
+                        html.Img(src='../assets/kaggle_features.png', alt="My Image", style={'width': '100%', 'height': '60%'}),
+                
                     ],
                     width=6
                 ),
@@ -118,7 +119,9 @@ def layout1():
                                         className="table table-bordered table-hover", ), ],
                                 className="card mb-4",),  ],
                         width=6  ),  ] ),
-            
+            html.Img(src='../assets/kaggle_data.png', alt="My Image", style={'width': '80%', 'height': '50%'}),
+            html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+
             html.H3("Student Demographics"),
             dcc.Graph(id="scatter_plot_data"),
             html.P("Select a student index to view individual Student Demographics."),
@@ -131,12 +134,50 @@ def layout1():
             ),
             html.H3("Student Information Overview by Demographics"),
             dcc.Graph(id="update_score_graph", figure={}),
-            html.Img(src='../assets/neural.png', alt="My Image", style={'width': '90%', 'height': '60%'}),
+            
+            html.P(""),
+            html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
 
-        ],
+            html.H3("Neural Network Model and Results"),
+
+            html.Img(src='../assets/neural.png', alt="My Image", style={'width': '90%', 'height': '60%'}),
+            html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+            html.H3("Kaggle Data Set Model Accuracy"),
+            html.Div(
+                [
+                    html.Table(
+                        [
+                            html.Thead(
+                                html.Tr([html.Th("Test"), html.Th("Accuracy")])
+                            ),
+                            html.Tbody(
+                                [
+                                    html.Tr([html.Td("Reading"), html.Td("0.616")]),
+                                    html.Tr([html.Td("Writing"), html.Td("0.672")]),
+                                    html.Tr([html.Td("Math"), html.Td("0.608")]),
+                                    html.Tr([html.Td("Overall (average >= 70)"), html.Td("0.640")])
+                                ]
+                            ),
+                        ],
+                        style={"margin": "10px"},
+
+                    )
+                ],
+                className="col-md-5"
+            ),
+            html.P(""),
+            html.A(
+            html.Img(src='../assets/kaggle_tableau.png', alt="My Image", style={'width': '90%', 'height': '60%','padding-left': '60px'}),
+                        href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/KaggleStudentPerformance/Story1",
+                        target="_blank"
+                    ),
+                ],
         className="container mt-4",
-    ),],)
-    return layout
+        ),],
+        fluid=True,
+        )
+    )
+   return layout
 
 @app1.callback(
     Output("scatter_plot_data", "figure"),

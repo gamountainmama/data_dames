@@ -52,6 +52,8 @@ navbar = dbc.Navbar(
 def layout4():
     return dbc.Container([
             navbar,
+            html.H1("Predictive Modeling in Education", className="display-4"),
+
             html.H2("Analyzing On a Yearly Basis", style={"padding": "20px"}),
             html.P(
                 '''Education demographics is a complex and multifaceted field with various 

@@ -56,7 +56,9 @@ def layout3():
         dbc.Container(
             [
                 navbar,
-                html.H1("Georgia Rural School", style={"padding": "10px"}),
+                html.H1("Predictive Modeling in Education", className="display-4"),
+
+                html.H2("Georgia Rural School Data", style={"padding": "10px"}),
                 html.P(
                     '''The Georgia Milestones data uses the following features: 
                     gender, ethnicity, English-language learners (ELL), students with 
@@ -75,38 +77,40 @@ def layout3():
                     3 - Proficient Learner
                     4 - Distinguished Learner]
                     ''',
-                    style={"padding": "10px"}
+                    style={"padding": "10px","font-size": "21px"}
                 ),
-                html.H3("Neural Network Model", style={"padding": "10px"}),
-                html.P(
-                            '''
-                            We created a neural network model with two layers as shown on the left.\n
+                html.Img(src='../assets/ga_features.png', alt="My Image", style={'width': '40%', 'height': '30%'}),                
+                html.Img(src='../assets/ga_data.png', alt="My Image", style={'width': '40%', 'height': '30%'}),
+                html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
 
-                            The Georgia Milestones data uses the following features: gender, ethnicity, English-language learners (ELL), 
-                            students with disabilities (SWD), economic disadvantage (ED), student support team (ST), gifted, absences, 
-                            Lexile level, and previous year’s scores.
-                            ''',
-                            style={"padding": "40px"}
-                        ),
-                html.Div(
-                    [
-                        html.Img(src='../assets/neural.png', alt="My Image", style={'width': '90%', 'height': '60%'}),
-                        html.A(
-                            html.Img(src='../assets/ga_tableau.png', alt="My Image", style={'width': '90%', 'height': '70%','padding-left': '10px'}),
-                            href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/RuralGAPublicSchoolData/Story1",
-                            target="_blank"
-                        ),
-
-                        
+                dcc.Dropdown(
+                    id="student-dropdown2",
+                    options=[
+                        {"label": student_id, "value": student_id}
+                        for student_id in GAdemographics_df["Overall Pass"]
                     ],
-                    style={"display": "flex", "justify-content": "center"}
+                    value=GAdemographics_df["Overall Pass"].iloc[0]
                 ),
+                dcc.Graph(id="scatter_plot_data2"),
+                html.H3("Neural Network Model", style={"padding": "20px"}),
+                html.P( '''
+                         We created a neural network model with two layers as shown on the left.\n
+                        The Georgia Milestones data uses the following features: gender, ethnicity, English-language learners (ELL), 
+                        students with disabilities (SWD), economic disadvantage (ED), student support team (ST), gifted, absences, 
+                        Lexile level, and previous year’s scores.
+                        ''',
+                            style={"padding": "20px","font-size": "21px"}
+                        ),
+                html.P(""),
+                html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+
+                html.Img(src='../assets/neural.png', alt="My Image", style={'width': '50%', 'height': '30%'}),
+
                 html.Div(
                     [   
                         html.P(''),
                         html.P(''),
                         html.H3("Accuracy Results and Feature Ranking for Georgia Milestones"),
-                        html.Img(src='../assets/ga_features.png', alt="My Image", style={'width': '50%', 'height': '30%'}),
                         html.Div(
                             [
                                 html.Table(
@@ -135,17 +139,16 @@ def layout3():
                     className="row"
 
                 ),
-                dcc.Dropdown(
-                    id="student-dropdown2",
-                    options=[
-                        {"label": student_id, "value": student_id}
-                        for student_id in GAdemographics_df["Overall Pass"]
-                    ],
-                    value=GAdemographics_df["Overall Pass"].iloc[0]
-                ),
-                dcc.Graph(id="scatter_plot_data2"),
+                html.P(""),
+                html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+
+                html.A(
+                    html.Img(src='../assets/ga_tableau.png', alt="My Image", style={'width': '40%', 'height': '20%','padding-left': '10px'}),
+                    href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/RuralGAPublicSchoolData/Story1",
+                    target="_blank"
+                    ),
             ],
-            fluid=True,
+            # fluid=True,
         )
     )
     return layout

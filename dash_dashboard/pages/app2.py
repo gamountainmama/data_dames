@@ -125,19 +125,20 @@ def layout2():
         navbar,
         dbc.Container([   
             html.Div([
-                html.H1("The Problems in Standardizing Educational Data", className="display-4"),
+                html.H1("Predictive Modeling in Education",className="display-4"),
+                html.H2("Florida Private School Data", style={"padding": "10px"}),
+
                 html.P('''Establishing standardized grading systems in independent schools can be a challenge due to the wide range of courses and resources. 
                     The numerous course offerings in independent schools also makes it difficult to easily find patterns. Furthermore, the demographics are primarily homogenic
-                    making it difficult to identify demographic issues.'''),  # Added a comma at the end of this line
+                    making it difficult to identify demographic issues.''',style={"font-size": "21px"}),  # Added a comma at the end of this line
                 html.H2("Florida Private School Data", style={"padding": "10px"}),
                 html.Div([
                     html.Img(src='../assets/pc_features.png', alt="My Image", style={'width': '60%', 'height': '30%'}),
-                    html.A(
-                        html.Img(src='../assets/pc_tableau.png', alt="My Image", style={'width': '40%', 'height': '30%', 'padding-left': '20px'}),
-                        href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/FloridaPrivateSchoolData/StudentData",
-                        target="_blank"
-                    )
+                    html.Img(src='../assets/fl_data.png', alt="My Image", style={'width': '60%', 'height': '30%'}),
+
                 ]),
+                html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+
                 html.P(''),
                 dcc.Graph(id="scatter_plot_data2"),  # Add this line to display the graph
                 dcc.Dropdown(
@@ -151,9 +152,39 @@ def layout2():
             ]),
 
             dcc.Graph(id="scatter_plot_alldata"),
-            html.Img(src='../assets/neural.png', alt="My Image", style={'width': '90%', 'height': '60%'}),
 
-            
+            html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+            html.P(''),
+            html.Img(src='../assets/fl_neural.png', alt="My Image", style={'width': '90%', 'height': '60%'}),
+            html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+            html.H3("Florida Computer Science Data Model Accuracy"),
+
+            html.Div(
+                [
+                    html.Table(
+                        [
+                            html.Thead(
+                                html.Tr([html.Th("Test"), html.Th("Accuracy")])
+                            ),
+                            html.Tbody(
+                                [
+                                    html.Tr([html.Td("Computer Science"), html.Td("0.829")]),
+                                    ]
+                            ),
+                        ],
+                        style={"margin": "10px"},
+
+                    )
+                ],
+                className="col-md-5"
+            ), 
+            html.Hr(className="my-4", style={"border-top": "2px solid #ccc"}),
+
+            html.A(
+                html.Img(src='../assets/pc_tableau.png', alt="My Image", style={'width': '90%', 'height': '60%', 'padding-left': '20px'}),
+                href="https://public.tableau.com/app/profile/sahmirah.muhammad/viz/FloridaPrivateSchoolData/Story1",
+                target="_blank"
+                ),
         ]),
     ])
     return layout
